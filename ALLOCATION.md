@@ -79,3 +79,11 @@ Each category is owned by one writer. Root ids are fixed here so writers can lin
 - `what-if-everyone`: What if everyone went vegan?
 - `lab-meat-later`: I'll wait for lab-grown meat
 - `hitler-vegetarian`: Hitler was a vegetarian
+- `agree-but-still-eat-meat`: I agree with veganism in my head and heart, but I still eat meat
+
+## Explainers: Why we don't see it (content/explainers/)
+- `storybook-farm` (1): The storybook farm (children's books, songs, packaging vs. how farms run)
+- `walls-without-windows` (2): How slaughter is kept out of sight (location, ag-gag laws, Australian farm-trespass penalties)
+- `the-language` (3): Words that keep the animal out of the meat
+- `dogs-and-pigs` (4): Why we love dogs and eat pigs (meat paradox, 4Ns, Melanie Joy's 'carnism' concept, attributed)
+- `children-dont-start-here` (5): Children don't start out seeing animals as food (developmental research; the 'baby, apple and rabbit' argument as the weak version, reframed)

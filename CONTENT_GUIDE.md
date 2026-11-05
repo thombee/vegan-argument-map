@@ -64,3 +64,30 @@ For a **comeback** (child) node: `title` is the comeback as someone would type i
 - Don't duplicate a node another category owns (see `ALLOCATION.md`); link to it instead.
 - Don't mention any employer or any real private individual.
 - Don't use graphic descriptions for shock value; describe practices factually with a source.
+
+## Explainers: the "Why we don't see it" section
+
+A separate section of long-form pages about *why most people never think about this*: culture, concealment, language, psychology, childhood. These are not debate nodes and have no parent/children.
+
+File: `content/explainers/<id>.md`
+
+```markdown
+---
+id: storybook-farm                 # kebab-case, URL is /why/<id>/
+title: "The storybook farm"
+order: 1                           # position in the section
+summary: "One sentence, <= 220 chars."
+contrasts:                         # 2–5 rows for the opening "What we're shown / What the record shows" table
+  - shown: "Old MacDonald's farm: a red barn, a cow in a field, a pig in the mud"
+    record: "Most Australian pigs are raised indoors; ... (must be backed by a listed source)"
+sources:                           # same rules as nodes; every "record" cell and factual claim must be backed here
+  - title: "..."
+    url: "https://..."
+    supports: "..."
+reviewed: false
+---
+
+(600–1,100 words of essay, with `##` subheadings as needed, inline links to the sources. End with a `## In short` list of 3–4 bullets.)
+```
+
+Tone for explainers: can be moving, but through specific, sourced facts rather than adjectives. No graphic description, no images, no footage links. "Propaganda" or "marketing" may be used only for deliberate, documented industry campaigns; otherwise describe it as culture or habit. Never mock the reader: the point is "this was done to all of us", not "you are stupid for not seeing it".
