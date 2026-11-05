@@ -26,7 +26,7 @@ A small child does not arrive in the world knowing a pig is food. They have to b
 
 ## What the studies found
 
-Erin Hahn and colleagues tested young US children in a 2021 paper in the Journal of Environmental Psychology. As [reported by ScienceAlert](https://www.sciencealert.com/a-surprising-number-of-kids-in-the-us-think-hotdogs-are-actually-vegetables), 176 children aged 4 to 7 were asked to sort foods. About 41 per cent placed bacon in the vegetable-based category, and many put other animal products there too. The 6 to 7 year olds were much better at the task than the 4 to 5 year olds. When asked which items were "OK to eat", two-thirds of the younger group wrongly said a cow and a pig were not. We have only seen this paper through a news report, so treat the percentages as indicative.
+Erin Hahn and colleagues tested young US children in a 2021 paper in the Journal of Environmental Psychology. As [reported by ScienceAlert](https://www.sciencealert.com/a-surprising-number-of-kids-in-the-us-think-hotdogs-are-actually-vegetables), 176 children aged 4 to 7 were asked to sort foods. About 41 per cent placed bacon in the vegetable-based category, and many put other animal products there too. The 6 to 7 year olds were much better at the task than the 4 to 5 year olds. When asked which items were "OK to eat", two-thirds of the younger group said a cow and a pig were not (the study scored that as a mistake; we would call it a reasonable instinct). We have only seen this paper through a news report, so treat the percentages as indicative.
 
 A second study looked at older children and adults. Luke McGuire, Sally Palmer and Nadira Faber surveyed 479 people in England, aged 9 to 11, 18 to 21 and 29 to 59. [Children saw eating animals as less morally acceptable than adults did, felt farm animals deserved the same moral consideration as people and pets, and were about equally likely to classify pigs as pets or food](https://www.sciencedaily.com/releases/2022/04/220411101246.htm). The two adult groups looked similar, so the change appears to happen between about 11 and 18. Because the groups were different people at one point in time, it cannot show the same individuals changing. McGuire's own phrasing was cautious: even adults rated eating meat as less acceptable than using milk, so "aversion to animals being harmed does not disappear entirely."
 
@@ -46,7 +46,7 @@ That is a claim about how the habit forms. It does not prove that eating meat is
 
 ## In short
 
-- Many young children don't know that meat comes from animals, and in one US study about two-thirds of the younger group wrongly said cows and pigs were not OK to eat.
+- Many young children don't know that meat comes from animals, and in one US study about two-thirds of the younger group said cows and pigs were not OK to eat.
 - In an English study, children thought eating animals less acceptable than adults did, and were as likely to call a pig a pet as food.
 - The "baby, apple and rabbit" argument is weak: babies wouldn't eat raw grain either, and humans have eaten meat for a long time.
 - The stronger claim is that seeing animals as food is learned. That does not prove it wrong, but it removes "it's obvious" as an answer.
