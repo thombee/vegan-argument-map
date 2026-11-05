@@ -4,6 +4,10 @@ title: "Life is short; I'm going to enjoy it"
 category: social-practical
 parent: taste-bacon
 summary: "Life is short for the animal too; enjoying your own life doesn't entail needing this particular enjoyment."
+quick:
+  - "Nobody's asking for penance. A vegan life can be full of good food."
+  - "'Life is short' is also true of the pig, whose life ends earlier because of the meal. If a short life makes pleasure precious, it makes each life precious."
+  - "Enjoying life matters, but that doesn't show you need this specific pleasure. You can eat well and still decide some pleasures cost too much."
 tags: [pleasure, ethics]
 sources: []
 reviewed: true

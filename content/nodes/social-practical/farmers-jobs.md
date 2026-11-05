@@ -4,6 +4,11 @@ title: "What about farmers' livelihoods?"
 category: social-practical
 parent: null
 summary: "Farmers matter and a shift would need support; but a job existing has never made a harmful practice acceptable, and farms do change what they produce."
+quick:
+  - "It's a serious concern, and farmers aren't villains. A shift would have real costs for real communities, so it needs support for the people affected."
+  - "But jobs can't settle the moral question. Almost every practice we've ended employed people, and if that was enough, none could have been abolished."
+  - "Farmers can and do change. A study of 27 farms leaving livestock shows a path exists, though the sample is small."
+  - "Demand shifts gradually, which leaves time for support schemes, retraining and new markets."
 tags: [farming, jobs, rural]
 sources:
   - title: "Salliou & Béné (2023), farm transitions out of livestock farming ('transfarmation'), Frontiers in Sustainable Food Systems"

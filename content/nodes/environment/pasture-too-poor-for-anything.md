@@ -4,6 +4,12 @@ title: "Rewilding that land is a fantasy; nothing would be there to replace it"
 category: environment
 parent: non-arable-land
 summary: "Land use change is slow and not every pasture would regrow, but the estimates behind rewilding are published and the question is about direction, not instant results."
+quick:
+  - "Fair: restoration isn't automatic, and these are modelled estimates. The researchers say so themselves."
+  - "But nobody has to restore every hectare. Even partial restoration of the lowest-value pasture would store meaningful carbon."
+  - "The case against relying on cattle only needs the land to not be required for meat. A smaller herd on the best grazing land would be a very different system."
+  - "The transition for farmers is a real issue that deserves support."
+  - "Overall, ending demand for beef frees land, and some of it is more useful to climate and wildlife left natural."
 tags: [rewilding, pasture]
 sources:
   - title: "Hayek et al. (2021), The carbon opportunity cost of animal-sourced food production on land, Nature Sustainability"

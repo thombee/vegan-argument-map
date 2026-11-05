@@ -4,6 +4,9 @@ title: "Humans have always hunted; it's natural"
 category: welfare-products
 parent: hunting
 summary: "Bridge: the appeal to nature is covered on its own page."
+quick:
+  - "This is the appeal to nature, and it has its own page, It's natural; humans have always eaten meat."
+  - "A practice being old doesn't make it right. Few of us would accept that argument for other old practices."
 tags: [bridge, natural]
 sources: []
 reviewed: true

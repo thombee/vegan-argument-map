@@ -4,6 +4,12 @@ title: "Vegan diets rely on monocrops and palm oil"
 category: environment
 parent: null
 summary: "Monoculture is a real problem, but most cropland feeds animals, and palm oil is a small share of vegan diets and a relatively land-efficient oil."
+quick:
+  - "Monoculture does damage biodiversity, and palm oil has replaced rainforest in Indonesia and Malaysia. Those harms are real."
+  - "But most monoculture cropland already feeds animals: 41% of the world's cereals and 77% of soy go to feed."
+  - "Without the animals you'd need about 1 billion hectares, down from 4.1 billion."
+  - "And palm oil isn't a vegan thing. 68% goes to food, 27% to industrial uses and 5% to bioenergy, and a boycott would just shift the problem."
+  - "So choose certified, deforestation-free oils and eat less processed food. The numbers don't make a vegan diet the monoculture villain."
 tags: [palm-oil, monocrops, biodiversity]
 sources:
   - title: "Our World in Data, Palm oil"

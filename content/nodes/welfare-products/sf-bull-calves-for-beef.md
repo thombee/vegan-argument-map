@@ -4,6 +4,11 @@ title: "He raises the bull calves for beef, so nothing is wasted"
 category: welfare-products
 parent: small-farms
 summary: "Raising surplus calves is a real improvement on early slaughter, and RSPCA encourages it, but the calves are still killed for meat and the herd still has to produce them."
+quick:
+  - "It's better, and the RSPCA encourages it. A calf that lives on pasture for a year has had more life than one killed in its first week."
+  - "But the calf is still bred to be killed, and it's usually taken from its mother within a day."
+  - "'Nothing is wasted' is true of the product, not the animal. The animal's own life is what's been used."
+  - "If the calf's life matters to the calf, ending it at a profitable weight is the same act as ending it at a week old, just later."
 tags: [dairy, veal, calves, beef]
 sources:
   - title: "RSPCA Australia Knowledgebase, Does the RSPCA have animal welfare standards for dairy production?"

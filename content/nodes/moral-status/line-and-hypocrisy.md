@@ -4,6 +4,9 @@ title: "Vegans still kill insects driving or farming, so the line is hypocritica
 category: moral-status
 parent: where-do-you-draw-the-line
 summary: "Bridge: this is the vegans-are-hypocrites objection, answered on its own page."
+quick:
+  - "This is covered on the vegans-still-harm-animals and crops pages."
+  - "The aim is to reduce harm where practical, not to claim perfection."
 tags: [hypocrisy, bridge]
 sources: []
 reviewed: true

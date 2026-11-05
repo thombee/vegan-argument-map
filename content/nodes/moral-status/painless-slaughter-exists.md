@@ -4,6 +4,12 @@ title: "Modern slaughter is quick and painless"
 category: moral-status
 parent: death-without-suffering
 summary: "Stunning is meant to prevent suffering, but a UK advisory committee found a standard method causes pigs pain, respiratory distress and fear, so the claim cannot simply be assumed."
+quick:
+  - "Regulation and good staff matter, and stunning is meant to make the animal insensible. Where it works, it shortens suffering."
+  - "The question is whether it works for the main methods. A UK government advisory committee said high-concentration CO2 causes pigs pain, distress and fear."
+  - "It noted no significant changes to those systems since 2003 and recommended banning the method."
+  - "That's about a commercial method, not the worst operators. 'Approved' and 'painless' can be far apart."
+  - "It's about pigs and one method, but it shows painlessness needs evidence, not assumption."
 tags: [slaughter, stunning, welfare]
 sources:
   - title: "UK Animal Welfare Committee (2025), Opinion on the welfare impacts on pigs of high concentration CO2 gas stunning"

@@ -4,6 +4,11 @@ title: "If you need B12 supplements, it isn't natural"
 category: health
 parent: null
 summary: "B12 is made by bacteria, not animals or plants; livestock get it from gut bacteria and can need supplements themselves. Vegans need a reliable source, and that is true and well known."
+quick:
+  - "It's true vegans need a reliable B12 source, from fortified foods or a supplement. We don't dodge that."
+  - "But B12 isn't made by animals. It's made by certain bacteria, and cattle and sheep get it from bacteria in their stomachs."
+  - "So meat-eaters get it second-hand too, and livestock can run short as well."
+  - "Whether a nutrient comes in a pill or via a cow's gut doesn't decide if eating animals is justified. The supplement is cheap, reliable and effective."
 tags: [b12, supplements, natural]
 sources:
   - title: "Melina, Craig & Levin (2016), Position of the Academy of Nutrition and Dietetics: Vegetarian Diets, J Acad Nutr Diet"

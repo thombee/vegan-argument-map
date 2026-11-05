@@ -4,6 +4,11 @@ title: "There's no alternative to animal testing for safe medicines"
 category: welfare-products
 parent: animal-testing-medicine
 summary: "Animal models still play a large role and the law allows them, but the sector's own regulations now openly allow non-animal methods and a large share of drugs fail in human trials."
+quick:
+  - "Often that's true today. The law doesn't claim animals are replaced, and it still allows animal tests."
+  - "What's changed is the principle. Replacing animal methods is the first of the 3Rs, so regulators expect alternatives to be used when they work."
+  - "Animal testing isn't a guarantee either. One 2022 review says 90% of clinical drug development fails, so passing early tests is far from proof of a safe drug."
+  - "The sensible line isn't stopping tomorrow. It's funding replacement, requiring it where it works, and refusing animal use where there's no medical need."
 tags: [alternatives, 3Rs, regulation]
 sources:
   - title: "FDA Modernization Act 2.0, S.5002 (117th Congress), engrossed text"

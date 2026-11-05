@@ -4,6 +4,12 @@ title: "Separating the calf is for the calf's own health"
 category: welfare-products
 parent: dairy-doesnt-kill
 summary: "Disease risk is a real reason farmers give, but studies show the stress of separation grows the longer cow and calf are together, and separation exists to free up the milk."
+quick:
+  - "Disease risk is a real reason, and the RSPCA lists it. Most calves are removed within a day mainly to lower the risk of disease."
+  - "But in a controlled study, cows and calves reacted more strongly to separation at two weeks than at one day, so the bond grows fast."
+  - "In the same study, calves left with their mothers longer gained weight at over three times the rate in the first fortnight."
+  - "The cost to the farmer is less milk to sell during those weeks."
+  - "So early separation cuts some disease risk and keeps more milk for sale. It isn't purely for the calf."
 tags: [calves, separation, dairy, bonding]
 sources:
   - title: "RSPCA Australia Knowledgebase, What happens to bobby calves?"

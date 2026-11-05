@@ -4,6 +4,10 @@ title: "My family or partner won't change, and I can't cook two dinners"
 category: social-practical
 parent: agree-but-still-eat-meat
 summary: "You can change your own plate without changing the household; shared meals can be mostly plant-based with simple add-ons."
+quick:
+  - "That's a real constraint, and the answer isn't to turn dinner into a debate. You don't have to win anyone over to change your own plate."
+  - "Lots of meals work plant-based with meat added on the side, like curry, chilli or tacos on beans or lentils. One pot, not two dinners."
+  - "Start with meals you cook yourself, since nobody else has to agree. Say what you're doing once, calmly, then just do it."
 tags: [family, partner, practicality]
 sources: []
 reviewed: false

@@ -4,6 +4,11 @@ title: "Mulesing is being phased out, and plenty of wool is non-mulesed"
 category: welfare-products
 parent: wool
 summary: "Non-mulesed wool is better, but the RSPCA says the industry has not prioritised the breeding changes that would end it, so a large proportion of Merinos are still mulesed."
+quick:
+  - "Non-mulesed wool beats mulesed wool, and buying it is reasonable. The RSPCA urges retailers to buy only non-mulesed wool."
+  - "But the RSPCA says progress is slower than it should be. Millions of lambs are still mulesed each year in Australia, and pain relief isn't always used."
+  - "Changing a flock through breeding can take from a few years to more than ten, so 'being phased out' describes a direction, not a finished change."
+  - "A certification only guarantees what it measures. It says nothing about handling or the end of the animal's life."
 tags: [mulesing, wool, non-mulesed]
 sources:
   - title: "RSPCA Australia Knowledgebase, What is the RSPCA's view on mulesing and flystrike prevention in sheep?"

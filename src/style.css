@@ -10,6 +10,9 @@
   --badge-bg: #fff1c9;
   --badge-text: #5c4300;
   --focus: #b34700;
+  --theirs-bg: #f6f1ea;
+  --theirs-edge: #a8998a;
+  --quick-bg: #e8f3ef;
   --measure: 70ch;
 }
 @media (prefers-color-scheme: dark) {
@@ -25,6 +28,9 @@
     --badge-bg: #4a3a0b;
     --badge-text: #ffe9a8;
     --focus: #ffb070;
+    --theirs-bg: #1f1d1b;
+    --theirs-edge: #6d645b;
+    --quick-bg: #17302a;
   }
 }
 *, *::before, *::after { box-sizing: border-box; }
@@ -91,6 +97,20 @@ button.copy:hover { filter: brightness(1.08); }
 
 .objection { background: var(--surface); border: 1px solid var(--border); border-left: 4px solid var(--accent); border-radius: 8px; padding: 0.1rem 1.2rem 0.3rem; margin-top: 2rem; }
 .objection h2 { margin-top: 1rem; font-size: 1.1rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }
+.objection.theirs { background: var(--theirs-bg); border-left-color: var(--theirs-edge); border-left-style: dashed; }
+.quick { background: var(--quick-bg); border: 2px solid var(--accent); border-radius: 12px; padding: 0.2rem 1.2rem 0.8rem; margin: 2rem 0; }
+.quick h2 { font-size: 1.6rem; margin: 1rem 0 0.8rem; color: var(--accent); }
+.quick-list { list-style: none; padding: 0; margin: 0; }
+.quick-list li { position: relative; padding-left: 1.6rem; margin: 0 0 0.9rem; font-size: 1.3rem; line-height: 1.45; font-weight: 500; }
+.quick-list li::before { content: ""; position: absolute; left: 0; top: 0.55em; width: 0.7rem; height: 0.7rem; border-radius: 50%; background: var(--accent); }
+.quick-list li:last-child { margin-bottom: 0; }
+.full { margin: 0 0 2rem; border: 1px solid var(--border); border-radius: 8px; background: var(--surface); }
+.full > summary { cursor: pointer; padding: 0.9rem 1.2rem; font-weight: 600; font-size: 1.1rem; }
+.full[open] > summary { border-bottom: 1px solid var(--border); }
+.full-body { padding: 0 1.2rem 0.5rem; }
+.full-body h2:first-child { margin-top: 1rem; }
+.copy-row { margin-top: 2rem; }
+@media (max-width: 400px) { .quick { padding-left: 0.9rem; padding-right: 0.9rem; } .quick-list li { font-size: 1.15rem; } }
 .short { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 0.1rem 1.2rem 0.3rem; }
 .short h2 { margin-top: 1rem; }
 .sources { padding-left: 1.4rem; }

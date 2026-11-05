@@ -4,6 +4,10 @@ title: "The Bible puts humans first, not animals"
 category: social-practical
 parent: religion-dominion
 summary: "Human dignity is compatible with real obligations to animals; most religious traditions teach both."
+quick:
+  - "Taking human dignity seriously doesn't clash with this. The point isn't that a pig is a person, it's that being at the centre brings responsibility, not a free hand."
+  - "Many read Genesis as dominion paired with tilling and keeping. Pope Francis rejects a tyrannical anthropocentrism and says other creatures have a value of their own."
+  - "Caring about animals doesn't use up a fixed supply of concern for people, and those who care about one usually care about the other."
 tags: [religion, human-dignity]
 sources:
   - title: "Genesis 1:26-30 and 2:15 (NRSVUE), BibleGateway"

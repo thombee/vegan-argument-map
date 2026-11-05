@@ -4,6 +4,11 @@ title: "Local, seasonal produce is still the best choice"
 category: environment
 parent: food-miles
 summary: "Seasonal local produce is a good choice, but it matters less than avoiding animal products, and out of season local production can be worse than imports."
+quick:
+  - "Local seasonal produce is a good choice, and it supports regional growers."
+  - "But local is only better when it's in season. Out-of-season growing can cost more energy than shipping in-season crops from elsewhere."
+  - "Winter Spanish lettuce in the UK had three to eight times lower emissions than local, and Swedish greenhouse tomatoes used about ten times the energy."
+  - "Switching beef to legumes does far more than switching imported veg to local. Enjoy local veg, just don't use it to justify the steak."
 tags: [seasonal, local, greenhouse]
 sources:
   - title: "Our World in Data, You want to reduce the carbon footprint of your food? Focus on what you eat, not whether your food is local"

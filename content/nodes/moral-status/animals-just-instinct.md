@@ -4,6 +4,12 @@ title: "They just run on instinct; it's not real suffering"
 category: moral-status
 parent: animals-not-conscious
 summary: "Instinct and feeling are not opposites. Humans have instincts too, and the brain circuits behind emotion are shared across mammals and birds."
+quick:
+  - "Fair worry: scientists do separate reflex from felt pain. But instinct doesn't settle it."
+  - "Humans run on instinct too. Our flinch, fear and hunger are inherited and unlearned, and we feel every one."
+  - "Stimulating the same brain regions in animals and humans gives matching behaviour and feeling states, so the simplest explanation is the same kind of experience."
+  - "If instinct meant nothing was felt, a newborn's cry would be empty too. We don't think that."
+  - "We act on the best explanation of the evidence everywhere else, like when a dog yelps."
 tags: [instinct, reflex, emotion]
 sources:
   - title: "Low et al. (2012), The Cambridge Declaration on Consciousness"

@@ -4,6 +4,11 @@ title: "I've tried before and failed"
 category: social-practical
 parent: agree-but-still-eat-meat
 summary: "Habit research suggests one missed day barely matters, and that new routines take weeks to settle; a failed attempt is data, not a verdict."
+quick:
+  - "A failed attempt is useful information, not proof about your character. Work out what tripped you up, like hunger, travel or a family meal."
+  - "The habit research is encouraging. One missed day had little effect, though lots of missed repeats made the habit less automatic."
+  - "Some people just need longer to make a habit stick, and that's not a failing."
+  - "So aim smaller than last time: one meal, one dish, a few repeats a week."
 tags: [habits, relapse]
 sources:
   - title: "Lally et al. (2010), How are habits formed: Modelling habit formation in the real world, European Journal of Social Psychology (British Psychological Society Research Digest summary)"

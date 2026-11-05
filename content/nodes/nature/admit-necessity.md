@@ -4,6 +4,11 @@ title: "So you admit it's not really wrong, just inconvenient"
 category: nature
 parent: desert-island
 summary: "Admitting a rare exception doesn't make the rule unimportant; the exception is defined by real need, which is the thing most of us lack."
+quick:
+  - "Conditional isn't the same as weak. A rule that gives way to survival is still a rule."
+  - "Plenty of serious commitments work like that. You don't lie, but you might to hide someone from a killer."
+  - "On the island, refusing costs your life. In a supermarket it just means a different recipe."
+  - "\"Sometimes it's justified\" doesn't turn into \"always justified\". Necessity is what makes the exception."
 tags: [hypothetical, necessity]
 sources: []
 reviewed: true

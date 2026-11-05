@@ -4,6 +4,12 @@ title: "So the vegan diet is simply unhealthy?"
 category: health
 parent: vegans-break-more-bones
 summary: "No: systematic reviews find lower rates of heart disease and some cancer in vegetarians, and EPIC-Oxford vegans have lower diabetes risk, alongside higher fracture risk; the evidence is mixed and mostly observational."
+quick:
+  - "Neither \"miracle diet\" nor \"unhealthy\" is what the evidence says."
+  - "Observational studies found lower heart disease and cancer risk for vegetarians and lower cancer risk for vegans, though the vegan result came from few studies."
+  - "EPIC-Oxford found vegans had lower risk of diabetes, diverticular disease and cataracts, but a higher risk of fractures. Vegetarians had more stroke."
+  - "The evidence is observational and low to very low certainty, so we don't say the diet cures or prevents disease."
+  - "A well-planned vegan diet is a sound way to eat with some things to manage. The ethical case only needs it to be adequate."
 tags: [health-outcomes, epic-oxford, meta-analysis]
 sources:
   - title: "Dinu et al. (2017), Vegetarian, vegan diets and multiple health outcomes: a systematic review with meta-analysis of observational studies, Crit Rev Food Sci Nutr"

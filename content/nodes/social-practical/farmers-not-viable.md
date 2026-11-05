@@ -4,6 +4,9 @@ title: "Most farms can't switch; the land only suits animals"
 category: social-practical
 parent: farmers-jobs
 summary: "Some land really does suit grazing better than crops, which is its own question; many farms, and much feed cropland, can be used differently."
+quick:
+  - "Some land really is poorly suited to crops, and that's got its own page. But most agricultural land, around 80%, goes to meat and dairy, including feed crops."
+  - "Farms that truly can't grow anything else need a transition plan for land use and income. That's a policy conversation alongside the ethics, not instead of it."
 tags: [land, farming]
 sources:
   - title: "Our World in Data, If the world adopted a plant-based diet, we would reduce global agricultural land use from 4 to 1 billion hectares"

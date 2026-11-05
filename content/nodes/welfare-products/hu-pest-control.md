@@ -4,6 +4,11 @@ title: "Feral animals and deer have to be controlled, and hunters do it"
 category: welfare-products
 parent: hunting
 summary: "Controlling invasive species is a different question from recreational hunting, and the welfare standards matter; the argument does not support hunting as a food hobby."
+quick:
+  - "Invasive animal management is a real problem, and it has nothing to do with veganism either way."
+  - "Where control's needed, the question is how to do it with the least suffering. Ask that of hunters and professionals alike."
+  - "In a study of professional shooters, 85% of deer shot at were killed, and better training would improve outcomes. Hold volunteers to measurable welfare standards too."
+  - "It's a separate argument from 'hunting is more ethical than farming'. Needed pest control isn't a reason to hunt for sport or flavour."
 tags: [feral-animals, deer, pest-control]
 sources:
   - title: "Hampton, MacKenzie & Forsyth (2022), Animal welfare outcomes of professional vehicle-based shooting of peri-urban rusa deer in Australia, Wildlife Research"

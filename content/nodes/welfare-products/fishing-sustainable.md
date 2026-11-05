@@ -4,6 +4,12 @@ title: "Sustainable fishing is fine"
 category: welfare-products
 parent: null
 summary: "Sustainability is about fish stocks, not the fish: the animals are still caught in vast numbers, may feel pain, and many are killed as discards."
+quick:
+  - "Sustainability and welfare are different questions. 'Sustainable' means the stock can replace what's taken. It says nothing about the individual fish."
+  - "Not all stocks are in trouble, but the share of marine stocks fished within sustainable levels fell to 62.3% in 2021."
+  - "The numbers are huge. One estimate puts wild finfish catch at 1.1 to 2.2 trillion a year, and discards come on top."
+  - "Bony fish have nociceptors like mammals and show pain-related changes that painkillers reduce."
+  - "A sustainable fishery is good for the ocean, but it's still a harm to the fish, and it's avoidable."
 tags: [fishing, sustainability, bycatch, fish-welfare]
 sources:
   - title: "FAO, The State of World Fisheries and Aquaculture 2024 (press release)"

@@ -4,6 +4,11 @@ title: "I only buy line-caught or certified fish"
 category: welfare-products
 parent: fishing-sustainable
 summary: "Selective gear reduces bycatch and certification signals better management, but neither addresses the capture and death of the fish themselves."
+quick:
+  - "The difference is real. Trawl fisheries, especially bottom trawls, have the discard problems, so avoiding them reduces that harm."
+  - "But selective gear fixes the bycatch problem, not the fish problem. The target fish are still hauled out and killed."
+  - "One 2024 review says the welfare of wild-caught fish is generally very poor during and after capture."
+  - "A label says the fishery's well managed, not that it's harmless. It's a step in the right direction, like higher-welfare farming."
 tags: [certification, line-caught, bycatch]
 sources:
   - title: "Gilman et al. (2020), Benchmarking global fisheries discards, Scientific Reports"

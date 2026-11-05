@@ -4,6 +4,11 @@ title: "Soy is bad for you / soy feminises men"
 category: health
 parent: null
 summary: "Two meta-analyses of clinical trials (over 40 studies) found soy foods and isoflavones do not change testosterone or oestrogen in men; soy is one useful food among many in vegan diets."
+quick:
+  - "This is one of the best-studied questions in nutrition, and the clinical evidence doesn't support the worry."
+  - "A meta-analysis of 41 clinical studies in men found no significant effect on testosterone or oestrogens, whatever the dose or duration. An earlier one agreed."
+  - "Case reports are real but can't show soy was the cause or outweigh controlled trials. Trials are limited in length, so stick to ordinary servings, not litres a day."
+  - "Soy is useful, not required. If you have a thyroid condition or take medication, ask your doctor, since this research is on healthy men."
 tags: [soy, isoflavones, testosterone, phytoestrogens]
 sources:
   - title: "Reed et al. (2021), Neither soy nor isoflavone intake affects male reproductive hormones: an expanded and updated meta-analysis of clinical studies, Reprod Toxicol"

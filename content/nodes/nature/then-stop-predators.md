@@ -4,6 +4,9 @@ title: "Then you'd have to stop lions from killing too"
 category: nature
 parent: humans-are-animals-too
 summary: "Whether to intervene in wild predation is a separate and hard question; our duty not to cause avoidable harm doesn't depend on answering it."
+quick:
+  - "Our duty not to harm is stronger than any duty to rescue, and we owe different things for harms we cause than for ones in the wild."
+  - "You can think we shouldn't buy and eat animals without thinking we must police ecosystems we barely understand."
 tags: [wild-animal-suffering]
 sources: []
 reviewed: true

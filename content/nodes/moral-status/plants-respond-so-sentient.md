@@ -4,6 +4,11 @@ title: "But plants send signals, release chemicals and even learn"
 category: moral-status
 parent: plants-feel-pain
 summary: "Signalling, chemical defence and habituation exist in organisms that nobody thinks are conscious. They are evidence of responsiveness, not experience."
+quick:
+  - "Those findings are real. The question is what they're evidence of."
+  - "Plant biologists say plant signalling is genetically encoded and shaped by natural selection, as you'd expect without a nervous system. It's a live disagreement."
+  - "To tell responsive from feeling, look at brain structures, flexible costly behaviour and evolutionary pressures. Animal evidence points one way, plants so far the other."
+  - "Nothing depends on certainty. If plants might matter, eat plants directly, since animals eat many more of them."
 tags: [plants, signalling, mimosa]
 sources:
   - title: "Sci.News (2019), Plants Neither Possess Nor Require Consciousness, Biologists Say (reporting Taiz et al., Trends in Plant Science)"

@@ -4,6 +4,11 @@ title: "Plants are alive too, so it's all killing"
 category: moral-status
 parent: plants-feel-pain
 summary: "Being alive is not what makes killing wrong. Bacteria, grass and sentient animals are all alive; only the last can be harmed in a way that matters to it."
+quick:
+  - "Most people already draw a line inside life. Nobody thinks washing their hands is wrong, though bacteria die."
+  - "The usual answer is sentience: being able to experience things so they can go better or worse for you."
+  - "Felling a tree may be a loss to the ecosystem and us. But on current evidence there's nobody there it's happening to."
+  - "Some philosophers argue for respecting all living things. Even then, quantity matters, and eating animals takes far more plant life than eating plants."
 tags: [life, sentience, killing]
 sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"

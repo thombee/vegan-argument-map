@@ -4,6 +4,12 @@ title: "A good life and one bad day is a fair trade"
 category: welfare-products
 parent: humane-meat
 summary: "A good life does not give us a right to end it; we do not accept this trade for humans or pets, and the animal's life is the thing taken."
+quick:
+  - "Death isn't one bad day to weigh against good ones. It ends every good day the animal would've had left."
+  - "We don't reason this way anywhere else. Keep a dog happy for three years and kill it painlessly for stew, and the earlier happiness wouldn't make it okay."
+  - "The difference is our attachment to the dog, not anything the animal feels. A pig can be just as aware and attached to life."
+  - "The 'wouldn't exist otherwise' point has its own page."
+  - "Fair concession: weighing is a fine way to compare two farms. A good life beats a bad one. It just can't justify the killing."
 tags: [slaughter, philosophy, interests]
 sources: []
 reviewed: true

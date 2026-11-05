@@ -4,6 +4,12 @@ title: "Cow methane is part of a natural cycle"
 category: environment
 parent: null
 summary: "Methane breaks down quickly, so steady herds are not adding new warming, but livestock are a third of human-caused methane, and cutting methane is one of the fastest levers we have."
+quick:
+  - "There's real science here. Methane doesn't pile up like CO2, so a steady flow roughly holds its warming steady."
+  - "But steady isn't harmless. That warming is already in the system, and methane is about 30% of warming since pre-industrial times."
+  - "Livestock are roughly 32% of human-caused methane, so cutting it is one of the quickest ways to slow warming."
+  - "Even with methane left out, average beef still emits 36 kg CO2eq per kg, nearly four times chicken."
+  - "And 'natural cycle' is about carbon, not suffering. It doesn't tell us whether it's right to raise and kill animals."
 tags: [methane, cattle, biogenic, gwp]
 sources:
   - title: "Our World in Data, The carbon footprint of foods: are differences explained by the impacts of methane?"

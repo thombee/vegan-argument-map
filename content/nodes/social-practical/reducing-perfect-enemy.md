@@ -4,6 +4,11 @@ title: "Insisting on perfection puts people off; better to welcome any reduction
 category: social-practical
 parent: reducing-is-enough
 summary: "Welcoming every step is good practice; saying where the steps lead is not the same as demanding perfection."
+quick:
+  - "Good point about how to talk. Meet people where they are, welcome each step, and don't make anyone feel they've failed over cheese."
+  - "Welcoming steps isn't the same as saying the steps are the goal. A doctor can praise fewer cigarettes while saying the aim is to stop."
+  - "Veganism isn't all or nothing either. It's defined as excluding exploitation 'as far as is possible and practicable', which is judgment, not a pass-fail test."
+  - "So celebrate every reduction, and say plainly and kindly where the reasoning leads."
 tags: [strategy, flexitarian]
 sources:
   - title: "The Vegan Society, Definition of veganism"

@@ -4,6 +4,11 @@ title: "The law already protects animals, so farming is humane"
 category: social-practical
 parent: its-legal
 summary: "Welfare laws limit some treatment of animals, but they allow the killing itself, so they don't answer whether it's justified."
+quick:
+  - "Welfare laws are a real improvement and worth defending. A society with standards beats one without."
+  - "But they regulate how animals are treated while allowing the practice itself. Laws about how something is done don't say it's right."
+  - "The UK sentience law covers vertebrates, cephalopods and decapod crustaceans. If they're sentient, can killing them for taste be defended at all?"
+  - "You can hold both: welfare laws beat none, and they don't make the practice fine."
 tags: [law, welfare]
 sources:
   - title: "Animal Welfare (Sentience) Act 2022, legislation.gov.uk"

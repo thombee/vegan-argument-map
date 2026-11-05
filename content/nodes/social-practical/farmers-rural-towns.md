@@ -4,6 +4,11 @@ title: "Rural communities depend on it and can't just switch"
 category: social-practical
 parent: farmers-jobs
 summary: "Change would be gradual and needs support; a harmful practice's local economic role is a reason for a managed transition, not a reason to continue."
+quick:
+  - "Fair point about who's giving the advice. A gradual, supported shift is the sensible way, and the people who bear the cost aren't the ones asking for it."
+  - "Speed matters. Diets change over years, and a transition with retraining, new markets and public support is very different from a sudden collapse."
+  - "The study of farms leaving livestock suggests support helps, but some moves were for money, not conviction. It shouldn't be oversold."
+  - "Hurting rural communities is a reason to plan a fair transition, not a reason to say the question doesn't matter."
 tags: [rural, economics]
 sources:
   - title: "Salliou & Béné (2023), farm transitions out of livestock farming ('transfarmation'), Frontiers in Sustainable Food Systems"

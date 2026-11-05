@@ -4,6 +4,10 @@ title: "Change has to come from governments and corporations, not diets"
 category: social-practical
 parent: one-person-no-difference
 summary: "Policy and personal change reinforce each other; waiting for one to go first is how neither happens."
+quick:
+  - "Policy matters, and a lot of the big levers are collective. Few would argue against campaigning for better rules."
+  - "But the two don't compete. Laws change when enough people want them to, and markets appear when people buy. Waiting for governments means waiting for voters."
+  - "It's not either-or. You can eat differently, talk about it, and vote or advocate. The objection treats policy work as a reason to skip the part already in your hands."
 tags: [policy, collective-action]
 sources: []
 reviewed: true

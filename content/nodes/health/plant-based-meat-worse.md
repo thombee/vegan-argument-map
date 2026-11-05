@@ -4,6 +4,11 @@ title: "But plant-based burgers are worse than real meat"
 category: health
 parent: processed-vegan-food
 summary: "The healthfulness of plant-based meats is debated; UK data show people who eat them have better overall nutrient intakes than non-consumers, though that doesn't prove the products themselves are healthy."
+quick:
+  - "It's an open question. There's debate on whether whole-food plant diet benefits carry over to plant-based meats, and reading the label is sensible."
+  - "In a UK survey, people who ate them ate more fruit, veg and pulses and less meat, with higher fibre and several vitamins and minerals."
+  - "It's a cross-sectional survey, so it can't show the products themselves are healthy, just that they sit in diets that aren't worse."
+  - "Compare burger with burger: WHO classes processed meat as carcinogenic. If processing worries you, beans, lentils, tofu and tempeh are the minimal option."
 tags: [plant-based-meat, ultra-processed, nutrition]
 sources:
   - title: "Messina et al. (2025), Dietary guidance on plant-based meat alternatives for individuals wanting to increase plant protein intake, Front Nutr"

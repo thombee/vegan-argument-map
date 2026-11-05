@@ -4,6 +4,12 @@ title: "A fish jerking on a hook is just a reflex"
 category: moral-status
 parent: fish-dont-feel-pain
 summary: "A reflex ends when the stimulus ends. In trout, changes in feeding, breathing and behaviour persisted afterwards, which is what pain-like experience predicts and a reflex does not."
+quick:
+  - "Good distinction: detecting harm isn't the same as feeling pain, and thrashing alone doesn't prove it."
+  - "In the trout studies, researchers measured what happened afterwards. Breathing rate rose, feeding resumed late, and behaviour was unusual."
+  - "A reflex fires and finishes. This was a sustained change that lasted a long time."
+  - "It's still behavioural evidence, but it matches what we accept as evidence of pain in mammals."
+  - "So fish suffering isn't a vegan invention. It's a result published in a major biology journal."
 tags: [reflex, nociception, trout]
 sources:
   - title: "Sneddon, Braithwaite & Gentle (2003), Do fishes have nociceptors?, Proceedings of the Royal Society B"

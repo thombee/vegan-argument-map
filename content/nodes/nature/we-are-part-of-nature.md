@@ -4,6 +4,9 @@ title: "We are part of nature, so what we do is natural"
 category: nature
 parent: animals-eat-each-other
 summary: "Even if everything we do is natural, that doesn't tell us what's right; see the discussion of naturalness."
+quick:
+  - "If everything humans do is natural, \"natural\" can't separate good from bad. It covers kindness and cruelty alike."
+  - "So naturalness can't decide a moral question."
 tags: [natural]
 sources: []
 reviewed: true

@@ -4,6 +4,11 @@ title: "Your cat eats meat / vegans own pets"
 category: welfare-products
 parent: null
 summary: "Cats are obligate carnivores, and a vegan cat diet needs expert care; but adopting animals who need homes is not the same as buying, breeding or farming them."
+quick:
+  - "Cats are obligate carnivores. They need nutrients like taurine from animal ingredients, and a poor diet can cause harm."
+  - "Evidence on vegan cat food is thin, not alarming. Two owner surveys found no extra health problems, but they're owner-reported."
+  - "Choose a complete diet with a vet's advice, and put the cat's welfare first. Some vegans feed meat-based food for that reason, and that's a tension worth admitting."
+  - "Keeping a rescued pet isn't exploiting an animal. The ethical problems come with breeding and selling, which is why adopting is the consistent approach."
 tags: [pets, cats, dogs, pet-food, obligate-carnivore]
 sources:
   - title: "Dodd et al. (2021), A cross-sectional study of owner-reported health in Canadian and American cats fed meat- and plant-based diets, BMC Veterinary Research"

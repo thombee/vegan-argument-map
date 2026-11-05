@@ -4,6 +4,10 @@ title: "Bees are just insects; nobody should care about them"
 category: welfare-products
 parent: honey
 summary: "Bridge: the question of insect sentience has its own page."
+quick:
+  - "Whether insects count has its own page, What about insects, oysters and mussels?"
+  - "Scientists disagree on how likely insect sentience is, but the New York Declaration describes a realistic possibility."
+  - "Uncertainty is a reason to avoid an unnecessary harm, not to ignore it."
 tags: [bridge, insects, sentience]
 sources:
   - title: "New York Declaration on Animal Consciousness (2024)"

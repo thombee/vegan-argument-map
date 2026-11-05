@@ -4,6 +4,12 @@ title: "Crops kill animals too"
 category: nature
 parent: null
 summary: "Harvests do kill field animals, but animal farming needs far more cropland, so eating plants directly kills fewer; and the best numbers are uncertain."
+quick:
+  - "This is a real issue and vegans shouldn't wave it away. Crop farming does kill and displace wild animals."
+  - "But animal farming needs much more cropland, not less. About 36% of crop calories go to animal feed, and only 12% of those come back as food for us."
+  - "So eating animals means growing the crops, with their field deaths, and then killing the animals too. Cutting out the middle step uses less land."
+  - "The death count is shaky too. Fischer and Lamey's estimate rests on thin evidence, and they judged it clearly too high."
+  - "So reduce harm where we can: wildlife-friendly farming and eating plants directly. It's no reason to kill farm animals we don't need to."
 tags: [crops, least-harm, field-deaths]
 sources:
   - title: "Cassidy et al. (2013), Redefining agricultural yields: from tonnes to people nourished per hectare, Environmental Research Letters"

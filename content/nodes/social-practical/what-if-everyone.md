@@ -4,6 +4,12 @@ title: "What if everyone went vegan?"
 category: social-practical
 parent: null
 summary: "Everyone won't switch overnight; and modelling suggests a plant-based world would use far less land and could be nutritionally adequate, with real transition problems to manage."
+quick:
+  - "It won't happen overnight. Diets shift gradually, so farms, workers and markets adjust along the way. It's about direction, not a single day."
+  - "Models point the other way from disaster. A fully vegan diet would shrink farmland a lot, since around 80% currently serves meat and dairy."
+  - "The same modelling found big cuts in food-related emissions and avoided deaths, though those are models with assumptions, not forecasts."
+  - "The real problems are real: a fair deal for farmers and rural communities, and what happens to existing animals."
+  - "'It'd be a problem if everyone did it' is a poor moral test. If everyone stopped a wrong, its industries would be disrupted too. Manage the change, don't keep the wrong."
 tags: [thought-experiment, food-system, transition]
 sources:
   - title: "Our World in Data, If the world adopted a plant-based diet, we would reduce global agricultural land use from 4 to 1 billion hectares"

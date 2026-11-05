@@ -4,6 +4,10 @@ title: "Hitler was a vegetarian"
 category: social-practical
 parent: null
 summary: "Historians dispute how strictly he followed it, and in any case what a person ate says nothing about whether the argument for animals is sound."
+quick:
+  - "The facts are shakier than the claim. Herzog suspects Hitler was an inconsistent vegetarian, and a colleague says he occasionally ate sausage."
+  - "Even if he'd been strict, it doesn't matter. Whether a claim is true doesn't depend on who else believed it."
+  - "A bad person can hold a correct view, just as good people hold mistaken ones. The case for animals stands or falls on its merits."
 tags: [history, fallacy, nazi]
 sources:
   - title: "Hal Herzog (2011), Was Hitler a Vegetarian? The Nazi Animal Protection Movement, Psychology Today"

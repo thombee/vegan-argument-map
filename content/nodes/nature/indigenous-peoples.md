@@ -4,6 +4,13 @@ title: "What about Inuit and other Indigenous peoples?"
 category: nature
 parent: null
 summary: "Veganism only asks for what's possible and practicable; where hunting is a matter of survival and sovereignty, the argument for most people doesn't apply, and that deserves respect."
+quick:
+  - "This objection deserves respect, and part of it is simply right."
+  - "The definition of veganism says \"as far as is possible and practicable\". Where land-based food is the only realistic option, that matters."
+  - "Veganism isn't a demand that those communities give up harvesting. Their food decisions are theirs, and supporting food sovereignty beats lecturing."
+  - "The case shows some people have real need and cultural claims. It doesn't show everyone else does."
+  - "Most readers have affordable plant foods, so buying meat isn't a survival choice or Indigenous sovereignty."
+  - "Industrial animal farming is a different thing from subsistence harvesting, and vegans needn't treat them as the same."
 tags: [indigenous, food-sovereignty, necessity]
 sources:
   - title: "Inuit Tapiriit Kanatami, Inuit Nunangat Food Security Strategy announcement (2021)"

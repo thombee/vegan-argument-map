@@ -4,6 +4,12 @@ title: "Grass-fed / regenerative beef is good for the planet"
 category: environment
 parent: null
 summary: "Well-managed grazing can store some soil carbon, but the evidence says it is limited, reversible and far smaller than the emissions the cattle produce."
+quick:
+  - "Good grazing can raise soil carbon in some places. The big reviews accept that."
+  - "But the gain is small, temporary and reversible, and the animals keep emitting year after year."
+  - "It's 'substantially outweighed' by the greenhouse gases the animals produce, so grass-fed beef isn't a meaningful climate solution."
+  - "The lowest-impact animal products still typically exceed plant substitutes. Better beef beats worse beef, but not lentils, tofu or nuts."
+  - "None of this is against restoring grassland. And grass or grain, whether we should kill the animal is untouched by soil chemistry."
 tags: [beef, grazing, soil-carbon, regenerative]
 sources:
   - title: "Food Climate Research Network (Garnett et al., 2017), Grazed and Confused?"

@@ -4,6 +4,11 @@ title: "If I don't buy it, someone else will"
 category: social-practical
 parent: one-person-no-difference
 summary: "Prices and stock respond to demand overall, so reducing demand does lower production at the margin; the displacement argument is weaker than it sounds."
+quick:
+  - "This is the best form of the objection, and it's partly right. Lower demand can lower prices, and other buyers may buy a bit more."
+  - "The key word is 'partly'. Producers who earn less produce less, so the effect is smaller than one-for-one but not zero, and it grows as more people join."
+  - "Shops order based on what they expect to sell. Your choice isn't about this animal, it's about the next order."
+  - "The cleanest way to see it is that you're deciding whether you take part, whether or not the market fully corrects for it."
 tags: [impact, economics]
 sources: []
 reviewed: true

@@ -4,6 +4,12 @@ title: "Animals have no duties, so they have no rights"
 category: moral-status
 parent: null
 summary: "Rights and protection don't depend on being able to bear duties. Infants and some adults can't, yet they are protected. What matters is whether there is a someone who can be harmed."
+quick:
+  - "There's a coherent tradition here, and legal rights are human institutions. But having duties and being owed something don't go together in ordinary cases."
+  - "Infants, people in comas and people with severe cognitive disability have no duties, yet we say they can be wronged."
+  - "So being able to bear duties can't be required for being owed them."
+  - "The leading alternatives say what matters is that a being can suffer, or has a life that goes well or badly for it."
+  - "You don't need legal 'animal rights'. If causing serious suffering for trivial reasons is wrong, that applies whatever the sufferer can do back."
 tags: [rights, moral-agency, duties]
 sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"

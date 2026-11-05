@@ -4,6 +4,11 @@ title: "What about leather I already own, or second-hand leather?"
 category: welfare-products
 parent: leather-byproduct
 summary: "Wearing out leather you already own, or taking it second-hand, creates no new demand, and most vegans accept it."
+quick:
+  - "No. Veganism is about what you buy and use now, not your wardrobe's history."
+  - "Wearing out leather you own creates no new demand, and second-hand works the same way. Replacing it early would waste resources."
+  - "Some vegans prefer not to wear leather at all because of the message it sends."
+  - "When it's time to replace it, a non-animal or second-hand option avoids supporting new production. That's a choice for later, not guilt about the past."
 tags: [second-hand, existing-leather, demand]
 sources: []
 reviewed: true

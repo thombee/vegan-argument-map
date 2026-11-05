@@ -4,6 +4,11 @@ title: "One person can't make a difference"
 category: social-practical
 parent: null
 summary: "Individual purchases are part of the aggregate that supply responds to, and each is also a decision about your own participation."
+quick:
+  - "True, no single purchase visibly changes anything. A shop doesn't notice one missing chicken."
+  - "But that logic proves too much. Elections, recycling and small gifts all rely on people who each look negligible. Demand is the sum of choices, and supply responds to totals."
+  - "The scale matters too. Land animals slaughtered each year run to more than 80 billion, and each person's share of that isn't zero."
+  - "There's a second reason that isn't about outcomes: buying an animal product makes you a customer of the practice, even if you can't stop it alone."
 tags: [impact, collective-action, consumer-choice]
 sources:
   - title: "Our World in Data, Land animals slaughtered for meat"

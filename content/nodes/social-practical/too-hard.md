@@ -4,6 +4,12 @@ title: "It's too hard / inconvenient"
 category: social-practical
 parent: null
 summary: "Changing habits takes effort, and the practical hurdles are real, but they shrink with time and are small next to what the animals go through."
+quick:
+  - "That's a fair description of the first few months, and the effort is real. Anyone saying it's effortless is overselling it."
+  - "The difficulty is front-loaded. Once you've got a dozen meals you like, shopping becomes routine, as it did for what you cook now."
+  - "Nutrition is manageable. Well-planned vegan diets are nutritionally adequate at all life stages, and the main must-do is a reliable B12 source like fortified foods."
+  - "The inconvenience falls on you for a while, but the cost of not changing falls on animals for their whole lives."
+  - "That's a reason to go gradually and be patient with yourself, not to decide the practice is fine. Nobody expects perfect on day one."
 tags: [convenience, habits, practicality]
 sources:
   - title: "Craig, Melina & Levin (2016), Position of the Academy of Nutrition and Dietetics: Vegetarian Diets, Journal of the Academy of Nutrition and Dietetics"

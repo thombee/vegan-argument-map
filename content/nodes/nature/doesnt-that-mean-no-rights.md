@@ -4,6 +4,11 @@ title: "If you won't stop lions, you don't really believe animals have rights"
 category: nature
 parent: animals-eat-each-other
 summary: "Rights are claims against those who can respect them; we owe animals non-interference with them and, in the wild, nothing as drastic as policing."
+quick:
+  - "Rights come with different duties. Not killing animals is a duty to hold back, and we can do that."
+  - "A right to be rescued from every threat is a much bigger claim. Nobody holds it even for humans."
+  - "Animal rights philosophers disagree about how much we owe wild animals, from leaving them alone to helping where we reliably can."
+  - "On none of those views can we kill animals for taste. The dispute is about what we owe wild animals, not whether we may farm."
 tags: [rights, wild-animal-suffering]
 sources: []
 reviewed: true

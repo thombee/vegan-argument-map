@@ -4,6 +4,11 @@ title: "Fossil fuels are the real problem, not food"
 category: environment
 parent: null
 summary: "Fossil fuels are the largest source, but modelling shows food-system emissions alone would breach the 1.5 degree limit even if fossil fuels stopped today."
+quick:
+  - "Fossil fuels are the biggest source of emissions, and fixing energy is essential. Nobody's saying otherwise."
+  - "But food systems are about a quarter (26%) of global emissions, and livestock alone are around 14.5%. Not small numbers."
+  - "Even if fossil fuel emissions stopped overnight, current food trends would stop us hitting 1.5 degrees and threaten 2."
+  - "It's not either/or. Grid, transport and food all need to change, and food's the one a person controls directly."
 tags: [fossil-fuels, climate, food-system]
 sources:
   - title: "Clark et al. (2020), Global food system emissions could preclude achieving the 1.5\u00b0 and 2\u00b0C climate change targets, Science"

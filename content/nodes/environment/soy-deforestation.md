@@ -4,6 +4,12 @@ title: "Soy destroys the rainforest"
 category: environment
 parent: null
 summary: "About three-quarters of soy goes to animal feed; cattle pasture, not soy, drives most Amazon deforestation. Eating soy directly is the smaller part of the problem."
+quick:
+  - "The worry's reasonable, and soy expansion has done real damage, especially in Brazil's Cerrado. But look at who eats the soy."
+  - "About 77% goes to livestock. Tofu, soy milk, tempeh and edamame are only about 7% of global demand."
+  - "In the Brazilian Amazon, pasture, not soy, drives most deforestation. Cattle ranching is 72% of deforestation in Brazil."
+  - "Soy expansion into Amazon forest fell from 30% to 1% after the soy moratorium."
+  - "So tofu eaters eat a sliver of the crop. For the forest, cut animal products fed on soy and beef from cleared land."
 tags: [soy, deforestation, feed, amazon]
 sources:
   - title: "Our World in Data, Soy"

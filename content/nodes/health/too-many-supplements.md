@@ -4,6 +4,12 @@ title: "If you need that many supplements, the diet is broken"
 category: health
 parent: nutrient-deficiencies
 summary: "Supplementation is common on all diets; a B12 supplement is the one essential for vegans, and fortified foods and iodised salt cover much of the rest."
+quick:
+  - "Only B12 is non-negotiable: dietetic bodies require a reliable source, from fortified foods or supplements."
+  - "For other nutrients, plan. Some vegans might also need calcium, iron or omega-3, so check with a dietitian or doctor first."
+  - "Many people cover their needs with fortified milks, iodised salt, calcium-set tofu, legumes, nuts and seeds."
+  - "Supplements aren't unique to vegans: in a German study nearly all vegans and a third of omnivores had taken one recently."
+  - "A diet that relies on one daily pill is less forgiving, and that's a fair point. But the cost is small and most people find it a minor habit."
 tags: [supplements, fortification]
 sources:
   - title: "Weikert et al. (2020), Vitamin and mineral status in a vegan diet, Dtsch Arztebl Int"

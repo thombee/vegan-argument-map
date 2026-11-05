@@ -4,6 +4,12 @@ title: "Leather is just a by-product"
 category: welfare-products
 parent: null
 summary: "The hide is a small share of what a cow is worth, so this is a fair point; but it is still revenue, it normalises using animals, and non-animal alternatives exist."
+quick:
+  - "This is one of the stronger objections, and the leather trade press backs its main point. In today's market, leather isn't the main reason cattle are slaughtered."
+  - "But it's still income. A hide with a price is part of what the animal's worth to the farm, and prices move."
+  - "It's the same question as meat. If killing for meat and milk is wrong, the hide is a small add-on to a practice that should end."
+  - "Where an animal-free material does the job, there's no 'waste' to worry about."
+  - "Leather's a lesser issue than meat, dairy or eggs. Wear what you own until it's done, and just don't buy new."
 tags: [leather, by-product, hides, cattle]
 sources:
   - title: "Leatherbiz (World Trades Publishing), Time to put the by-product debate to bed (2020) - leather trade publication"

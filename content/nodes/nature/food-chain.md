@@ -4,6 +4,11 @@ title: "We're at the top of the food chain"
 category: nature
 parent: null
 summary: "Humans eat across the food chain, with an average trophic level like anchovies and pigs; and being able to eat something is not a reason to."
+quick:
+  - "It's a familiar phrase, but it isn't accurate. Humans average 2.21 on the trophic scale, the same as a small fish called anchoveta, well below true apex predators."
+  - "We're omnivores who eat lots of plants, and that number rises as diets get more meaty. It's a choice, not a fixed rank."
+  - "\"Top of the food chain\" is about power, not permission. Being able to dominate others doesn't give us the right to."
+  - "You can accept the ecology and still ask why we'd take the lives of animals who want to live when we can live well without it."
 tags: [food-chain, ecology]
 sources:
   - title: "Faunalytics summary of Bonhommeau et al. (2013), Eating up the world's food web and the human trophic level, PNAS"

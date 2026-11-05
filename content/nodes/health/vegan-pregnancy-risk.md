@@ -4,6 +4,12 @@ title: "But a vegan pregnancy risks the baby"
 category: health
 parent: children-pregnancy
 summary: "A 2019 review concludes well-planned vegan diets can be safe in pregnancy and lactation with careful attention to key nutrients; the risks arise from unplanned diets."
+quick:
+  - "The nutrients are the right ones to worry about: protein, iron, vitamin D, calcium, iodine, omega-3 and B12."
+  - "A 2019 review still concluded well-planned diets may be considered safe in pregnancy, but they need strong awareness of key nutrients. It's based on observational studies."
+  - "Dietetic bodies say appropriately planned vegan diets are appropriate in pregnancy, with a reliable B12 source. Talk to a dietitian before taking iodine."
+  - "So it's planning, not prohibition. Get a midwife or doctor, ideally a dietitian, and blood tests for B12, iron and vitamin D."
+  - "The risk comes from improvised diets, and the fix is professional support."
 tags: [pregnancy, lactation, iodine, B12]
 sources:
   - title: "Sebastiani et al. (2019), The effects of vegetarian and vegan diet during pregnancy on the health of mothers and offspring, Nutrients"

@@ -4,6 +4,11 @@ title: "Can't you get B12 from seaweed, tempeh or unwashed vegetables?"
 category: health
 parent: b12-unnatural
 summary: "Some foods contain B12 but they are not reliable sources; dietetic bodies say fortified foods or supplements are the dependable way for vegans."
+quick:
+  - "Some foods do contain B12, like dried nori, but other algae have little or none, and blue-green algae mostly have a form that's inactive in humans."
+  - "A food having B12 doesn't make it a dependable source. Relying on one food is how deficiency happens."
+  - "The dietetic bodies say the only reliable sources are fortified foods and supplements."
+  - "So take a B12 supplement or eat fortified foods regularly, and ask your doctor about a blood test if unsure. Nori is a bonus, not a plan."
 tags: [b12, seaweed, fermented]
 sources:
   - title: "Watanabe (2007), Vitamin B12 sources and bioavailability, Exp Biol Med"

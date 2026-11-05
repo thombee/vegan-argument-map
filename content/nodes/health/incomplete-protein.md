@@ -4,6 +4,11 @@ title: "But plant proteins are incomplete"
 category: health
 parent: protein
 summary: "Eating a variety of legumes, grains, nuts and seeds over the day covers all the essential amino acids; a review calls concerns about amino acid deficiency in vegan adults 'substantially overstated'."
+quick:
+  - "It's true that single plant foods can be low in some amino acids, which is why variety matters."
+  - "But a review of real vegetarian and vegan intakes found legumes, nuts and seeds are enough for full protein adequacy, and amino acid worries are \"substantially overstated\"."
+  - "You don't need to combine foods at each meal. A mix of legumes, soy, grains, nuts and seeds across the day does it."
+  - "Caveats: older adults are a more complex case, and eating very little overall can leave you short on any diet. A dietitian can check."
 tags: [protein, amino-acids]
 sources:
   - title: "Mariotti & Gardner (2019), Dietary protein and amino acids in vegetarian diets: a review, Nutrients"

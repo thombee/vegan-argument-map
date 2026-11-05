@@ -4,6 +4,11 @@ title: "But synthetics are plastic and wool is natural"
 category: welfare-products
 parent: wool
 summary: "Synthetic fibres do shed plastic when washed, which is a fair concern, but plant-based fibres exist and the comparison does not remove the animal cost."
+quick:
+  - "The microfibre concern is real. One lab study estimated over 700,000 fibres could come off a 6 kg load of acrylic, so synthetic knitwear isn't exempt."
+  - "But synthetics aren't the only alternative. Cotton, linen, hemp and other plant fibres exist, and a polyester-cotton blend shed significantly fewer fibres."
+  - "Buying second-hand and well-made clothing helps under any fibre."
+  - "Wool-versus-alternatives comparisons are contested. They don't settle whether to use animals when other options exist."
 tags: [synthetics, microplastics, fabrics]
 sources:
   - title: "Napper & Thompson (2016), Release of synthetic microplastic plastic fibres from domestic washing machines, Marine Pollution Bulletin"

@@ -4,6 +4,12 @@ title: "But it put my autoimmune disease into remission"
 category: health
 parent: carnivore-diet
 summary: "No controlled trial supports this; the published evidence is limited to small studies and surveys, so an elimination diet supervised by a clinician is a safer way to find triggers."
+quick:
+  - "Elimination diets can be reasonable. The issue is proof."
+  - "A 2026 review found only nine human studies of the carnivore diet, all small, short and uncontrolled, so it can't say if it helped or is safe long term."
+  - "Conditions that flare and fade, plus changing everything at once, make cause hard to read."
+  - "A clinician-supervised elimination diet brings foods back one by one to find a trigger. That beats a lifelong all-meat diet."
+  - "Don't stop medication or treatment because of anyone's diet claims, including ours."
 tags: [carnivore, autoimmune, elimination-diet]
 sources:
   - title: "Lietz, Dapprich & Fischer (2026), Carnivore diet: a scoping review of the current evidence, potential benefits and risks, Nutrients"

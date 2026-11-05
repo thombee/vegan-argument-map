@@ -4,6 +4,11 @@ title: "But holiday meals are how my family connects"
 category: social-practical
 parent: culture-tradition
 summary: "Shared meals matter, and families regularly adapt them; the connection comes from the gathering, not the particular dish."
+quick:
+  - "That's a hard moment, and the aim isn't to spoil anything. A holiday table is about abundance, so offer to cook a dish or two everyone can share."
+  - "You can bring your own food and ask for no special treatment, or just hold the line on what you personally eat."
+  - "Tension often comes from how the change was announced and received, not the food itself."
+  - "Your family may need time, and warmth works better than a debate at the table. Where it truly can't be done, 'possible and practicable' covers it."
 tags: [family, holidays]
 sources: []
 reviewed: true

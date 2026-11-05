@@ -4,6 +4,11 @@ title: "Maybe they feel something, but far less than we do"
 category: moral-status
 parent: animals-not-conscious
 summary: "Even if animals feel less, a discount is not an exemption: the mild version of the objection still leaves real suffering that we cause for a preference."
+quick:
+  - "There's probably something right here. Humans suffer in ways that depend on language and anticipation."
+  - "But 'different' isn't 'much less'. Pain, fear, frustration and distress don't need language, and an animal may suffer more if it can't understand why it's being handled."
+  - "Even with a heavy discount, rank interests by how crucial they are. An animal's interest in not suffering or dying is serious, and our interest in eating it is replaceable."
+  - "So animal suffering may count for less in some cases, but still enough that a taste preference doesn't justify it."
 tags: [intensity, pain, degree]
 sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"

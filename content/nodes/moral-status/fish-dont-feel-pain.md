@@ -4,6 +4,12 @@ title: "Fish don't feel pain"
 category: moral-status
 parent: null
 summary: "Fish have pain-sensing nerves and respond to harm in ways that go beyond reflex; the opposing view rests mainly on the absence of a human-style cortex, which also describes birds."
+quick:
+  - "There's real scientific disagreement, but the weight of evidence is against the idea that fish feel nothing."
+  - "In 2003, researchers found pain-sensing nerves on trout that responded to pressure, heat and mild acid."
+  - "After harm, the trout breathed faster, took longer to feed again and acted oddly for a long time. That looks like discomfort, not a reflex."
+  - "The strongest counter is that fish lack a human-style cortex, but birds do too, and the same people accept birds feel pain."
+  - "Fish pain is less established than mammal pain, but 'probably not' isn't good enough with this many fish and a replaceable benefit."
 tags: [fish, pain, nociception]
 sources:
   - title: "Sneddon, Braithwaite & Gentle (2003), Do fishes have nociceptors?, Proceedings of the Royal Society B"

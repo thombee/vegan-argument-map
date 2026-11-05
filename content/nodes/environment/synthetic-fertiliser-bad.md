@@ -4,6 +4,12 @@ title: "Synthetic fertiliser pollutes, so animal manure is the sustainable optio
 category: environment
 parent: manure-fertiliser
 summary: "Synthetic nitrogen does cause pollution, but manure supply is limited and tied to the animals' own large footprint; the aim is less over-use, not more livestock."
+quick:
+  - "The pollution from synthetic fertiliser is real. Agriculture causes 78% of global ocean and freshwater eutrophication, from fertilisers of every kind."
+  - "Manure isn't a simple green alternative. It can maintain nitrogen levels but can't create more, and organic can sometimes have a greater impact."
+  - "The goal is using nutrients more precisely, from any source, and wasting less."
+  - "A plant-based food system would need about a quarter of today's farmland, so less to fertilise."
+  - "Using manure a farm already has beats wasting it, but that's not a case for keeping animals to make it."
 tags: [fertiliser, pollution, manure]
 sources:
   - title: "Our World in Data, How many people does synthetic fertilizer feed?"

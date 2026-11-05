@@ -4,6 +4,11 @@ title: "Fish have no neocortex, so they can't consciously feel pain"
 category: moral-status
 parent: fish-dont-feel-pain
 summary: "The cortex argument assumes consciousness needs a mammalian structure. Birds and cephalopods suggest otherwise, and emotion circuits are largely subcortical anyway."
+quick:
+  - "It's the best case against fish pain, but its premise is doubtful."
+  - "Even the person who makes the cortex argument accepts that birds feel pain, and bird brains are laid out very differently from mammal brains."
+  - "The Cambridge Declaration says emotion circuits aren't confined to the cortex and sit largely in deeper regions."
+  - "This doesn't prove fish feel pain like us. It shows the cortex argument is a premise, not a fact, so the question stays open."
 tags: [neocortex, birds, brain-evolution]
 sources:
   - title: "Sneddon & Leach (2016), Anthropomorphic denial of fish pain, Animal Sentience"

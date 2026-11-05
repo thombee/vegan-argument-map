@@ -4,6 +4,12 @@ title: "Insects are too simple to matter"
 category: moral-status
 parent: insects-and-bivalves
 summary: "Brain size is a weak proxy. Reviews of the evidence find substantial evidence of pain in many insects, which is a reason to avoid causing harm where we can."
+quick:
+  - "The size difference is real, and a fly doesn't suffer like a dog. But small doesn't mean empty."
+  - "A review found adult flies, mosquitoes, cockroaches and termites meet six of eight pain criteria. Most other adults meet three to four. None clearly failed one."
+  - "We can't live without harming insects. Walking on a lawn isn't breeding billions for food."
+  - "A decent line: avoid harm where reasonably possible, and avoid it where the harm is the product."
+  - "So be wary of insect farming as the clean alternative. The evidence says it's not a safe assumption."
 tags: [insects, brain-size, pain]
 sources:
   - title: "Gibbons et al. (2022), Can insects feel pain? A review of the neural and behavioural evidence, Advances in Insect Physiology"

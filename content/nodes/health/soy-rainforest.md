@@ -4,6 +4,9 @@ title: "But soy destroys the Amazon"
 category: health
 parent: soy
 summary: "This is a separate objection about land use, not health; see the environment page for the answer."
+quick:
+  - "That's an environmental objection, not a health one, and it's answered on the soy deforestation page."
+  - "For health, soy is one useful food among many and isn't required for a healthy vegan diet."
 tags: [soy, deforestation]
 sources: []
 reviewed: true

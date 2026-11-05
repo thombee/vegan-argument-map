@@ -4,6 +4,12 @@ title: "It's natural; humans have always eaten meat"
 category: nature
 parent: null
 summary: "Eating meat being old or natural doesn't settle whether it's right; and we no longer need it, since well-planned vegan diets are nutritionally adequate."
+quick:
+  - "All true, and none of it is the question. Veganism doesn't say we can't eat meat or never did. It says we shouldn't kill animals when we don't need to."
+  - "\"Natural\" and \"long-standing\" don't tell us what's right. Slavery and warfare have long histories too."
+  - "It proves too much as well. Medicine, shoes and farming itself aren't natural in the sense the objection needs."
+  - "The old necessity has gone for most of us. The Academy of Nutrition and Dietetics says well-planned vegan diets are adequate, though you do need a reliable B12 source."
+  - "So the real question is what we owe animals when killing them is a choice. Their capacity to suffer doesn't depend on how long we've ignored it."
 tags: [natural, history, appeal-to-nature]
 sources:
   - title: "Melina, Craig & Levin (2016), Position of the Academy of Nutrition and Dietetics: Vegetarian Diets"

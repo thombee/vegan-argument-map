@@ -4,6 +4,12 @@ title: "Some farms measure enough soil carbon to cancel out their emissions"
 category: environment
 parent: grass-fed-regenerative
 summary: "Some systems can offset much of their footprint for a while, but the offset saturates and can be reversed, and it cannot be scaled to today's herds."
+quick:
+  - "Partly true. On some farms under the right conditions, soil carbon can partly or even fully offset a grazing system's emissions."
+  - "But the offset is time-limited and reversible, while the herd's emissions keep going."
+  - "At global level, grazing emissions outweigh the sequestration."
+  - "It's also a scale problem. It happens on particular farms and can't just be multiplied across the global beef herd."
+  - "So a few farms are doing something real, but that doesn't make beef climate-positive for the people eating it."
 tags: [soil-carbon, offsets, grazing]
 sources:
   - title: "Godde et al. (2020), Soil carbon sequestration in grazing systems: managing expectations, Climatic Change"

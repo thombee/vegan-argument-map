@@ -4,6 +4,9 @@ title: "Animals kill each other without blame, so why can't we?"
 category: moral-status
 parent: no-moral-agency
 summary: "Bridge: this is the animals-eat-each-other objection, answered on its own page."
+quick:
+  - "Lions can't be blamed, but that points the other way for us: we can."
+  - "The full answer is on the wild-animals page."
 tags: [predation, bridge]
 sources: []
 reviewed: true

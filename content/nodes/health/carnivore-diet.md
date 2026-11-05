@@ -4,6 +4,12 @@ title: "The carnivore diet fixed my health"
 category: health
 parent: null
 summary: "Self-reports are sincere but the evidence is thin: surveys of people who stayed on it can't show cause, and a scoping review of nine studies found possible short-term benefits alongside nutrient and cholesterol risks."
+quick:
+  - "We take your experience seriously. If you got well, that matters and we don't doubt it."
+  - "The biggest data set is a social media survey with high satisfaction, but also high LDL cholesterol, and the authors say long-term effects need study."
+  - "A 2026 review found just nine small human studies with no control groups, listed risks of deficiencies, and said long-term adherence can't be recommended."
+  - "Changing everything at once could help for other reasons. Only controlled trials can sort that out."
+  - "Meat isn't risk-free either: WHO lists processed meat as carcinogenic and red meat as probably carcinogenic."
 tags: [carnivore, anecdote, evidence]
 sources:
   - title: "Lennerz et al. (2021), Behavioral characteristics and self-reported health status among 2029 adults consuming a 'carnivore diet', Curr Dev Nutr"

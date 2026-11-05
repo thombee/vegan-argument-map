@@ -4,6 +4,11 @@ title: "They're rescued hens; the eggs would just go to waste"
 category: welfare-products
 parent: backyard-eggs
 summary: "Rescuing hens is good; whether to eat the eggs is a smaller question that depends on the hen's health and what your habits signal."
+quick:
+  - "Taking in hens that would've been killed is kind, and no vegan argument is against it."
+  - "If they lay, the eggs aren't creating new demand. This is where the objection is strongest, and plenty of vegans make this choice."
+  - "Some don't eat the eggs because laying can be hard on a hen, and it's easy to drift back to treating eggs as normal."
+  - "What matters is that no animal's bred or killed for the eggs. Where that's true, reasonable people disagree on the rest."
 tags: [rescue, hens, eggs, waste]
 sources:
   - title: "Kittelsen et al. (2021), Keel bone fractures are more prevalent in White Leghorn hens than in Red Jungle fowl hens, a pilot study, PLOS ONE"

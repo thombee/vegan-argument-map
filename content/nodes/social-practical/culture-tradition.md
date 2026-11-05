@@ -4,6 +4,11 @@ title: "It's my culture and tradition"
 category: social-practical
 parent: null
 summary: "Traditions carry real meaning and deserve respect, but a practice being traditional doesn't settle whether it's right, and many traditions have changed or been plant-based all along."
+quick:
+  - "Food and belonging really are tied together, and the sense of loss is genuine. A meal can hold generations of memory."
+  - "But 'it's our tradition' describes a practice, it doesn't justify it. Cultures have kept practices that were later seen as wrong, and defended them in the same words."
+  - "Heritage explains why something feels important. It can't answer whether the practice causes harm."
+  - "Traditions also have plant-based strands, and people often keep the ritual and swap the ingredient. The people and meaning carry a tradition, not one animal product."
 tags: [culture, tradition, identity]
 sources:
   - title: "Pew Research Center (2021), Religion in India: Tolerance and Segregation"

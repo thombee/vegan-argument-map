@@ -4,6 +4,12 @@ title: "You can't build muscle or perform as an athlete"
 category: health
 parent: null
 summary: "Review and trials find no consistent performance gap between vegetarian-based and omnivorous diets; protein-matched vegans built muscle as well, though pooled data show a small lean-mass edge for animal protein."
+quick:
+  - "A review of eight studies and a 12-week trial found no clear performance or strength difference between vegan and omnivore diets."
+  - "In recreational runners, power and lactate were similar across vegan, vegetarian and omnivore groups."
+  - "Dietetic bodies list athletes among people a well-planned vegan diet suits."
+  - "The studies are small and mostly recreational, so they say little about elite performance over years."
+  - "We're not saying vegan boosts performance, just that evidence doesn't show it blocks it. Watch energy, protein, iron and B12."
 tags: [athletes, muscle, performance, protein]
 sources:
   - title: "Melina, Craig & Levin (2016), Position of the Academy of Nutrition and Dietetics: Vegetarian Diets, J Acad Nutr Diet"

@@ -4,6 +4,11 @@ title: "We have canine teeth, so we evolved to eat meat"
 category: nature
 parent: null
 summary: "Canines don't show a meat diet: primates, including seed-eating ones, have large strong canines used for other things, and humans are omnivores either way."
+quick:
+  - "Human canines are small compared with real carnivores, and they're no proof of a meat diet."
+  - "Plenty of plant-eating primates have big canines, so a canine tooth doesn't tell you its owner eats meat."
+  - "We're omnivores, sure. But being able to eat something isn't the same as having to, and omnivores can do fine on plants alone."
+  - "Even perfect meat-tearing teeth wouldn't settle the ethics. The question is whether killing is justified when we don't need to."
 tags: [teeth, anatomy]
 sources:
   - title: "Plavcan & Ruff (2008), Canine size, shape, and bending strength in primates and carnivores, American Journal of Physical Anthropology"

@@ -4,6 +4,9 @@ title: "Those animals wouldn't exist if he didn't farm them"
 category: welfare-products
 parent: small-farms
 summary: "Bridge: the 'wouldn't exist otherwise' argument is answered on its own page."
+quick:
+  - "This comes up so often it has its own page, Farm animals wouldn't exist without us."
+  - "Short version: a life you're not yet owed isn't a favour you can bill for, especially when it ends early in a way the animal wouldn't choose."
 tags: [bridge, existence]
 sources: []
 reviewed: true

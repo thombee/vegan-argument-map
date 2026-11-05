@@ -4,6 +4,12 @@ title: "Vegans are deficient in iron, calcium, omega-3, iodine\u2026"
 category: health
 parent: null
 summary: "B12 must be supplemented, and iodine, calcium, vitamin D, omega-3, zinc and iron need attention; with planning, dietetic bodies say vegan diets are adequate. Studies show real gaps where people don't plan."
+quick:
+  - "The shortfalls are real. Reviews found low average vegan intakes of B12, vitamin D, iodine, zinc, calcium and selenium."
+  - "But the same review found no link to deficiencies in vitamins A, B1, B6, C, E, iron, magnesium, copper or folate."
+  - "Major dietetic bodies say a well-planned vegan diet is healthy and adequate, as long as there's a reliable B12 source."
+  - "In practice: B12 supplement or fortified foods, an iodine source, calcium, vitamin D, and attention to omega-3."
+  - "It's not automatic. A dietitian can check your plan and a GP can order blood tests if you're unsure."
 tags: [nutrients, iodine, calcium, omega-3, iron]
 sources:
   - title: "Bakaloudi et al. (2021), Intake and adequacy of the vegan diet: a systematic review of the evidence, Clin Nutr"

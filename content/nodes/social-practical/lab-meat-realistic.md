@@ -4,6 +4,11 @@ title: "Lab meat is the only realistic way most people will change"
 category: social-practical
 parent: lab-meat-later
 summary: "Cultivated meat may help many people, but it need not be an either/or with plant-based eating."
+quick:
+  - "It could be part of the answer, and pessimism about changing habits isn't baseless. Good substitutes could reach people that arguments don't."
+  - "But betting on one technology while animals are farmed meanwhile is risky. The regulatory record is early, with only a handful of completed consultations."
+  - "You don't have to choose. Persuasion, plant-based products and cultivated meat can all advance at once."
+  - "They're linked too. People who've seen the problem are likely first customers, and public concern creates demand for alternatives."
 tags: [cultivated-meat, strategy]
 sources:
   - title: "US Food and Drug Administration, Human food made from cultured animal cells"

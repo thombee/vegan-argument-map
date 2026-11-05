@@ -4,6 +4,11 @@ title: "If the line is vague, I'm free to put it wherever I like"
 category: moral-status
 parent: where-do-you-draw-the-line
 summary: "Vagueness permits a range of reasonable lines, not any line. A line that excludes pigs while including dogs needs a reason, and the usual candidates do not supply one."
+quick:
+  - "A blurry boundary isn't the same as one drawn wherever you like. It has borderline cases and clear regions either side."
+  - "Pigs aren't in the borderline zone. They're close to the clear cases, near dogs."
+  - "A line needs a consistent reason. Species is as irrelevant as birthplace, so a line putting a dog on one side and a pig on the other needs a real difference."
+  - "If the real reason is 'I eat one and not the other', that's habit, and habits can be examined."
 tags: [vagueness, consistency, speciesism]
 sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"

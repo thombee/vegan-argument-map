@@ -4,6 +4,10 @@ title: "But the Nazis passed animal protection laws"
 category: social-practical
 parent: hitler-vegetarian
 summary: "They did, and it shows that concern for animals and cruelty to people can coexist; it says nothing about whether the concern is mistaken."
+quick:
+  - "The laws did exist. The Nazis passed many animal protection laws soon after taking power, and Herzog also notes a 1942 law banning Jews from keeping pets."
+  - "The lesson is that caring about animals didn't protect people, because that regime applied concern selectively. Care has to be consistent."
+  - "The case for animals is that suffering matters wherever it happens, the opposite of what the Nazis did."
 tags: [history, law, nazi]
 sources:
   - title: "Hal Herzog (2011), Was Hitler a Vegetarian? The Nazi Animal Protection Movement, Psychology Today"

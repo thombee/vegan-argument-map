@@ -4,6 +4,10 @@ title: "Fish don't really feel pain like mammals do"
 category: welfare-products
 parent: fishing-sustainable
 summary: "Bridge: whether fish feel pain has its own page."
+quick:
+  - "This has its own page, Fish don't feel pain."
+  - "Short version: a review finds bony fish have nociceptors like those in mammals, and show pain-related changes in behaviour and physiology that painkillers reduce."
+  - "They also show higher brain activity when painfully stimulated. The debate is how to interpret that, not whether there's evidence."
 tags: [bridge, fish-pain]
 sources:
   - title: "Sneddon (2015), Pain in aquatic animals, Journal of Experimental Biology"

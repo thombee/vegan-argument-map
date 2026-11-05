@@ -4,6 +4,11 @@ title: "Meat made our brains big"
 category: nature
 parent: null
 summary: "Meat and cooking probably helped, but that's an account of our past; brains are not fed by killing animals today, and the evidence is more complex than the slogan."
+quick:
+  - "It's a real debate and parts of it may be true. Eating animals probably played some part in our history, and we should say so."
+  - "But it's not settled. The \"expensive tissue\" idea didn't hold up across 100 mammal species, and scientists still argue about cooking, plants, tubers, tools and social learning."
+  - "Even a full account of the past wouldn't tell us what to do now. A reason that suited ancestors with scarce food isn't a reason for people with supermarkets."
+  - "And if intelligence matters morally, having built it partly from animals' lives is no reason to keep taking them."
 tags: [evolution, brain, history]
 sources:
   - title: "Cornelio et al. (2016), Human brain expansion during evolution is independent of fire control and cooking, Frontiers in Neuroscience"

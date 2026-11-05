@@ -4,6 +4,11 @@ title: "Humans are animals too, so we're just doing what animals do"
 category: nature
 parent: lions-eat-meat
 summary: "Being animals explains why we can eat meat, not why it's right; our ability to reflect is what makes our choices moral ones."
+quick:
+  - "We agree humans are animals. That's the point: farmed animals are fellow animals whose experiences matter to them."
+  - "But it cuts both ways. If our animal nature justified whatever we feel like, it'd justify theft and violence too."
+  - "We can reflect, and that brings responsibility. A lion's behaviour is biology. Ours is biology plus choice."
+  - "This isn't putting humans on a pedestal. It asks us to give animals the consideration we already give each other, because they can suffer."
 tags: [predators, moral-agency]
 sources: []
 reviewed: true

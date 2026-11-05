@@ -4,6 +4,11 @@ title: "Animals don't understand death, so it doesn't harm them"
 category: moral-status
 parent: death-without-suffering
 summary: "It's less clear that animals have a future-directed interest in living, and that should be admitted. But less clear is not nothing, and a replaceable meal is a thin reason to take a life."
+quick:
+  - "Fair point: it's less clear animals have a stake in their future the way people do. Some thinkers say painless killing is less bad for them."
+  - "But less bad isn't nothing. The animal's life still goes well or badly for it."
+  - "You don't have to understand death to be harmed by it. A baby can't, and we don't think killing a baby harms no one."
+  - "Even at the most generous reading, a replaceable meal is a thin reason to take a life."
 tags: [death, harm-of-death, future]
 sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"

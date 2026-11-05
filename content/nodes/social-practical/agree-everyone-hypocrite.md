@@ -4,6 +4,10 @@ title: "Everyone is a hypocrite about something"
 category: social-practical
 parent: agree-but-still-eat-meat
 summary: "True, but a universal flaw is not a reason to leave this one in place, and the harm here is specific and continuing."
+quick:
+  - "You're right, nearly everyone has gaps, vegan or not. Nobody's claiming a clean record."
+  - "But a gap is a reason to work on it, not a licence. 'Everyone does it' gets weaker as the stakes go up, and this is a daily thing."
+  - "'Hypocrisy' is harsher than it needs to be. It's a normal human thing, and the fix is to pick the easiest piece and start."
 tags: [hypocrisy, akrasia]
 sources: []
 reviewed: false

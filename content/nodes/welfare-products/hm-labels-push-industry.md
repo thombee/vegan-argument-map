@@ -4,6 +4,11 @@ title: "Buying higher-welfare at least pushes the industry in the right directio
 category: welfare-products
 parent: humane-meat
 summary: "Welfare purchasing can improve conditions at the margin, but it also tells producers that the product is acceptable and leaves the killing in place."
+quick:
+  - "Consumer pressure has improved some conditions, and welfare campaigns have pushed industry on specific practices. That matters to the animals affected."
+  - "But the standards behind labels can be thin. Australia's legal free-range limit is 10,000 hens per hectare."
+  - "A purchase also signals the product's acceptable. The RSPCA wants day-old male chick killing to stop and says alternatives exist, yet it continues."
+  - "Don't wait for perfection. Welfare reforms are worth having, but the idea driving them, that animals' experience matters, points further than they go."
 tags: [consumer-pressure, welfare-reform, labels]
 sources:
   - title: "NSW Food Authority, Free range (egg labelling)"

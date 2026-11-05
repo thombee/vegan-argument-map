@@ -4,6 +4,11 @@ title: "But meat is the best source of iron, B12 and zinc, and plants can't matc
 category: health
 parent: meat-is-healthy
 summary: "Animal foods are better absorbed sources of iron, B12 and calcium, which is why vegans must plan, fortify or supplement; being a better source doesn't make it a necessary one."
+quick:
+  - "That's right: dietary guidelines say animal foods are highly bioavailable sources of iron, calcium and B12, and plant iron and zinc are absorbed less efficiently."
+  - "But a better source isn't a necessary one. Vitamin C with iron-rich meals helps, and legumes, nuts, seeds and wholegrains supply iron and zinc."
+  - "B12 is the exception: it needs a supplement or fortified food."
+  - "The same bodies that stress these gaps conclude a planned vegan diet is adequate. If your needs are higher, like pregnancy or heavy training, get an individual plan."
 tags: [iron, b12, zinc, bioavailability]
 sources:
   - title: "NHMRC (2013), Australian Dietary Guidelines"

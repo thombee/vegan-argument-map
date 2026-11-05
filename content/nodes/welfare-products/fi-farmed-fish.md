@@ -4,6 +4,12 @@ title: "Farmed fish take the pressure off wild stocks"
 category: welfare-products
 parent: fishing-sustainable
 summary: "Aquaculture now supplies more than half of aquatic animals, but a large share of wild catch is still used to make feed, and farmed fish are still killed."
+quick:
+  - "Farmed fish are now the main source of aquatic animals. The UN's FAO says aquaculture passed wild catch for the first time, at 51% of production."
+  - "Wild catch isn't just eaten directly. Lots of it goes to fishmeal and oil, so a big share isn't caught for human food."
+  - "The objection also switches topic from sustainability to supply. Farmed fish are still animals who don't want to be killed."
+  - "The ethical question's the same and sits alongside the environmental one."
+  - "Whether you care about the ocean or the fish, the answer's the same: skip both wild and farmed fish."
 tags: [aquaculture, fishmeal, farmed-fish]
 sources:
   - title: "FAO, The State of World Fisheries and Aquaculture 2024 (press release)"

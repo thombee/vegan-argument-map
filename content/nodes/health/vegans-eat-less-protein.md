@@ -4,6 +4,11 @@ title: "But studies show vegans eat less protein than everyone else"
 category: health
 parent: protein
 summary: "True on average, but lower intake is not shown to cause harm for adults who are meeting their needs; the fix is to include beans, soy foods, nuts and seeds regularly."
+quick:
+  - "That's accurate. A systematic review found vegan diets lower in protein, and also low in B12, vitamin D, iodine, zinc, calcium and selenium."
+  - "Lower on average doesn't mean below what people need, and the review notes low intakes aren't always linked to health problems."
+  - "Protein is among the easier nutrients to fix: legumes, nuts and seeds are enough for full adequacy in adults. Tofu, tempeh, lentils and soy milk all help."
+  - "If you eat lots of refined foods or have high needs, check with a dietitian."
 tags: [protein, intake]
 sources:
   - title: "Bakaloudi et al. (2021), Intake and adequacy of the vegan diet: a systematic review of the evidence, Clin Nutr"

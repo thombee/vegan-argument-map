@@ -4,6 +4,11 @@ title: "We have duties regarding animals, not to them"
 category: moral-status
 parent: no-moral-agency
 summary: "On this view, cruelty is wrong because of what it does to us or to owners. That fails to explain why cruelty to a stray is wrong, or why the animal's pain is the reason we care."
+quick:
+  - "This is Kant's view and a long tradition, and it does agree cruelty is wrong."
+  - "But picture an animal tormented where no one sees and no human is affected. Almost everyone thinks it's wrong because of what happens to the animal."
+  - "If the animal's pain is why cruelty is wrong, the same reason applies when the pain is for food."
+  - "The view agrees in the clearest cases, then can't hold the line when the harm is routine and institutional."
 tags: [kant, indirect-duties, cruelty]
 sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"

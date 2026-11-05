@@ -4,6 +4,11 @@ title: "But the research is on weekend warriors, not elite athletes"
 category: health
 parent: athletes-strength
 summary: "True: most trials are small, short and recreational; they show that a vegan diet doesn't obviously hinder training, not that it helps elite performance."
+quick:
+  - "Fair point: the trials are small and short, and they don't settle elite performance. We don't claim they do."
+  - "They do show that \"vegan means worse performance\" isn't backed by the controlled data we have."
+  - "Elite athletes should watch energy, iron, B12 and protein on any diet. A sports dietitian and blood checks help."
+  - "If an athlete thinks it's costing them, they can ask for individual advice rather than just give up."
 tags: [athletes, evidence]
 sources:
   - title: "Craddock, Probst & Peoples (2016), Vegetarian and omnivorous nutrition: comparing physical performance, Int J Sport Nutr Exerc Metab"

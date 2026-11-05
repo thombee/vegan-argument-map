@@ -4,6 +4,12 @@ title: "I'll just buy from the lowest-impact producers"
 category: environment
 parent: grass-fed-regenerative
 summary: "Even the best 10% of beef producers emit several times more per gram of protein than typical plant foods, and the worst 10% of plant producers."
+quick:
+  - "Fair point: impacts can vary 50-fold between producers, so it matters which beef you pick if you're eating it."
+  - "But even the best 10% of beef producers, about 9 kg CO2eq per 100 g of protein, are well above average peas, beans, nuts and tofu."
+  - "The best beef is about two and a half times the worst tofu."
+  - "And the low-emission end is a small slice of what's sold. Shoppers can't reliably tell, and a grass-fed label doesn't settle it."
+  - "Picking the best producer is a decent harm-reduction step, but it isn't a low-impact diet, and it leaves the moral question where it was."
 tags: [beef, best-producers, emissions]
 sources:
   - title: "Our World in Data, Less meat is nearly always better than sustainable meat, to reduce your carbon footprint"

@@ -4,6 +4,12 @@ title: "Livestock is only 14.5% of emissions, so vegans exaggerate"
 category: environment
 parent: blame-fossil-fuels
 summary: "14.5% is large for one sector, and it does not count the land that animal farming occupies or the forest it has replaced."
+quick:
+  - "The 14.5% figure is the standard one, and it should be quoted as it is. Livestock is a major source, not the only one."
+  - "But 14.5% is still a lot for one sector."
+  - "The emissions share also leaves out land: 43% of ice- and desert-free land is farmed, and 83% of that is for animal-sourced foods."
+  - "The carbon that land could store if it regrew isn't in the emissions accounts."
+  - "So animal farming is a major source and an even bigger use of land. That makes diet one of the biggest individual choices, without exaggerating."
 tags: [emissions, livestock, land-use]
 sources:
   - title: "Food Climate Research Network (Garnett et al., 2017), Grazed and Confused?"

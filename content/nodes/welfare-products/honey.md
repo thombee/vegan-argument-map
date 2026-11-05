@@ -4,6 +4,11 @@ title: "What's wrong with honey?"
 category: welfare-products
 parent: null
 summary: "Bees may well be able to feel, and honey is taken from colonies that are then often fed sugar syrup; it is a small harm, but a clear one to avoid."
+quick:
+  - "Honey's the least obvious harm. No abattoir, no calf. A reasonable person could call it trivial."
+  - "But we don't know bees don't feel. Researchers say there's a realistic possibility insects have experiences."
+  - "Honey is the colony's own food, and beekeepers usually swap it for sugar. The bees do alright, but it's still a substitution."
+  - "It's easy to replace with maple syrup or agave, so if you don't need to take it, don't."
 tags: [honey, bees, insects, sentience]
 sources:
   - title: "New York Declaration on Animal Consciousness (2024)"

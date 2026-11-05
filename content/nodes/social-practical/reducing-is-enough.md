@@ -4,6 +4,11 @@ title: "I'm cutting down; isn't that enough?"
 category: social-practical
 parent: null
 summary: "Cutting down is genuinely good and worth celebrating, but if animals aren't ours to use, 'less' is a step on the way, not the destination."
+quick:
+  - "Cutting down is genuinely good. It spares animals, lowers environmental impact, and it's how most people change. If you've halved your intake, that's a real achievement."
+  - "The case for going further is moral. If animals aren't ours to use, each meal asks the same question, and cutting down just means you answer yes less often."
+  - "We rarely accept 'I've cut down' as an end point for other wrongs. Nobody says 'I only hit my dog on weekends' is fine."
+  - "The environmental case also grows with the further steps. And none of this is guilt, it's treating 'less' as a good place to be on the way."
 tags: [reduction, flexitarian, ethics]
 sources:
   - title: "Springmann et al. (2016), Analysis and valuation of the health and climate change cobenefits of dietary change, PNAS (Oxford Martin summary)"

@@ -4,6 +4,11 @@ title: "We can't rule it out, so there's no moral difference"
 category: moral-status
 parent: plants-respond-so-sentient
 summary: "A small chance that plants suffer is outweighed by a far larger chance that animals do, and by the arithmetic of feed. Eating plants directly uses fewer of them."
+quick:
+  - "Right, we can't prove it, so weigh the odds. The evidence for pigs and hens feeling is strong, and for plants it's contested by plant biologists."
+  - "Then the arithmetic: 41% of the world's cereals go to animal feed, and beef turns about 2% of feed energy into beef."
+  - "So an animal-based diet runs through far more plants than a plant-based one."
+  - "On any assumption about plants, the case against farming animals stands."
 tags: [plants, uncertainty, feed]
 sources:
   - title: "Our World in Data, Land use of diets"

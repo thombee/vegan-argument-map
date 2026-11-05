@@ -9,6 +9,9 @@ sources:
   - title: "Example source for plants-react"
     url: "https://example.com/plants-react"
     supports: "Example claim"
+quick:
+  - "Reacting isn't feeling. See [crop deaths](/a/crop-deaths/) for more."
+  - "Second bullet."
 reviewed: false
 ---
 

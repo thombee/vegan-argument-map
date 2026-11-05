@@ -4,6 +4,12 @@ title: "Wild bison and wildebeest produced methane too, and nobody called that a
 category: environment
 parent: biogenic-methane
 summary: "Wild ruminants were part of the baseline climate. The change is the size of the farmed herd on top of that baseline."
+quick:
+  - "Wild grazers did emit methane, and the climate balanced with them. That's part of the baseline."
+  - "Human-caused emissions are measured on top of that baseline. Livestock make up about 32% of human-caused methane."
+  - "What matters for warming is the extra methane compared with a world without that farming."
+  - "Natural or not doesn't decide a source's effect on the climate. Fewer farmed herds and recovering ecosystems would be fair to want."
+  - "And the appeal to nature doesn't answer the ethical question either."
 tags: [methane, wild-ruminants, baseline]
 sources:
   - title: "Down To Earth, Reduce human-caused methane emissions by 45% to avoid worst of climate change: UN (reporting the UNEP/CCAC Global Methane Assessment)"

@@ -4,6 +4,9 @@ title: "But crops and medicines kill or test on animals too"
 category: social-practical
 parent: vegans-are-hypocrites
 summary: "Both are real, and each has its own page; neither supports continuing to buy animal products by choice."
+quick:
+  - "Crops and medicine each have their own page. The main point here is that the choice isn't zero harm versus some harm, it's more versus less."
+  - "Food is a place where a substitute exists, so taking unavoidable harm doesn't license adding avoidable harm on top."
 tags: [crop-deaths, medicine]
 sources: []
 reviewed: true

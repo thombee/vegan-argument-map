@@ -4,6 +4,9 @@ title: "Harvesting kills insects and field animals too"
 category: moral-status
 parent: insects-and-bivalves
 summary: "Bridge: this is the crop-deaths objection, answered on its own page."
+quick:
+  - "This is answered in full on the crops page: most crops are grown to feed animals, so eating animals means more harvesting, not less."
+  - "The aim is less harm, not none."
 tags: [crop-deaths, bridge]
 sources: []
 reviewed: true

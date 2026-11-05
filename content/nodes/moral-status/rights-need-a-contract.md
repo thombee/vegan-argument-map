@@ -4,6 +4,11 @@ title: "Morality is a contract among those who can reciprocate"
 category: moral-status
 parent: no-moral-agency
 summary: "Contract theories explain much of morality, but they either exclude infants and disabled people too or add a second layer of duties, and that second layer reaches animals."
+quick:
+  - "The contract view is hugely influential and deserves a proper reply."
+  - "First problem: it excludes too much. Newborns and people with severe cognitive disabilities can't make bargains either."
+  - "Second: the extra duties tend to cover animals too. If we can owe something to a being that can't reciprocate, the likely ground is that it can be harmed."
+  - "So the contract tells us what we owe each other and leaves open what else is owed. It doesn't show nothing is."
 tags: [contractualism, reciprocity, social-contract]
 sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"

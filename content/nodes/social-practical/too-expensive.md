@@ -4,6 +4,12 @@ title: "Vegan food is too expensive"
 category: social-practical
 parent: null
 summary: "Whole-food vegan diets are often cheaper than typical Western diets in wealthy countries, though processed substitutes cost more and low-income settings differ."
+quick:
+  - "Right about one thing: branded substitutes, meat-free burgers and speciality cheeses are often dearer than the basics."
+  - "But a vegan diet doesn't have to be built on those. The Oxford study found vegan diets were the cheapest in high-income countries, cutting food costs by up to a third."
+  - "That study looked at whole foods and left out processed meat replacements, restaurant meals and takeaways, which is where the objection's price gaps come from."
+  - "It's clear about limits too: in lower-income countries these diets cost more, and it's a model, not your local shop."
+  - "Beans, lentils, rice, oats and veg are what the cheaper diets were built on. So it depends on whether you buy staples or substitutes."
 tags: [cost, budget, poverty]
 sources:
   - title: "Springmann et al. (2021), The global and regional costs of healthy and sustainable dietary patterns, The Lancet Planetary Health (University of Oxford summary)"

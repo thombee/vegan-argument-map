@@ -4,6 +4,8 @@ title: "Plants are on the line too"
 category: moral-status
 parent: where-do-you-draw-the-line
 summary: "Bridge: this is the plant-sentience objection, answered on its own page."
+quick:
+  - "The plants page covers why plants aren't a plausible candidate, and why the feed maths holds either way."
 tags: [plants, bridge]
 sources: []
 reviewed: true

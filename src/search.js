@@ -15,13 +15,14 @@
   }
 
   function score(item, terms) {
-    var title = item.title.toLowerCase(), sum = item.summary.toLowerCase(), tags = item.tags.join(' ').toLowerCase();
+    var title = item.title.toLowerCase(), sum = item.summary.toLowerCase(), tags = item.tags.join(' ').toLowerCase(), quick = (item.quick || '').toLowerCase();
     var total = 0;
     for (var i = 0; i < terms.length; i++) {
       var t = terms[i], s = 0;
       if (title.indexOf(t) !== -1) s += 3;
       if (tags.indexOf(t) !== -1) s += 2;
       if (sum.indexOf(t) !== -1) s += 1;
+      if (quick.indexOf(t) !== -1) s += 0.5;
       if (!s) return 0;
       total += s;
     }

@@ -4,6 +4,11 @@ title: "Mass reduction does more good than a few vegans"
 category: social-practical
 parent: reducing-is-enough
 summary: "Both help, and they aren't in competition; reductions are real, and the argument for animals not being ours to use is what sustains them."
+quick:
+  - "Both can be true. A lot of people making modest changes can add up to more than a few changing completely, and nobody should discourage that."
+  - "The two support each other. The idea that animals aren't ours to use keeps reducing going, instead of drifting back when it's inconvenient."
+  - "Committed vegans also help create the products, restaurants and norms that make reducing easier for everyone."
+  - "The scale supports aiming high, since around 80% of agricultural land goes to meat and dairy. Reducing helps, but the destination is further along."
 tags: [strategy, impact]
 sources:
   - title: "Our World in Data, If the world adopted a plant-based diet, we would reduce global agricultural land use from 4 to 1 billion hectares"

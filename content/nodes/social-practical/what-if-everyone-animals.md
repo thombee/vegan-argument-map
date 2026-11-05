@@ -4,6 +4,9 @@ title: "But what happens to all the existing animals?"
 category: social-practical
 parent: what-if-everyone
 summary: "A gradual decline in breeding means existing animals live out their lives; nobody proposes releasing billions at once."
+quick:
+  - "No serious proposal releases billions of animals in a day. As demand falls fewer are bred, and the population shrinks over time as existing animals live out their lives."
+  - "The objection treats an unmanaged crash as the only option, but there's time to plan. Not breeding animals into lives that end at slaughter doesn't harm any already here."
 tags: [transition, animals]
 sources: []
 reviewed: true

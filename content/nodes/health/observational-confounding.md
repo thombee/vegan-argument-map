@@ -4,6 +4,11 @@ title: "But those studies are just health-conscious people, not the diet"
 category: health
 parent: meat-is-healthy
 summary: "Observational studies can't prove cause, and vegans may differ in other ways; that's why reviews rate much of the evidence as low certainty, and why we make a modest claim: adequate, not miraculous."
+quick:
+  - "That's a valid point, and good researchers make it themselves."
+  - "The evidence is mostly observational, and a German review rates much of it low to very low certainty. Adjusting for lifestyle reduces the problem but can't remove it."
+  - "So we don't claim a vegan diet prevents or cures disease. The adult data are mixed, and some outcomes like fractures are worse."
+  - "The case against eating animals doesn't rest on vegans being healthier."
 tags: [observational, confounding, evidence]
 sources:
   - title: "Tong et al. (2019), Risks of ischaemic heart disease and stroke in meat eaters, fish eaters, and vegetarians over 18 years of follow-up: EPIC-Oxford, BMJ"

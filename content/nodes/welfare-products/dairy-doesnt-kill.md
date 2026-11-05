@@ -4,6 +4,12 @@ title: "Dairy doesn't kill the cow"
 category: welfare-products
 parent: null
 summary: "Milk requires a cow to have calves, which creates surplus calves, and dairy cows are culled for meat at around 6-7 years, a third of their natural lifespan."
+quick:
+  - "True, a cow isn't killed when she's milked, and dairy involves less immediate killing than meat. The harm is in how the milk's made."
+  - "A cow only gives milk after a calf, so the herd keeps having calves. All males and about a quarter of females are surplus. At least 400,000 bobby calves go to slaughter yearly."
+  - "Most calves are taken from their mothers within a day of birth."
+  - "Cows are culled at around 6.75 years on average, when they could live to about 20."
+  - "So dairy doesn't kill the cow that day. It kills her calves and ends her life once she's less productive."
 tags: [dairy, calves, culling, milk]
 sources:
   - title: "RSPCA Australia Knowledgebase, What happens to bobby calves?"

@@ -4,6 +4,11 @@ title: "But who gets to decide what's ethical?"
 category: social-practical
 parent: personal-choice
 summary: "Ethics is not a vote or a taste; it is reasoning from commitments most people already hold, such as that needless animal suffering is wrong."
+quick:
+  - "Nobody has a hotline, so argue from shared ground. Most people already think causing animals needless suffering is wrong, and many laws assume it."
+  - "The vegan argument is mostly consistency. If needless suffering is wrong and most of us don't need animal products, our own view points one way."
+  - "You can push back by showing a premise is false or explaining why the pig differs from the dog. That's ordinary moral debate, and it beats 'who's to say?'"
+  - "Disagreement doesn't make every view equal. People once disagreed about slavery, and that didn't show there was no better answer."
 tags: [moral-relativism, ethics]
 sources:
   - title: "Animal Welfare (Sentience) Act 2022, legislation.gov.uk"

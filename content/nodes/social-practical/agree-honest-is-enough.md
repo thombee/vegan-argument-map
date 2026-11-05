@@ -4,6 +4,10 @@ title: "Honest hypocrisy is better than pretending, so I'm already doing the rig
 category: social-practical
 parent: agree-everyone-hypocrite
 summary: "Honesty is better than denial, but it is the first step, not the last."
+quick:
+  - "Being honest beats making excuses, and it's rarer than it should be. You've already dodged self-deception."
+  - "But honesty about a wrong is a reason to start fixing it. Admitting a debt is the right start, but it doesn't pay the debt."
+  - "You're actually well placed to move, because you're not defending anything. Pick one meal and begin."
 tags: [honesty, akrasia]
 sources: []
 reviewed: false

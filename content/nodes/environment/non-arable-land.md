@@ -4,6 +4,11 @@ title: "Cattle graze land that can't grow crops"
 category: environment
 parent: null
 summary: "Roughly two-thirds of pasture cannot grow crops and much livestock feed is not human-edible, but that is a reason to use that land lightly, not a reason to eat beef."
+quick:
+  - "That's right: two-thirds of pasture can't grow crops, and about 86% of livestock feed is stuff people don't eat. A rangeland sheep isn't competing with a lentil field."
+  - "But land that can't grow wheat can often grow forest, scrub or native grassland. Ruminant pasture makes up 72% of animal farming's carbon cost."
+  - "It also defends only a small part of the system. Animal products take roughly 80% of farmland, and lots of cereals go to feed."
+  - "And it says nothing about whether a sentient animal should be killed. In a supermarket, there's an alternative."
 tags: [grazing, marginal-land, feed]
 sources:
   - title: "Our World in Data, If the world adopted a plant-based diet, we would reduce global agricultural land use from 4 to 1 billion hectares"

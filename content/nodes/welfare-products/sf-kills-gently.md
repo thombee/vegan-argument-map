@@ -4,6 +4,11 @@ title: "He kills them himself, quickly and calmly, on the farm"
 category: welfare-products
 parent: small-farms
 summary: "A calm death is better than a frightening one, but the question of whether the animal should be killed at all is untouched."
+quick:
+  - "A calm death beats a terrified one, and that's a real point in the farmer's favour."
+  - "But it answers how to kill, not whether to. A quiet end is still an end, for an animal who wanted to go on living and wasn't sick."
+  - "The animal loses its life for a meal we don't need."
+  - "Low-stress killing is a skill and mistakes happen. When it goes wrong the animal suffers. That's a reason for caution, not a claim farmers are careless."
 tags: [slaughter, on-farm, painless]
 sources: []
 reviewed: true

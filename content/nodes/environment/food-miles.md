@@ -4,6 +4,12 @@ title: "Imported vegan food has huge food miles"
 category: environment
 parent: null
 summary: "Transport is about 5% of food emissions and air freight is a tiny share of food miles; what you eat matters far more than where it came from."
+quick:
+  - "It sounds right, but distance is a small part of food's footprint."
+  - "Transport is under 10% of emissions for most foods, and around 5% across the whole food system. Air freight is only 0.16% of food miles."
+  - "Land use change and farm-stage emissions are over 80% for most foods."
+  - "Local beef or lamb still has many times the footprint of most other foods. Beef is about 60 kg of greenhouse gases per kg, peas about 1."
+  - "Buying local can be worth it for other reasons, but for climate, what you eat matters more than how far it travelled."
 tags: [food-miles, local, transport]
 sources:
   - title: "Our World in Data, You want to reduce the carbon footprint of your food? Focus on what you eat, not whether your food is local"

@@ -4,6 +4,12 @@ title: "Where do you get your protein?"
 category: health
 parent: null
 summary: "Beans, lentils, tofu, nuts and grains supply enough protein for adults; dietitians' bodies say planned vegan diets are adequate, though vegans do tend to eat less protein than meat-eaters."
+quick:
+  - "Lower than other diets isn't the same as too low."
+  - "A review found ordinary plant foods like legumes, nuts and seeds are enough for adult protein adequacy, and amino acid deficiency worries are \"substantially overstated\"."
+  - "Vegans do eat less protein on average, so build meals around beans, lentils, tofu and tempeh."
+  - "Official guidance agrees a planned vegan diet is adequate. \"Planned\" matters, since a diet of chips and biscuits would fall short on any diet."
+  - "This isn't medical advice. With high training loads, pregnancy, old age or a condition, ask a dietitian."
 tags: [protein, legumes, amino-acids]
 sources:
   - title: "Mariotti & Gardner (2019), Dietary protein and amino acids in vegetarian diets: a review, Nutrients"

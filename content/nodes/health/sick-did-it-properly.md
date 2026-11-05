@@ -4,6 +4,11 @@ title: "But I supplemented and still felt awful"
 category: health
 parent: tried-and-got-sick
 summary: "Some people do everything recommended and still feel unwell; that deserves proper medical investigation, and no one should be told to push through."
+quick:
+  - "You should be believed, and your experience needs a proper medical answer rather than a slogan."
+  - "Some medical conditions affect how you absorb or tolerate foods, and the supplement or dose may not suit you. Only a clinician and blood tests can sort that out."
+  - "We can't diagnose anyone online, and we won't say your health should be sacrificed."
+  - "If proper investigation shows you do better with some animal foods, that's a medical judgement about you. It doesn't change the case for the animals."
 tags: [experience, medical-advice]
 sources:
   - title: "Dietitians Australia (2020), A Guide to Vegan Eating (fact sheet)"

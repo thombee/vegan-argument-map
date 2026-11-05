@@ -4,6 +4,12 @@ title: "Vegan food is ultra-processed junk"
 category: health
 parent: null
 summary: "Some vegan diets are heavily processed (vegans got ~39.5% of energy from UPFs in one French study vs 33% for meat-eaters), but their overall plant-diet quality scored higher, and a vegan diet needn't use fake meat."
+quick:
+  - "There's truth here. Vegan doesn't mean healthy, since chips, soft drink and lollies are vegan."
+  - "A French study found ultra-processed food made up 33% of energy for meat-eaters, 37% for vegetarians and 39.5% for vegans."
+  - "The same study scored vegans highest on overall plant-based diet quality, so the two can go together."
+  - "Build the diet around beans, lentils, tofu, grains, vegetables and fruit, and treat nuggets and sausages as occasional extras."
+  - "Processed vegan food just needs fair comparison with processed meat, which WHO classes as carcinogenic."
 tags: [ultra-processed, plant-based-meat, diet-quality]
 sources:
   - title: "Gehring et al. (2021), Consumption of ultra-processed foods by pesco-vegetarians, vegetarians, and vegans, J Nutr"

@@ -4,6 +4,12 @@ title: "Meat is healthy and nutrient-dense"
 category: health
 parent: null
 summary: "Meat supplies B12, easily absorbed iron and zinc, and WHO says it can be part of a healthy diet; but processed meat is classed as carcinogenic, red meat as probably so, and none of these nutrients require animals."
+quick:
+  - "Most of this is true. WHO says meat can be part of a healthy diet, and we don't claim meat will make you ill."
+  - "But the nutrients meat is best for can be got elsewhere, and a planned vegan diet is adequate with a reliable B12 source."
+  - "WHO also notes higher intakes of processed and red meat are linked to more heart disease, type 2 diabetes and some cancers."
+  - "In a large UK cohort, vegetarians had a 22 percent lower rate of ischaemic heart disease, though vegans had higher fracture rates."
+  - "The claim is small: meat isn't necessary for health and carries some measured risks."
 tags: [meat, red-meat, nutrients, iarc]
 sources:
   - title: "World Health Organization, Cancer: carcinogenicity of the consumption of red meat and processed meat (Q&A)"

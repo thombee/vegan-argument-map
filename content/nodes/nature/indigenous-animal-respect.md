@@ -4,6 +4,11 @@ title: "Indigenous hunters respect animals more than vegans do"
 category: nature
 parent: indigenous-peoples
 summary: "Many Indigenous traditions involve deep respect for animals; that is a reason to listen, but respect for the animal doesn't remove the harm done to it."
+quick:
+  - "There's a lot to learn here. Respect, reciprocity and gratitude are far better than treating animals as units of production."
+  - "But respect doesn't remove what's done to the animal. Killing one who wants to live needs justification, and respect is a reason to avoid it when we can."
+  - "Where hunting is necessary, respect is the right way to do it. For people who can choose, it's a reason to choose otherwise."
+  - "This isn't saying vegans know better than people in particular places. It's about what to do where we really have the choice."
 tags: [indigenous, respect]
 sources: []
 reviewed: true

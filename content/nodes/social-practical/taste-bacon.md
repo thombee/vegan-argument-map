@@ -4,6 +4,12 @@ title: "But bacon / I just like the taste"
 category: social-practical
 parent: null
 summary: "Taste is a real pleasure, but the pleasure of a meal has to be weighed against what it costs the animal, and the same reasoning is rejected elsewhere."
+quick:
+  - "This is one of the more honest objections. Taste is a real good, and nobody's asking you to pretend plants always replace animal foods exactly."
+  - "The question is what the pleasure is weighed against. Saying 'I like the taste' means the enjoyment outweighs the animal's life and treatment."
+  - "We wouldn't accept that for a dog or cat. Farmed animals can suffer too, and a meal's pleasure isn't usually a good enough reason for harm we'd reject for a pet."
+  - "You're giving up one source of joy, not joy itself, and food offers plenty of others."
+  - "It's not a verdict on you. Plenty of people eat bacon without thinking about it, which is why it's worth thinking about once."
 tags: [taste, pleasure, ethics]
 sources: []
 reviewed: true

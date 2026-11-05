@@ -4,6 +4,9 @@ title: "You can't avoid harming animals, so why bother?"
 category: nature
 parent: crop-deaths
 summary: "Not being able to avoid all harm doesn't mean no effort matters; the standard is reducing it where practicable."
+quick:
+  - "Veganism has never claimed perfection. The standard is \"as far as is possible and practicable\"."
+  - "Not being able to cut out all harm is a reason to cut what we can."
 tags: [hypocrisy, practicable]
 sources:
   - title: "The Vegan Society, Definition of veganism"

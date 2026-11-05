@@ -4,6 +4,11 @@ title: "But what about restaurants, travel and eating with family?"
 category: social-practical
 parent: too-hard
 summary: "Social eating is the hardest part, but a few habits (checking menus, offering to bring a dish, asking early) handle most of it."
+quick:
+  - "This is probably the most honest version, because it's about people, not recipes. Nobody wants to be difficult."
+  - "Planning and tone help. Check menus ahead, tell hosts early, offer to bring a dish to share, and treat a mistake as an accident."
+  - "If there's genuinely nothing, eating what's there once is an imperfect but human outcome. 'As far as is possible and practicable' allows for it."
+  - "What matters most is the regular choices, week in and week out."
 tags: [social, restaurants, family]
 sources: []
 reviewed: true

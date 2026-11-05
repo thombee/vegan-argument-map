@@ -4,6 +4,11 @@ title: "But the cancer risk from red meat is tiny"
 category: health
 parent: meat-is-healthy
 summary: "WHO says the IARC classification measures how strong the evidence is that something can cause cancer, not how big the risk is at a given intake; you should not read it as 'as dangerous as smoking'."
+quick:
+  - "You're right that the classification is often misread. WHO says the categories show strength of evidence, not how likely cancer is at a given intake."
+  - "Processed meat is Group 1 and red meat Group 2A, but sharing a category doesn't mean sharing the same risk."
+  - "WHO also says meat can be part of a healthy diet, and many guidelines recommend limiting processed and red meat."
+  - "Nobody should panic and we don't say a bacon sandwich gives you cancer. Risks grow with higher intakes, and it's not our main reason. The strongest case is about the animals."
 tags: [iarc, cancer, red-meat, processed-meat]
 sources:
   - title: "World Health Organization, Cancer: carcinogenicity of the consumption of red meat and processed meat (Q&A)"

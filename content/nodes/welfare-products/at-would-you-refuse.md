@@ -4,6 +4,12 @@ title: "Would you refuse a drug that could save your child?"
 category: welfare-products
 parent: animal-testing-medicine
 summary: "No; the vegan position is about reasonable avoidance of unnecessary harm, and a life-saving medicine is not the same as a meal, a jacket or a hobby."
+quick:
+  - "I'd give it, and so would nearly every vegan. The position was never that no human interest can outweigh an animal's."
+  - "It's that trivial interests like taste, convenience or fashion can't justify killing."
+  - "We already think this way. Harming one to prevent a much bigger harm to another can be right, and doing the same for fun is wrong."
+  - "A medicine for a sick child is necessity. A burger isn't."
+  - "You can put a human life first in an emergency and still want animal experiments replaced and no animal use for food, cosmetics or entertainment."
 tags: [necessity, thought-experiment, children]
 sources: []
 reviewed: true

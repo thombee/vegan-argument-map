@@ -4,6 +4,12 @@ title: "Your medicines were tested on animals"
 category: welfare-products
 parent: null
 summary: "Many drugs were tested on animals, and vegans use them anyway where law or health require it; that is not a contradiction, and the law is already shifting toward non-animal methods."
+quick:
+  - "Nobody can dodge every product of animal testing, and no vegan's asked to refuse a medicine they need."
+  - "Veganism means avoiding exploitation where it's possible and practicable. No animal-free drug, no choice."
+  - "Where an animal-free version exists, like many cosmetic and over-the-counter products, use that."
+  - "The law's shifting too. Australia's code pushes replacing animals, and the US now allows non-animal methods."
+  - "Unavoidable medical use is no reason to eat or wear animals where there's no medical need."
 tags: [animal-testing, medicine, 3Rs, practicable]
 sources:
   - title: "NHMRC, Australian code for the care and use of animals for scientific purposes"

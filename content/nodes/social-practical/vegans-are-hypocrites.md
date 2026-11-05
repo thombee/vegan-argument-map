@@ -4,6 +4,11 @@ title: "Vegans still harm animals (phones, cars, crops)"
 category: social-practical
 parent: null
 summary: "Veganism is defined as avoiding exploitation 'as far as is possible and practicable'; failing to be perfect is not a reason to do no good."
+quick:
+  - "Fair to notice, and many vegans agree perfect harmlessness is impossible. That's why the definition says 'as far as is possible and practicable'. It's a direction, not purity."
+  - "If you can't avoid all harm, it doesn't follow you should avoid none. A doctor who can't save every patient still treats the ones in front of her."
+  - "The harms are different kinds. Eating a steak is a deliberate, avoidable purchase, while a road death is an unintended side effect."
+  - "Even if vegans were all hypocrites, the argument would be unaffected. A consistent argument can come from an inconsistent person."
 tags: [hypocrisy, consistency, practicability]
 sources:
   - title: "The Vegan Society, Definition of veganism"

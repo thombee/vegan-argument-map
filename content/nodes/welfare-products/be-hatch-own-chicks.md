@@ -4,6 +4,10 @@ title: "I hatch my own chicks, so no one is culled"
 category: welfare-products
 parent: backyard-eggs
 summary: "Avoiding the hatchery removes the cull, but male chicks still hatch and the choice then becomes what happens to them."
+quick:
+  - "It's different from the egg industry and avoids its specific problem. Hens raising their own chicks is closer to what chickens do."
+  - "But males hatch too, and most home flocks can't keep many roosters. The keeper faces a small version of the industry's decision."
+  - "Keep every bird until it dies naturally and it's a sanctuary, which any vegan can back. Kill some, and the moral question's back in miniature."
 tags: [hatching, roosters, chicks]
 sources:
   - title: "RSPCA Australia Knowledgebase, What happens with male chicks in the egg industry?"

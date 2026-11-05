@@ -4,6 +4,11 @@ title: "If it's fine, why do some paediatric societies advise against it?"
 category: health
 parent: vegan-kids-smaller
 summary: "A review of position papers found they differ, and the cautious ones tend to cite lower-quality or older studies; the gap reflects limited evidence, so neither side should claim certainty."
+quick:
+  - "The disagreement is real. Some associations support well-designed vegan diets for kids, others caution against them."
+  - "A review argues some criticisms lean on weak or outdated studies, or on children whose diets weren't well designed, and calls for an updated review."
+  - "Germany's DGE stopped advising against it in 2024 but didn't endorse it, citing limited data and the need for professional guidance."
+  - "We can't say who'll be proven right. The common ground is don't do it without B12 and professional support."
 tags: [children, position-statements]
 sources:
   - title: "Jak\u0161e, Fras & Fidler Mis (2023), Vegan diets for children: a narrative review of position papers published by relevant associations, Nutrients"

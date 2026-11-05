@@ -4,6 +4,10 @@ title: "But meat-free alternatives and cheese cost more than the real thing"
 category: social-practical
 parent: too-expensive
 summary: "Substitutes are often pricier, but they are optional; the cheap base of a vegan diet is staples such as legumes, grains and vegetables."
+quick:
+  - "Often true. New processes and small production runs tend to cost more, and some substitutes are a treat, not a daily item."
+  - "The Oxford study's savings came from whole foods and left out highly processed meat replacements. You can eat well and cheaply without them, but not every vegan product is cheap."
+  - "Chilli, curry, pasta with a bean sauce or a tofu stir-fry are cheap to make. If you want a plant-based burger every night, expect to pay, as you would for premium meat."
 tags: [cost, processed-food]
 sources:
   - title: "Springmann et al. (2021), The global and regional costs of healthy and sustainable dietary patterns, The Lancet Planetary Health (University of Oxford summary)"

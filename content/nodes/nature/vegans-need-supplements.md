@@ -4,6 +4,9 @@ title: "If vegan food is so natural to us, why do vegans need supplements?"
 category: nature
 parent: ancestors-ate-meat
 summary: "The B12 question has its own page; in short, a reliable B12 source is part of any planned vegan diet, and that does not make the diet inadequate."
+quick:
+  - "Needing a reliable source of one nutrient doesn't make a diet unviable."
+  - "The Academy of Nutrition and Dietetics says well-planned vegan diets are nutritionally adequate, and the planning includes fortified foods or B12."
 tags: [b12]
 sources:
   - title: "Melina, Craig & Levin (2016), Position of the Academy of Nutrition and Dietetics: Vegetarian Diets"

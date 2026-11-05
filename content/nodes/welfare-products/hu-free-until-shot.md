@@ -4,6 +4,11 @@ title: "A wild animal lives free until a single clean shot; that's the best deat
 category: welfare-products
 parent: hunting
 summary: "A clean shot is a good death, but the evidence shows it is not guaranteed, and it still ends a life that did not need to end."
+quick:
+  - "When it works it's a fast death, and a responsible hunter aims for that."
+  - "The same study that found 93% outright kills lists what helps: a comfortable position, a gun rest, chest shots, heavier bullets, unhurried shots and regular practice."
+  - "But even skilled hunters can't reach 100%, and wounded animals can suffer a long time."
+  - "And a quick death doesn't explain why an animal who wasn't going to die today should be killed at all."
 tags: [wounding, wild, clean-kill]
 sources:
   - title: "Aebischer, Wheatley & Rose (2014), Factors associated with shooting accuracy and wounding rate of four managed wild deer species in the UK, PLOS ONE"

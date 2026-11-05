@@ -4,6 +4,11 @@ title: "But animal protein builds more muscle"
 category: health
 parent: incomplete-protein
 summary: "Pooled trials show no overall difference in strength or total lean mass by protein source, with a small lean-mass edge for animal protein in younger adults; a matched-protein trial in vegans showed equal gains."
+quick:
+  - "A meta-analysis found protein source didn't change lean mass or strength overall, but younger adults gained a small extra (about 0.4 kg) lean mass from animal protein."
+  - "That's modest, and it doesn't show plant eaters can't build muscle."
+  - "In a 12-week trial with protein matched, vegan and omnivore men gained lean mass and muscle size alike. It's small, short and in young men."
+  - "Practically: training hard on plants, aim for enough total protein and maybe a bit more. That's a tweak, not a barrier."
 tags: [protein, muscle, training]
 sources:
   - title: "Lim et al. (2021), Animal protein versus plant protein in supporting lean mass and muscle strength: a systematic review and meta-analysis of RCTs, Nutrients"

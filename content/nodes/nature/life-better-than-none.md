@@ -4,6 +4,11 @@ title: "A short good life is better than no life"
 category: nature
 parent: wouldnt-exist-otherwise
 summary: "A life worth living requires that it be good in fact; most farmed lives are short and end in slaughter, and good intentions don't answer the question of killing."
+quick:
+  - "That's the best case and it deserves a fair answer. A very good life is a good thing."
+  - "Whether humane meat exists is a separate debate, covered on its own page."
+  - "Even then, the ending matters. Death takes away the animal's future experiences, which is why researchers say no slaughter can be fully humane."
+  - "\"She had a good life\" is a reason to be glad about the past, and a reason not to end the future."
 tags: [welfare, existence]
 sources:
   - title: "Browning & Veit (2020), Is humane slaughter possible?, Animals"

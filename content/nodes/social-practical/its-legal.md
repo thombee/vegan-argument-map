@@ -4,6 +4,11 @@ title: "It's legal, so it's fine"
 category: social-practical
 parent: null
 summary: "Laws record what a society tolerates at a point in time; slavery was lawful until 1833, so legality can't settle whether something is right."
+quick:
+  - "Obeying the law is a good default, but 'legal' isn't the same as 'ethical', and we all know it when the example changes."
+  - "Slavery was lawful in the British empire until 1833, and nobody concludes it was acceptable. Laws are made by people and lag behind moral understanding."
+  - "Law follows ethical argument. Every reform started with someone saying 'this is legal and still wrong'."
+  - "None of this makes law irrelevant. It deserves respect, but it can't be where the moral question ends."
 tags: [law, ethics, legality]
 sources:
   - title: "Slavery Abolition Act 1833, legislation.gov.uk"

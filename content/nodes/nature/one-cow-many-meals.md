@@ -4,6 +4,11 @@ title: "One cow feeds a lot of people; that's one death for many meals"
 category: nature
 parent: davis-least-harm
 summary: "The arithmetic ignores the animal's own interests and the land the cow needs; and plant foods can also feed many people per death."
+quick:
+  - "The reasoning counts deaths per meal but treats the cow's death as one unit. A cow is a life with an interest in continuing."
+  - "Meal arithmetic can justify almost any cruelty if you spread the benefits widely enough."
+  - "It also leaves out what the cow eats. Only about 12% of feed calories come back as food, so growing food for people directly can feed more people per hectare."
+  - "To reduce harm, eating plants directly is the most reliable way. If field deaths bother you, buy wildlife-friendly farming, not a sentient animal."
 tags: [arithmetic, land]
 sources:
   - title: "Cassidy et al. (2013), Redefining agricultural yields: from tonnes to people nourished per hectare, Environmental Research Letters"

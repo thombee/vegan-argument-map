@@ -4,6 +4,11 @@ title: "Then the science should be settled before anyone changes anything"
 category: moral-status
 parent: vague-line-means-anything-goes
 summary: "Evidence is already strong for farmed birds and mammals. Waiting for certainty on insects or shellfish doesn't postpone a decision about chickens."
+quick:
+  - "Agreement on borderline cases always lags behind. If we waited for it to be complete we'd never act, and governments haven't waited."
+  - "The UK extended legal protection to cephalopods and decapods after a review recommended treating them all as sentient."
+  - "The open questions are at the edges. The New York Declaration says there's strong support for conscious experience in mammals and birds."
+  - "So waiting makes sense for the hard cases. It doesn't for the ones where the science is already clear."
 tags: [science, uncertainty, precaution]
 sources:
   - title: "Birch et al. (2021), Review of the Evidence of Sentience in Cephalopod Molluscs and Decapod Crustaceans, LSE"

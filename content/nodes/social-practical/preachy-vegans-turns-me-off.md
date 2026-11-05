@@ -4,6 +4,11 @@ title: "It turned me off even considering it"
 category: social-practical
 parent: preachy-vegans
 summary: "A bad first encounter is a good reason to dislike a person, not a reason to stop thinking about the question itself."
+quick:
+  - "That reaction is understandable, and the people responsible owe you better. Nobody should have to sit through a lecture to get information."
+  - "But you're judging an idea by its worst advocates. We wouldn't do that with medicine or environmentalism, and every movement has rude people."
+  - "You can look at it on your own terms, with no one watching. Read the case for and against, see which premises you accept, and decide."
+  - "That puts you back in charge of the process, which is probably what the lecturing took away."
 tags: [advocacy, psychology]
 sources: []
 reviewed: true

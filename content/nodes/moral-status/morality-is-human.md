@@ -4,6 +4,12 @@ title: "Morality is a human invention for humans"
 category: moral-status
 parent: species-loyalty
 summary: "Morality is made by humans, but who it protects is a separate matter. The reason we condemn cruelty to a dog is the dog's suffering."
+quick:
+  - "Where morality comes from doesn't settle who it covers. Humans invented maths, and it applies to galaxies."
+  - "What matters is what moral rules are for: preventing harm to those who can be harmed."
+  - "Most of us already think cruelty to a dog is wrong in itself, not just because of what it does to us."
+  - "If morality were a human club, protecting infants who can't contribute would be optional too. Nobody thinks that."
+  - "So extending it to farm animals applies a principle we already hold."
 tags: [morality, humanism, sentience]
 sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"

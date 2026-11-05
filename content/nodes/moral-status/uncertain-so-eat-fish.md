@@ -4,6 +4,12 @@ title: "The science is unsettled, so I'll carry on eating fish"
 category: moral-status
 parent: fish-no-neocortex
 summary: "Unsettled science points toward caution, not away from it. When there is a realistic possibility of suffering and the benefit is replaceable, the burden is on the one causing the harm."
+quick:
+  - "True, the question isn't closed. But going from 'unsettled' to 'carry on' treats the chance fish suffer as zero."
+  - "The New York Declaration says there's at least a realistic possibility of conscious experience in all vertebrates, fish included. Several authors say err on the side of caution."
+  - "If a building might be occupied, you don't demolish it just because nobody's proven someone's inside."
+  - "The cost of avoiding the harm is a different dinner."
+  - "Waiting for certainty can be a way of never deciding. Eat less fish now and update later."
 tags: [uncertainty, precaution, fish]
 sources:
   - title: "New York Declaration on Animal Consciousness (2024)"

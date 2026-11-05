@@ -4,6 +4,12 @@ title: "Without cattle that grassland would be worth nothing"
 category: environment
 parent: grass-fed-regenerative
 summary: "Land freed from grazing could regrow forest or native vegetation that stores far more carbon; that stored carbon is the real cost of keeping pasture."
+quick:
+  - "Some grassland should stay grassland. Nobody's saying plant trees on a prairie."
+  - "But lots of pasture, especially in the tropics and wetter regions, would regrow forest or woodland if left alone."
+  - "Pastures for ruminant meat and dairy make up 72% of the carbon opportunity cost of animal farming. The soil part of that estimate is uncertain."
+  - "A global plant-based diet would cut farmland from 4.1 billion to about 1 billion hectares."
+  - "So the choice is grazing or a restored ecosystem, which often stores more carbon and supports more wildlife."
 tags: [pasture, rewilding, land-use]
 sources:
   - title: "Hayek et al. (2021), The carbon opportunity cost of animal-sourced food production on land, Nature Sustainability"

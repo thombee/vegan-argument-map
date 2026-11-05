@@ -4,6 +4,12 @@ title: "What about insects, oysters and mussels?"
 category: moral-status
 parent: null
 summary: "Evidence for insect sentience is stronger than often assumed, evidence for bivalves is thin and unresolved, and neither uncertainty gives a reason to prefer a pig or a hen."
+quick:
+  - "Fair challenge, and the honest answer differs for each animal."
+  - "A 2022 review found adult flies, mosquitoes, cockroaches and termites met six of eight sentience criteria. Most other orders met three to four."
+  - "So insects aren't a trivial case. The New York Declaration also lists them as a realistic possibility."
+  - "Bivalves are different: one report found no papers directly showing whether they're sentient. That's uncertainty, not evidence either way."
+  - "Concern follows the evidence: strong for pigs, chickens and cows, substantial for many insects, open for oysters. Not settling the last doesn't touch the first."
 tags: [insects, bivalves, oysters, sentience]
 sources:
   - title: "Gibbons et al. (2022), Can insects feel pain? A review of the neural and behavioural evidence, Advances in Insect Physiology"

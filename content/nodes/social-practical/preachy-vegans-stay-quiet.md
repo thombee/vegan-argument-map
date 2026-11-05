@@ -4,6 +4,11 @@ title: "Then vegans should just keep quiet about it"
 category: social-practical
 parent: preachy-vegans
 summary: "If people believe a serious wrong is being done, keeping silent is not neutral; the goal is to speak with respect, not to say nothing."
+quick:
+  - "There's something in this. Quiet example persuades, and vegans shouldn't corner people at meals."
+  - "But 'say nothing' can't be a general rule. Every successful moral movement relied on people speaking up, often unwelcomely."
+  - "If someone sincerely thinks billions of animals are harmed, silence isn't neutral, because the harm goes on."
+  - "The reasonable middle: speak when asked or when it fits, be honest not aggressive, accept a 'no thanks' gracefully, and be open about the difficulties."
 tags: [advocacy, ethics]
 sources: []
 reviewed: true

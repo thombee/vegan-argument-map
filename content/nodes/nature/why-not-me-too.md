@@ -4,6 +4,11 @@ title: "If some people are exempt, why not me?"
 category: nature
 parent: indigenous-peoples
 summary: "The exemption follows real need and no practicable alternative; if the same applies to you, that's a different conversation, but for most people it doesn't."
+quick:
+  - "Exceptions aren't a free pass. \"Possible and practicable\" is a test about real alternatives."
+  - "Someone with a restrictive medical condition, in a food desert, or without cooking facilities may truly have fewer options."
+  - "Most people do have an alternative. Habit, preference and family pressure are real, but they're not the same as lacking food, and hard isn't impossible."
+  - "If you truly can't, vegans generally say to do what you can."
 tags: [necessity, practicable]
 sources:
   - title: "The Vegan Society, Definition of veganism"

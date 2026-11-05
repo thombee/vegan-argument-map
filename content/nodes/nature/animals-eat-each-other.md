@@ -4,6 +4,11 @@ title: "Animals kill each other in the wild, so why can't we?"
 category: nature
 parent: null
 summary: "Predation in the wild is not a moral model; we are the animals who can choose otherwise, and our duty not to cause harm is stronger than any duty to prevent all harm."
+quick:
+  - "What wild animals do isn't a moral standard, because most of them can't weigh right and wrong. We're comparing ourselves with who we want to be, not with a lion."
+  - "Vegans mostly see a strong duty not to cause harm, and a weaker, more complicated one to prevent harm we didn't cause."
+  - "Not eating animals is in our power. Rewriting ecosystems isn't, and meddling can do more damage than good."
+  - "That's a reason for humility about wild predation, not a reason to take part in farming."
 tags: [wild-animal-suffering, predation, moral-agency]
 sources: []
 reviewed: true

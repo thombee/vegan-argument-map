@@ -4,6 +4,12 @@ title: "I only buy humane / free-range / local"
 category: welfare-products
 parent: null
 summary: "Higher-welfare farms are better than factory farms, but the animals are still killed young, and some of the harms sit upstream of the farm gate."
+quick:
+  - "There's a real difference. An animal on pasture beats one in a cage or crowded shed, so choose the better farm."
+  - "But better isn't the same as justified. The animal's still killed young: meat chickens at four to six weeks, against a natural lifespan of up to 10 years."
+  - "Labels promise less than they sound. Free range legally allows up to 10,000 hens per hectare."
+  - "Some harms sit upstream. Most male chicks are killed on day one, whatever system the hens end up in."
+  - "A kind life then an early, unneeded death is hard to defend for a pig or hen if you wouldn't accept it for a dog. Buying humane is a step. Not buying is the consistent endpoint."
 tags: [free-range, welfare-labels, slaughter, laying-hens, dairy]
 sources:
   - title: "RSPCA Australia Knowledgebase, How are meat chickens farmed in Australia?"

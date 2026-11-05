@@ -4,6 +4,11 @@ title: "Plant-based versions just aren't as good"
 category: social-practical
 parent: taste-bacon
 summary: "Some substitutes fall short, but whether a replacement matches the original does not settle whether the original is justified."
+quick:
+  - "Often true, and plenty of cheese substitutes are plainly weaker. Saying they're identical doesn't help anyone."
+  - "But a weaker alternative just makes it a bigger sacrifice, and people accept sacrifices when they think it matters. The cost is real, and the animals' side is larger."
+  - "If you'd switch once it tasted equal, then ethics isn't what's stopping you, which is useful to know about yourself."
+  - "Lots of dishes like curries, dals and stews aren't imitations of anything and are good in their own right."
 tags: [taste, substitutes]
 sources: []
 reviewed: true

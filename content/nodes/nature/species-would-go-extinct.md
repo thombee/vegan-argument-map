@@ -4,6 +4,10 @@ title: "Breeds would go extinct, which is a loss"
 category: nature
 parent: wouldnt-exist-otherwise
 summary: "Breeds are human creations, and a loss of a breed isn't a harm to any animal; sanctuaries and conservation can keep heritage breeds without mass breeding for slaughter."
+quick:
+  - "Concern for rare breeds is fair, but breeds are collections. It's individual animals who feel pain."
+  - "Keeping a breed going doesn't need its members killed for food. Sanctuaries, conservation programmes, genetic storage and small herds can do it."
+  - "If keeping a breed alive is valuable, fund that directly instead of eating its members."
 tags: [breeds, extinction]
 sources: []
 reviewed: true

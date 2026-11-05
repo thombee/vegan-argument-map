@@ -4,6 +4,11 @@ title: "I'll wait for lab-grown meat"
 category: social-practical
 parent: null
 summary: "Cultivated meat may help, but it is not a reason to delay now, and its availability is still limited."
+quick:
+  - "Nothing in the vegan argument opposes cultivated meat. If it can replace slaughter at scale, great."
+  - "The trouble is 'wait'. Animals are being killed now, and progress is uncertain. The FDA has only a few completed consultations, a long way from everyday shelves."
+  - "People who plan to switch later tend to carry on until that day. If you like the tech, act on your concern in the meantime."
+  - "Plenty of plant-based meals are available right now, so there's little reason to put the question on hold."
 tags: [cultivated-meat, technology]
 sources:
   - title: "US Food and Drug Administration, Human food made from cultured animal cells"

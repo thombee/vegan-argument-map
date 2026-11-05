@@ -4,6 +4,11 @@ title: "Western vegans shouldn't lecture other cultures about food"
 category: social-practical
 parent: culture-tradition
 summary: "Respecting other cultures is right, and plant-based traditions are part of many of them; the argument is about reasons, not nationality."
+quick:
+  - "Fair worry: nobody should lecture a community about its own foodways. Subsistence peoples have their own page."
+  - "But veganism isn't just a Western import. Plant-based eating has deep roots in several traditions, and large shares of Hindus and Jains are vegetarian."
+  - "An argument doesn't belong to a country. If it's sound it applies to anyone, and if it's weak, the speaker's nationality won't save it."
+  - "If a Western vegan is condescending, call out the condescension, then look at the reasons."
 tags: [culture, colonialism]
 sources:
   - title: "Pew Research Center (2021), Religion in India: Tolerance and Segregation"

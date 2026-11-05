@@ -4,6 +4,10 @@ title: "I don't want the government telling me what to eat"
 category: social-practical
 parent: personal-choice
 summary: "Most vegan advocacy asks for persuasion and personal change; whether law should ever follow is a separate question from whether the practice is right."
+quick:
+  - "There's a real difference between 'it's wrong' and 'it should be banned'. Plenty of unkind things are legal, and much of what vegans do is just choosing differently."
+  - "Policy questions do exist, and governments already regulate and subsidise farming. People reasonably disagree about which reforms are wise."
+  - "But worry about future laws isn't an argument about the ethics of the choice now. If animals matter, that question stays whether or not any law follows."
 tags: [law, autonomy]
 sources: []
 reviewed: true

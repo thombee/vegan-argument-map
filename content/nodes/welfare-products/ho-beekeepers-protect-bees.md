@@ -4,6 +4,11 @@ title: "Beekeepers look after their bees, and it helps the environment"
 category: welfare-products
 parent: honey
 summary: "Good beekeepers do care for their colonies, but caring for hives is not the same as having a claim on the honey, and taking it still displaces the bees' own food."
+quick:
+  - "Many beekeepers are conscientious and fond of their bees, and that respect is real."
+  - "But the care and the honey are separate. You can keep bees without taking the honey."
+  - "Honey is the colony's food store, and it's commonly replaced with sugar. That's okay for the bees, but their food got swapped for something cheaper so we could keep what they made."
+  - "Whether managed honeybees help pollinators in general is a separate question, and it doesn't depend on selling honey."
 tags: [beekeeping, honey, stewardship]
 sources:
   - title: "Přidal, Musila & Svoboda (2023), Condition and Honey Productivity of Honeybee Colonies Depending on Type of Supplemental Feed for Overwintering, Animals"

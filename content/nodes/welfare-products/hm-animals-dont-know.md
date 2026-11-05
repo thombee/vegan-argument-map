@@ -4,6 +4,10 @@ title: "But they don't know it's coming, so they aren't harmed"
 category: welfare-products
 parent: hm-good-life-one-bad-day
 summary: "Not knowing about death does not remove the harm; the loss is the future the animal would have had."
+quick:
+  - "This has its own page, Killing is fine if it's painless."
+  - "Short version: someone killed painlessly in their sleep has still been wronged, because the harm is losing their future."
+  - "Same logic for an animal. It has a future of its own to lose."
 tags: [death, harm, bridge]
 sources: []
 reviewed: true

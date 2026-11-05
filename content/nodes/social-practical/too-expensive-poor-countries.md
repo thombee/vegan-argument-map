@@ -4,6 +4,10 @@ title: "Cheap staples aren't available to everyone, especially poorer households
 category: social-practical
 parent: too-expensive
 summary: "In lower-income settings costs and access really do differ; the case for plant-based eating there depends on local food systems and is not the same as for wealthy countries."
+quick:
+  - "The study behind the cost claim says the same. In lower-income countries, healthy sustainable diets were at least a third more expensive, and food insecurity is serious."
+  - "A diet model isn't what each household can reach. The moral argument is for people with a real choice, and 'practicable' includes affordability."
+  - "That leaves most readers in wealthy countries, where the study found vegan the cheapest, so the objection doesn't apply to them."
 tags: [cost, food-access, poverty]
 sources:
   - title: "Springmann et al. (2021), The global and regional costs of healthy and sustainable dietary patterns, The Lancet Planetary Health (University of Oxford summary)"

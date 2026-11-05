@@ -4,6 +4,12 @@ title: "We need animal manure to grow crops"
 category: environment
 parent: null
 summary: "Manure is a useful by-product, not a necessity: legumes and green manures can supply nitrogen, though the transition has real challenges and synthetic fertiliser matters."
+quick:
+  - "Manure is valuable, and if a farm has animals, using it makes sense. But crops don't depend on animals."
+  - "Plants need nitrogen, phosphorus and potassium and don't care where they came from. Legumes like clover and beans fix nitrogen from the air."
+  - "Stockless organic farming is a recognised system, and a three-year trial found processed red clover worked well."
+  - "The limits are real: synthetic nitrogen feeds about half the world, manure is limited, and legumes yield less. A stockless world would still need some synthetic fertiliser."
+  - "So manure is a handy resource, not a requirement. It's no reason to keep farming animals."
 tags: [manure, fertiliser, nitrogen, stockless]
 sources:
   - title: "Our World in Data, How many people does synthetic fertilizer feed?"

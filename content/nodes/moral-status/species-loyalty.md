@@ -4,6 +4,12 @@ title: "It's natural to prioritise your own species"
 category: moral-status
 parent: null
 summary: "Special loyalty to family is defensible because of relationships; species membership alone is not a morally relevant difference, any more than race or sex."
+quick:
+  - "Partiality is real, and morality doesn't ask us to give it up. Parents can put their kids first."
+  - "But there it's a relationship, with history and care. Species is just a category, and the argument is that it's as irrelevant as birthplace."
+  - "Preferring your child in a rescue is a tie-break in an emergency. Eating animals is serious harm for a preference when other food exists."
+  - "'It's natural' isn't a justification. We ask people to resist plenty of natural tendencies, like bias against other groups."
+  - "Bentham asked what else could draw the line if not the capacity to suffer, and it's not reason or speech."
 tags: [speciesism, loyalty, partiality]
 sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"

@@ -4,6 +4,11 @@ title: "If I can favour my family over strangers, I can favour humans over anima
 category: moral-status
 parent: species-loyalty
 summary: "Family preference is grounded in a relationship and decides whom to help first, not whether to harm someone else for a preference."
+quick:
+  - "Family ties are real, but they're about who you help first, not whether you can harm someone else."
+  - "You can save your own child before mine. You can't take my child's food to give yours a treat."
+  - "Eating animals is the second kind of case: harming a third party for a preference."
+  - "So humans can reasonably come first in a rescue or hard trade-off. That doesn't mean animals can be harmed for taste."
 tags: [partiality, family, duties]
 sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"

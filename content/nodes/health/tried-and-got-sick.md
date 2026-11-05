@@ -4,6 +4,12 @@ title: "I tried vegan and felt terrible"
 category: health
 parent: null
 summary: "Many people feel unwell on a poorly planned vegan diet, often from B12, iron, iodine or energy gaps that a test can find; see a doctor or dietitian rather than assuming it's you or the diet."
+quick:
+  - "You're not imagining it and you're not a failure. Feeling unwell on a vegan diet is common enough, and the causes are usually fixable."
+  - "B12 deficiency can show up in the blood, nerves and skin. It's largely preventable with timely diagnosis and treatment, which means supplementing and testing."
+  - "Other usual suspects: low intakes of vitamin D, iodine, zinc, calcium or selenium, too little food overall, and more ultra-processed food among newer or younger vegans."
+  - "See a doctor for blood tests and ideally a dietitian who knows plant-based eating. If you try again, supplement B12 from day one."
+  - "If you'd rather not, that's your decision. We wouldn't ask you to keep a diet that harms you."
 tags: [experience, B12, iron, energy]
 sources:
   - title: "Parakh & Dewan (2026), Revisiting the hematological manifestations of vitamin B12 deficiency, Front Nutr"

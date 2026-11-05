@@ -4,6 +4,11 @@ title: "The soy moratorium already fixed this, so it's not a problem"
 category: environment
 parent: soy-deforestation
 summary: "The moratorium cut soy-driven forest loss in the Amazon, and in 2015 most soy expansion came from the Cerrado instead."
+quick:
+  - "Half right. After the Soy Moratorium, soy's share of forest-clearing expansion fell from 30% to 1% by 2014. That's a real achievement."
+  - "But protecting one region doesn't stop clearing in another. In 2015 only 13% of soy expansion came from the Amazon, and 48% from the Cerrado."
+  - "Soy isn't blameless, but people eating it directly are a small share of demand. Pressure on the Cerrado is mostly feed."
+  - "Eating fewer animal products reduces both the pasture and the feed soy."
 tags: [soy, moratorium]
 sources:
   - title: "Our World in Data, Soy"

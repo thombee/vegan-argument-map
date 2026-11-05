@@ -18,6 +18,8 @@ function md(text) {
     .replace(/<a href="(https?:)/g, '<a rel="noopener" href="$1');
 }
 
+const inline = (t) => marked.parseInline(t || '').replace(/href="\/(?!\/)/g, `href="${BASE}/`);
+
 function write(rel, content) {
   const f = path.join(OUT, rel);
   fs.mkdirSync(path.dirname(f), { recursive: true });
@@ -101,6 +103,7 @@ const index = nodes.map((n) => ({
   title: n.data.title,
   summary: n.data.summary,
   tags: n.data.tags || [],
+  quick: Array.isArray(n.data.quick) ? n.data.quick.join(' ').replace(/\[([^\]]+)\]\([^)]*\)/g, '$1') : '',
   category: catName.get(n.data.category) || n.data.category,
   root: !n.data.parent,
   url: url(`/a/${n.data.id}/`),
@@ -173,8 +176,11 @@ for (const n of nodes) {
 <ol class="sources">
 ${sources.map((s) => `  <li><a rel="noopener" href="${esc(s.url)}">${esc(s.title)}</a><span class="supports">${esc(s.supports)}</span></li>`).join('\n')}
 </ol></section>` : '';
+  const quick = Array.isArray(d.quick) ? d.quick.filter((q) => typeof q === 'string' && q.trim()) : [];
+  const hasQuick = quick.length > 0;
+  const theirHeading = d.parent ? 'Their comeback' : 'Their best case';
   const kids = children.get(d.id) || [];
-  const kidsHtml = kids.length ? `<section aria-labelledby="replies"><h2 id="replies">Common replies to this</h2>\n${nodeList(kids)}\n</section>` : '';
+  const kidsHtml = kids.length ? `<section aria-labelledby="replies"><h2 id="replies">What people say next</h2>\n${nodeList(kids)}\n</section>` : '';
   const tags = (d.tags || []).length ? `<p class="tags">${d.tags.map((t) => `<span>${esc(t)}</span>`).join(' ')}</p>` : '';
   write(`a/${d.id}/index.html`, layout({
     title: d.title,
@@ -186,16 +192,29 @@ ${sources.map((s) => `  <li><a rel="noopener" href="${esc(s.url)}">${esc(s.title
   <p class="meta">${draftBadge(n)}</p>
   <p class="lead">${esc(d.summary)}</p>
   ${tags}
-  <p><button type="button" class="copy" data-url="${url(`/a/${d.id}/`)}" hidden>Copy link</button></p>
 </header>
-<section class="objection" aria-labelledby="objection"><h2 id="objection">The objection at full strength</h2>
+${hasQuick ? `<section class="objection theirs" aria-labelledby="objection"><h2 id="objection">${esc(theirHeading)}</h2>
+${md(n.sections['The objection at full strength'])}</section>
+<section class="quick" aria-labelledby="quick"><h2 id="quick">Why it doesn't hold up</h2>
+<ul class="quick-list">
+${quick.map((q) => `  <li>${inline(q)}</li>`).join('\n')}
+</ul></section>
+<details class="full">
+<summary>Full answer and sources</summary>
+<div class="full-body">
+<section aria-labelledby="response"><h2 id="response">Response</h2>
+${md(n.sections['Response'])}</section>
+${srcHtml}
+</div>
+</details>` : `<section class="objection" aria-labelledby="objection"><h2 id="objection">The objection at full strength</h2>
 ${md(n.sections['The objection at full strength'])}</section>
 <section aria-labelledby="response"><h2 id="response">Response</h2>
 ${md(n.sections['Response'])}</section>
 <section class="short" aria-labelledby="short"><h2 id="short">In short</h2>
 ${md(n.sections['In short'])}</section>
-${srcHtml}
+${srcHtml}`}
 ${kidsHtml}
+<p class="copy-row"><button type="button" class="copy" data-url="${url(`/a/${d.id}/`)}" hidden>Copy link</button></p>
 </article>
 <script src="${url('/copy.js')}" defer></script>`,
   }));

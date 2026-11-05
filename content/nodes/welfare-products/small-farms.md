@@ -4,6 +4,12 @@ title: "My local farmer treats his animals well"
 category: welfare-products
 parent: null
 summary: "A caring farmer can give animals a better life, but the business model still depends on breeding and killing animals that would otherwise live."
+quick:
+  - "Good farmers exist, and their animals usually have better lives than those in intensive systems. Nothing here needs farmers to be cruel."
+  - "The trouble is what the business has to do to survive. Animals are killed when they stop being profitable, which is early. Meat chickens go at four to six weeks, not 10 years."
+  - "Breeding makes animals the farm can't use. Dairy needs cows to calve, and all male calves and about a quarter of females are surplus."
+  - "Someone still has to do the killing. Good care covers the middle of the animal's life, not the end."
+  - "You can appreciate a good farmer and still think what he sells shouldn't be bought."
 tags: [small-farms, local, welfare, slaughter]
 sources:
   - title: "RSPCA Australia Knowledgebase, What happens to bobby calves?"

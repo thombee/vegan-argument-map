@@ -4,6 +4,12 @@ title: "Where do you draw the line?"
 category: moral-status
 parent: null
 summary: "Vague lines are normal in ethics and law. We can be clear about the clear cases and cautious about the borderline ones, and UK law now draws its line at vertebrates, cephalopods and decapods."
+quick:
+  - "There's no sharp line, but the clear cases are still clear. Adult and child, day and night, bald and not are all vague at the edges."
+  - "Sentience can't be observed directly, so there's real uncertainty for animals like insects, and several authors say err on the side of caution."
+  - "In practice, decisions have been made. UK law covers vertebrates plus cephalopods and decapods, after a review found very strong evidence for octopods and strong for true crabs."
+  - "The line follows the evidence, which is strongest for mammals and birds, the land animals we farm most."
+  - "You can stop at the clear cases, be careful with the unclear ones, and still be consistent."
 tags: [sentience, vagueness, precaution]
 sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"

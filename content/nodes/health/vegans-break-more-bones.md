@@ -4,6 +4,11 @@ title: "But vegans break more bones"
 category: health
 parent: nutrient-deficiencies
 summary: "EPIC-Oxford found higher fracture risk in vegans; the cause and the extent to which supplements and better planning reduce it are not yet known."
+quick:
+  - "This is a genuine finding. EPIC-Oxford found vegetarians and vegans have lower bone density, and vegans had a higher risk of fractures."
+  - "Germany's nutrition society also lists poorer bone health and higher fracture risk as possible downsides."
+  - "We don't know how much is preventable, and observational data can't show cause, since vegans may differ in other ways."
+  - "Practically: get reliable calcium, vitamin D, enough protein and enough total energy. Ask a GP or dietitian if your situation needs a closer look."
 tags: [bones, fractures, calcium, epic-oxford]
 sources:
   - title: "Key, Papier & Tong (2022), Plant-based diets and long-term health: findings from the EPIC-Oxford study, Proc Nutr Soc"

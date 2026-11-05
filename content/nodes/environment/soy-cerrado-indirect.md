@@ -4,6 +4,12 @@ title: "Soy still pushes cattle and clearing elsewhere, and the Cerrado is being
 category: environment
 parent: soy-deforestation
 summary: "True: the Cerrado has taken the brunt of soy expansion and indirect effects are hard to measure, which is another reason to cut the 77% fed to animals."
+quick:
+  - "Both points are fair. In 2015, 48% of soy expansion came from the Cerrado, and indirect effects are probably underestimated."
+  - "That's a reason to want less soy grown, not more animal farming. About 77% of soy feeds animals."
+  - "Feeding crops through an animal is the inefficient path: beef returns only about 2% of the energy fed to cattle."
+  - "If you want to be careful, look for tofu and soy milk with deforestation-free certification."
+  - "To protect the Cerrado and the Amazon we need less land per meal, and plants eaten directly do that better."
 tags: [cerrado, indirect-land-use]
 sources:
   - title: "Our World in Data, Soy"

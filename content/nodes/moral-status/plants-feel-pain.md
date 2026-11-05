@@ -4,6 +4,12 @@ title: "Plants feel pain too"
 category: moral-status
 parent: null
 summary: "Plants have no brain, neurons or any structure plausibly able to generate experience, and even if they did, eating animals needs far more plants than eating plants directly."
+quick:
+  - "Fair to be curious. Plants are more responsive than people assume. But responding isn't feeling."
+  - "Plant biologists argue plants neither have nor need consciousness, since the brain structures needed are only in vertebrates, arthropods and cephalopods. One side of a debate."
+  - "You don't have to settle it. About 80% of farmland goes to meat and dairy, and 41% of cereals go to animal feed."
+  - "If you're worried about plants, eating them directly is still better than feeding them to animals first."
+  - "So whichever way the plant question goes, the conclusion holds."
 tags: [plants, sentience, crop-feed]
 sources:
   - title: "Sci.News (2019), Plants Neither Possess Nor Require Consciousness, Biologists Say (reporting Taiz et al., Trends in Plant Science)"

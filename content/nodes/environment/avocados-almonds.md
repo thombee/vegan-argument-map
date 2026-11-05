@@ -4,6 +4,12 @@ title: "Avocados and almonds are worse for the environment"
 category: environment
 parent: null
 summary: "Almonds and avocados are thirsty crops, but per serving they sit well below the animal products they are compared with, and dairy milk uses more water than almond milk."
+quick:
+  - "Fair point: almond milk is one of the thirstier plant milks, and there's no clear winner on every measure."
+  - "But dairy milk takes more water than almond milk: about 628 litres a litre versus 371."
+  - "Dairy also has about 3.15 kg CO2eq per litre against 0.7 for almond, and uses far more land."
+  - "Nuts overall are low-carbon, about 0.43 kg CO2eq per kg against about 99 for beef from beef herds."
+  - "So use less of the thirsty foods and more of the efficient ones, like oat and soy milk. That still doesn't make the animal option better."
 tags: [almonds, avocados, water, nuts]
 sources:
   - title: "Our World in Data, Environmental footprint of milks (data from Poore & Nemecek 2018)"

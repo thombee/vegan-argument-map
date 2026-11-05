@@ -4,6 +4,11 @@ title: "Farm animals wouldn't exist without us"
 category: nature
 parent: null
 summary: "A life that ends early by our choice isn't a favour; creating an animal to use it does not give us a right to harm it, and non-existence is no loss to anyone."
+quick:
+  - "Existence is a benefit, the argument says. But no animal is waiting in a queue to be harmed by never being born. Not creating a being harms nobody."
+  - "For animals that do exist, death matters because it ends their future. Researchers conclude no slaughter can be completely humane."
+  - "The numbers are huge too: about 73.8 billion chickens and 1.4 billion pigs slaughtered in 2021."
+  - "\"I brought you into existence so I may use you\" would be rejected for kids, dogs or people. Creating a being adds duties to it, not rights over it."
 tags: [existence, domestication, farm-animals]
 sources:
   - title: "Browning & Veit (2020), Is humane slaughter possible?, Animals"

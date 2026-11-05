@@ -4,6 +4,11 @@ title: "Killing is fine if it's painless"
 category: moral-status
 parent: null
 summary: "The harm of killing isn't only pain, and in practice slaughter is not reliably painless: a UK government advisory committee concluded high-concentration CO2 stunning causes pigs pain and fear."
+quick:
+  - "Some utilitarians do hold this, but only where people would otherwise go hungry. Most of us have other food."
+  - "Slaughter isn't reliably painless. In 2025 a UK advisory committee said high-concentration CO2 stunning causes pigs pain, distress and fear."
+  - "Pain isn't the only harm. Killing a person painlessly in their sleep would still be a serious wrong, because it takes their future."
+  - "It's less clear for animals than people, but not obviously nothing. And the risk of error falls on the one who loses their life."
 tags: [killing, slaughter, stunning, death]
 sources:
   - title: "UK Animal Welfare Committee (2025), Opinion on the welfare impacts on pigs of high concentration CO2 gas stunning"

@@ -4,6 +4,12 @@ title: "Animals aren't conscious / don't suffer like we do"
 category: moral-status
 parent: null
 summary: "Neuroscientists have publicly concluded that humans are not unique in having the brain machinery for conscious experience, and the evidence for feeling is strongest in the animals we farm most."
+quick:
+  - "Fair enough, we can't see inside another being's head, and animals won't suffer exactly like us."
+  - "But scientists have studied it. The 2012 Cambridge Declaration said humans aren't unique in having the brain basis for consciousness."
+  - "The 2024 New York Declaration says there's strong support for conscious experience in mammals and birds."
+  - "Mammals and birds are most of the animals we farm, so that's where the support is strongest."
+  - "Doubt at the edges doesn't excuse indifference at the centre. For pigs and chickens the doubt is small."
 tags: [consciousness, sentience, neuroscience]
 sources:
   - title: "Low et al. (2012), The Cambridge Declaration on Consciousness"

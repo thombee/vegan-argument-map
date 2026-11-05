@@ -4,6 +4,11 @@ title: "Then palm oil should be banned or avoided"
 category: environment
 parent: monocrops-palm-oil
 summary: "Avoiding palm oil can push production to less efficient oils that need more land; certification and demand for deforestation-free supply work better."
+quick:
+  - "Avoiding deforestation-linked palm is a sound instinct. The trouble is swapping it for something else."
+  - "Palm needs about 0.3 hectares per tonne, against around 1.4 for sunflower and rapeseed. A boycott would shift the problem elsewhere at a greater scale."
+  - "Better to demand deforestation-free palm and eat fewer processed foods that use it."
+  - "And palm oil is used across lots of foods and household products. It's not specific to vegan diets."
 tags: [palm-oil, boycott]
 sources:
   - title: "Our World in Data, Palm oil"

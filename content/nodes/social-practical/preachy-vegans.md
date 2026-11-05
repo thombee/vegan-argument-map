@@ -4,6 +4,11 @@ title: "Vegans are preachy and annoying"
 category: social-practical
 parent: null
 summary: "Some advocacy is off-putting, but a messenger's manner doesn't change whether the argument is sound, and defensiveness is a well-studied response to feeling judged."
+quick:
+  - "Some of it is earned. Moralising at someone who didn't ask, or shaming a menu choice, is poor manners and poor strategy."
+  - "But the messenger isn't the message. A rude person can be right and a charming one wrong, so 'annoying' can't be the reason to dismiss the argument."
+  - "Research suggests some of the reaction is resentment at anticipated moral judgment, even when none was expressed. So some preachiness is perceived, not present."
+  - "Both sides can behave decently. Vegans should be kind and ask first, and everyone else can notice whether someone is lecturing or just not eating the dish."
 tags: [advocacy, psychology, stereotypes]
 sources:
   - title: "Minson & Monin (2012), Do-gooder derogation: disparaging morally motivated minorities to defuse anticipated reproach, Social Psychological and Personality Science (author manuscript)"

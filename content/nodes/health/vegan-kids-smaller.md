@@ -4,6 +4,11 @@ title: "But studies show vegan children are smaller with weaker bones"
 category: health
 parent: children-pregnancy
 summary: "A 2024 systematic review found vegan children can have restricted growth and lower bone mineral content, and B12 deficiency without supplements; supplements fix B12, and the other findings call for monitoring."
+quick:
+  - "The finding is real and worth taking seriously. A 2024 review found vegan diets can restrict growth in children, though the percentage affected is relatively small."
+  - "It also found lower bone mineral content, B12 deficiency in kids not supplemented, and a risk of iodine deficiency. Vegan children had a better lipid profile."
+  - "Think of it as a map of what to manage. B12, vitamin D and iodine can be supplemented or planned, and paediatric teams can measure growth."
+  - "National guidance is mixed. If a family goes vegan, supplement B12, plan the rest with a dietitian and watch growth."
 tags: [children, growth, bone, B12]
 sources:
   - title: "Desmond, Fewtrell & Wells (2024), Plant-based diets in children: secular trends, health outcomes, and a roadmap for urgent practice recommendations and research: a systematic review, Nutrients"

@@ -4,6 +4,11 @@ title: "God gave us dominion over animals"
 category: social-practical
 parent: null
 summary: "The same text gives humans a plant-based diet at first and describes dominion as care; many theologians read it as stewardship rather than licence."
+quick:
+  - "It's an honest objection, and the text does say what's quoted: Genesis grants dominion and says every moving thing shall be food."
+  - "But the same story has more. The first diet is plants, the man is put in the garden to till and keep it, and meat after the flood comes with limits."
+  - "Pope Francis writes that dominion doesn't justify absolute domination, that keeping means care, and that other creatures have a value of their own."
+  - "So the question is whether permission is the same as obligation, or a good reason when most of us can eat well without meat. A permission can be declined as an act of care."
 tags: [religion, christianity, genesis, stewardship]
 sources:
   - title: "Genesis 1:26-30 and 2:15 (NRSVUE), BibleGateway"

@@ -4,6 +4,12 @@ title: "Those studies are by vegan advocates and rely on owners' opinions"
 category: welfare-products
 parent: pets-and-cat-food
 summary: "The criticism is fair: the evidence is mostly owner-reported and at least one large study was funded by a vegan organisation; it supports caution, not a ban or a guarantee."
+quick:
+  - "These are fair criticisms, and the authors make most of them. The 2023 cat study notes self-reported data, online recruitment, only 127 vegan cats and ProVeg International funding."
+  - "That doesn't mean vegan cat food is dangerous, since the studies found no sign of it. It doesn't mean it's safe either, because they can't show that."
+  - "If you try it, use a complete commercial formulation, involve a vet, and watch for trouble."
+  - "If you'd rather not take that risk, a meat-based diet is defensible for an animal that has no say."
+  - "The reason to be vegan is about the animals we don't need to eat. The cat's needs are a separate constraint."
 tags: [evidence, bias, pet-food]
 sources:
   - title: "Knight, Bauer & Brown (2023), Vegan versus meat-based cat food: Guardian-reported health outcomes in 1,369 cats, PLOS ONE"

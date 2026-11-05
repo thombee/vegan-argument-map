@@ -4,6 +4,9 @@ title: "Humans evolved to eat meat, so this is the natural diet"
 category: health
 parent: carnivore-diet
 summary: "The evolution and 'natural diet' arguments belong to the nature category and do not decide what is healthy or right today."
+quick:
+  - "Those claims are answered on the pages about it being natural, canine teeth and brain size."
+  - "What our ancestors ate doesn't tell us what's best for health or ethics today."
 tags: [carnivore, natural]
 sources: []
 reviewed: true

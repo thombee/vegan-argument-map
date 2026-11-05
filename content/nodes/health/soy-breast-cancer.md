@@ -4,6 +4,11 @@ title: "But soy raises breast cancer risk"
 category: health
 parent: soy
 summary: "A 2025 review finds soy foods don't affect markers of breast cancer risk in clinical studies and that postdiagnosis intake is linked to lower recurrence; the mouse data behind the worry doesn't carry over to women."
+quick:
+  - "The animal finding is real: isoflavones stimulated existing tumours in one particular mouse model, which is why the worry persists."
+  - "But a review says extensive clinical research shows neither soy foods nor isoflavones affect markers of breast cancer risk, even well above typical Asian intakes."
+  - "Observational data link soy after diagnosis to lower recurrence, and limited data show no interference with tamoxifen or aromatase inhibitors."
+  - "Caveats: it's a narrative review, much outcome evidence is observational, and it's no substitute for your oncologist. The evidence doesn't support soy causing breast cancer."
 tags: [soy, breast-cancer, isoflavones]
 sources:
   - title: "Messina & Nechuta (2025), A review of the clinical and epidemiologic evidence relevant to the impact of postdiagnosis isoflavone intake on breast cancer outcomes, Curr Nutr Rep"

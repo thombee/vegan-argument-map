@@ -4,6 +4,10 @@ title: "Humans are still the top predator in practice, and the food web needs us
 category: nature
 parent: food-chain
 summary: "Where humans do manage ecosystems, plant-based food systems use far less land; farming animals mostly takes land from wildlife."
+quick:
+  - "Farmed animals aren't part of a natural balance. We created them."
+  - "Around 80% of farmland goes to meat and dairy, so eating less of it would free up room for wild animals and their predators."
+  - "Hunting for wildlife management is a specific argument about specific places. It doesn't explain why most of us buy meat at the supermarket."
 tags: [ecology, land]
 sources:
   - title: "Our World in Data, Land use and diets"

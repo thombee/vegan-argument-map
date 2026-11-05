@@ -4,6 +4,11 @@ title: "Human suffering is deeper, so human interests come first"
 category: moral-status
 parent: humans-are-superior
 summary: "Greater capacity for suffering does justify some priority. It doesn't justify setting animal suffering aside for taste, because the animal's interest is serious and ours is replaceable."
+quick:
+  - "Fair on the first half: in a real conflict, like a medical decision, deeper human interests can reasonably take priority."
+  - "But for food it breaks down. Interests can be crucial, important, replaceable or trivial, and higher ones override lower ones."
+  - "For most people, eating meat is replaceable because other food is available. The animal's interest in not being hurt and killed isn't replaceable to the animal."
+  - "So a lesser human claim, a meal, can't outweigh a serious animal one, however you discount it."
 tags: [suffering, priority, weighing]
 sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"

@@ -4,6 +4,12 @@ title: "Vegan diets are dangerous for children and pregnancy"
 category: health
 parent: null
 summary: "Major dietetic bodies say well-planned vegan diets can suit every life stage, but paediatric bodies disagree and studies show real risks without B12 and planning; this needs a dietitian."
+quick:
+  - "This one's worth taking seriously, because the professional bodies don't all agree."
+  - "Some major dietetic bodies say well-planned vegan diets suit pregnancy and childhood. Others caution against them, and Germany's DGE now takes no position either way."
+  - "Everyone agrees on the practical bit: supplement B12, plan iodine, vitamin D, calcium, iron and energy, and have growth monitored."
+  - "Done carelessly it can harm a child. With planning and monitoring, major bodies say it can support healthy growth."
+  - "Use a paediatric dietitian, not a blog. This isn't medical advice, and it's a decision for the family with qualified help."
 tags: [children, pregnancy, infants, B12]
 sources:
   - title: "Melina, Craig & Levin (2016), Position of the Academy of Nutrition and Dietetics: Vegetarian Diets, J Acad Nutr Diet"

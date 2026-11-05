@@ -4,6 +4,12 @@ title: "Eggs from my backyard hens hurt no one"
 category: welfare-products
 parent: null
 summary: "Backyard hens are far better off than caged ones, but the hens themselves were bred for eggs at a health cost, and the chicks came from a hatchery system that kills the males."
+quick:
+  - "Backyard hens are the most defensible animal product there is. They're nothing like a caged flock, and rescued hens living out their lives with you is a good thing."
+  - "Laying breeds are bred for high output, and in one small pilot study most had fractured keel bones. Eggs aren't free to the hen."
+  - "If your hens came from a commercial hatchery, buying them supports an industry where most male chicks are killed on day one."
+  - "It's no accusation. Adopting ex-industry hens does more for chickens than most people do."
+  - "The most consistent version is keeping hens as companions without relying on the eggs, or not buying new birds."
 tags: [eggs, backyard, hens, hatchery]
 sources:
   - title: "RSPCA Australia Knowledgebase, What happens with male chicks in the egg industry?"

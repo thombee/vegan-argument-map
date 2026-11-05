@@ -4,6 +4,12 @@ title: "Animals upcycle by-products and waste that would otherwise be thrown awa
 category: environment
 parent: non-arable-land
 summary: "Livestock do eat residues and by-products, and that matters, but it is a limited supply and does not cover the grain and soy that dominate intensive systems."
+quick:
+  - "Using waste well is a good principle, and about 86% of livestock feed is stuff people don't eat."
+  - "But making 1 kg of boneless meat takes about 2.8 to 3.2 kg of human-edible feed, more than the meat you get."
+  - "And 41% of the world's cereals go to animal feed, against 48% eaten directly by people."
+  - "By-products are set by the human food system, so extra demand for meat means extra grain, soy and land."
+  - "And who makes best use of the leftovers doesn't answer whether the animal should be killed."
 tags: [feed, by-products, waste]
 sources:
   - title: "Mottet et al. (2017), Livestock: On our plates or eating at our table? A new analysis of the feed/food debate, Global Food Security"

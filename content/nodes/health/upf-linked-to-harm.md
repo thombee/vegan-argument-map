@@ -4,6 +4,12 @@ title: "But ultra-processed food is linked to early death"
 category: health
 parent: plant-based-meat-worse
 summary: "A UK Biobank study found healthy plant-based diets were linked with lower mortality and type 2 diabetes whether or not they were high in ultra-processed food; the authors say overall diet quality may matter more."
+quick:
+  - "That's a fair challenge, and the evidence is mixed. Nobody has settled it."
+  - "A UK Biobank study found a healthy plant-based pattern linked to lower all-cause mortality and type 2 diabetes whether it was high or low in ultra-processed food."
+  - "A French study raised the opposite worry, that ultra-processed food could undermine the benefits of vegetarian diets."
+  - "These are observational data on plant-based patterns, not fully vegan people."
+  - "So eat mostly whole, minimally processed plants and use processed vegan products in moderation. A vegan label won't protect a poor diet."
 tags: [ultra-processed, cohort, mortality]
 sources:
   - title: "Thompson et al. (2026), Plant-based diets, ultra-processed foods, and risks of mortality and major chronic diseases: a prospective cohort study (UK Biobank), Lancet Reg Health Eur"

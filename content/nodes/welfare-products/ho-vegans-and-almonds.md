@@ -4,6 +4,10 @@ title: "Vegans eat almonds, which need bees too; you're being inconsistent"
 category: welfare-products
 parent: honey
 summary: "Bridge: the 'vegans still harm animals' argument has its own page."
+quick:
+  - "Veganism means avoiding exploitation and cruelty as far as practicable and possible, not perfect purity."
+  - "Honey's taken deliberately from bees, while avoiding crops entirely isn't possible."
+  - "Where there's a straightforward substitute, as with honey, the standard is to use it."
 tags: [bridge, hypocrisy, pollination]
 sources: []
 reviewed: true

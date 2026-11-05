@@ -4,6 +4,11 @@ title: "So oysters and mussels should be fine for vegans"
 category: moral-status
 parent: insects-and-bivalves
 summary: "Some vegans do eat bivalves, and the case is arguable. It rests on absence of evidence, which is a reason for humility and not a settled all-clear."
+quick:
+  - "There's a real argument here, and some vegans do eat bivalves. If they very likely don't suffer, eating them harms no one in particular."
+  - "The catch is how well we know that. One report found no papers directly showing whether bivalves are sentient."
+  - "A few studies hint they might be. Not proof of suffering, but 'no evidence' isn't 'evidence of absence'."
+  - "So it's defensible either way. But it doesn't rescue pork or chicken, since pigs are in a group where the support is strong."
 tags: [oysters, mussels, ostroveganism]
 sources:
   - title: "Schotanus, van de Vis & Steins (2022), Welfare of bivalves in aquaculture? A first literature scan, Wageningen Marine Research report C057/22"

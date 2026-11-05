@@ -4,6 +4,11 @@ title: "My genetics / blood type need meat"
 category: health
 parent: null
 summary: "Two studies of 1,455 and 973 adults found blood-type diets' benefits did not depend on blood type, so the theory isn't supported; genuine medical needs are best assessed by a doctor or dietitian."
+quick:
+  - "The blood-type diet is the one claim here that's actually been tested, and two big studies didn't support it."
+  - "People who followed the diet for their own blood type did no better than those following a different one."
+  - "People do differ, which is why dietitians individualise advice. Some medical conditions need tailored advice."
+  - "The evidence doesn't back a rule that some people must eat meat. If you think you do, a blood test and dietitian beat a diet book."
 tags: [blood-type, genetics, individual-variation]
 sources:
   - title: "Wang et al. (2014), ABO genotype, 'blood-type' diet and cardiometabolic risk factors, PLoS One"

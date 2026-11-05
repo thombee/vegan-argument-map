@@ -4,6 +4,11 @@ title: "Shearing is quick and harmless; it's like a haircut"
 category: welfare-products
 parent: wool
 summary: "Shearing is not the worst part of the industry, but it involves handling, restraint and potential injury; the larger welfare costs are mulesing and the breeding that causes them."
+quick:
+  - "Shearing is probably the least troubling part of wool, and a skilled shearer with calm sheep does a good job."
+  - "But it's not a haircut. The RSPCA calls it an acute stressor, with sheep handled several times on the day, and nicks and cuts can happen."
+  - "A person chooses their haircut. A sheep doesn't."
+  - "It's a moderate concern, not a reason alone to avoid wool. The bigger issues are practices like mulesing and the choice to keep breeding the sheep."
 tags: [shearing, stress, sheep]
 sources:
   - title: "RSPCA Australia Knowledgebase, What are the animal welfare issues with shearing of sheep?"

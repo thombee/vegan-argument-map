@@ -4,6 +4,11 @@ title: "Two months of effort is a long time to be uncomfortable"
 category: social-practical
 parent: agree-tried-before-failed
 summary: "The 66-day figure is an average for a fully automatic habit; the effort is front-loaded and usually eases well before then."
+quick:
+  - "Fair, and nobody should promise otherwise. But the 66 days is the time to reach full automatic, not how long it feels hard."
+  - "I haven't found evidence on how the effort curve looks for diet changes, so I won't make one up."
+  - "You control how much you take on. One meal is far lighter than a whole diet, and you add the next when the first stops costing thought."
+  - "The inconvenience falls on you for a while, but the cost of not changing falls on the animals for their whole lives. So go gradually, but keep going."
 tags: [habits, effort]
 sources: []
 reviewed: false

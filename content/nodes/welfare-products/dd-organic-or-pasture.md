@@ -4,6 +4,11 @@ title: "I only buy organic or pasture-fed milk from a small herd"
 category: welfare-products
 parent: dairy-doesnt-kill
 summary: "Better conditions help the cow, but every milking herd still needs calves, so the surplus-calf and culling issues remain."
+quick:
+  - "Conditions do differ. A small pasture herd is better for the cow than a big indoor operation, so if you buy milk, that's the better way."
+  - "But it's a difference of degree, not structure. A cow has to calve to give milk, and a herd makes more calves than it can keep."
+  - "A small farm might raise the surplus calves for beef, which beats early slaughter, but they're still killed."
+  - "The cows are still culled when their milk drops."
 tags: [organic, pasture, dairy]
 sources:
   - title: "RSPCA Australia Knowledgebase, What happens to bobby calves?"

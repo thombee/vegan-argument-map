@@ -40,6 +40,13 @@ for (const n of nodes) {
       if (typeof s.supports !== 'string' || !s.supports.trim()) err(n, `sources[${i}] missing supports`);
     });
   }
+  if ('quick' in d) {
+    if (!Array.isArray(d.quick) || d.quick.length < 1 || d.quick.length > 6) err(n, 'quick must be a list of 1 to 6 strings');
+    else d.quick.forEach((q, i) => {
+      if (typeof q !== 'string' || !q.trim()) err(n, `quick[${i}] must be a non-empty string`);
+      else if (q.length > 180) err(n, `quick[${i}] is ${q.length} chars (max 180)`);
+    });
+  }
   for (const s of SECTIONS) if (!n.sections[s]) err(n, `missing or empty body section "## ${s}"`);
 }
 
@@ -124,6 +131,8 @@ for (const e of explainers) {
   }
 }
 
+const noQuick = nodes.filter((n) => !('quick' in n.data)).length;
+
 // Totals
 const roots = nodes.filter((n) => !n.data.parent);
 const maxDepth = Math.max(0, ...[...depth.values()]);
@@ -131,8 +140,9 @@ const unreviewed = nodes.filter((n) => n.data.reviewed !== true).length;
 console.log(`Content dir: ${CONTENT_DIR}`);
 for (const w of warnings) console.log(`warning: ${w}`);
 for (const e of errors) console.log(`error: ${e}`);
+if (noQuick) console.log(`warning: ${noQuick} node(s) still lack \`quick\``);
 console.log(`\nNodes: ${nodes.length}  Roots: ${roots.length}  Max depth: ${maxDepth}  Unreviewed: ${unreviewed}`);
 console.log(`Explainers: ${explainers.length}  Unreviewed: ${explainers.filter((e) => e.data.reviewed !== true).length}`);
 for (const c of alloc) console.log(`  ${c.id}: ${nodes.filter((n) => n.folder === c.id).length}`);
-console.log(`${warnings.length} warning(s), ${errors.length} error(s)`);
+console.log(`${warnings.length + (noQuick ? 1 : 0)} warning(s), ${errors.length} error(s)`);
 process.exit(errors.length ? 1 : 0);

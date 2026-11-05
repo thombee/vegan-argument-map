@@ -4,6 +4,11 @@ title: "Vegan leather is just plastic"
 category: welfare-products
 parent: leather-byproduct
 summary: "Many alternatives are plastic-based and have costs of their own; the answer is to buy less and buy durable, not to default to animal skin."
+quick:
+  - "There's something right here. A well-made leather item that lasts decades beats a cheap synthetic that falls apart in two years."
+  - "But the question isn't plastic or leather. It's whether you need a new item, and what it's made of if you do."
+  - "You can buy second-hand, repair what you have, or choose well-made non-animal products. A cheap synthetic is a bad buy, same as cheap leather."
+  - "And the comparison leaves the animal out. Durability alone doesn't settle whether to use an animal's skin."
 tags: [vegan-leather, plastic, durability]
 sources: []
 reviewed: true

@@ -4,6 +4,11 @@ title: "Then we're omnivores, and omnivores eat meat"
 category: nature
 parent: canine-teeth
 summary: "Omnivores can eat meat; they don't need to, and what an animal can do is not a guide to what it should do."
+quick:
+  - "Omnivore describes what we can digest, not an obligation to eat everything we can. Plenty of people skip certain foods for health, religion or conscience."
+  - "There's a gap between \"can\" and \"ought\". Humans can eat each other, and nobody takes that as a reason."
+  - "What matters is what our choices do to others. A pig, hen or cow feels pain and fear whether or not we're omnivores."
+  - "Whether omnivores need meat is an empirical question, and the dietetic evidence says well-planned vegan diets are adequate."
 tags: [omnivore, is-ought]
 sources:
   - title: "Melina, Craig & Levin (2016), Position of the Academy of Nutrition and Dietetics: Vegetarian Diets"

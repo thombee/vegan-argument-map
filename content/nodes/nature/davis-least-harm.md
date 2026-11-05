@@ -4,6 +4,11 @@ title: "Grass-fed beef kills fewer animals than a vegan diet"
 category: nature
 parent: crop-deaths
 summary: "Grass-fed beef still involves killing a sentient animal on purpose; and the claim depends on shaky mortality figures and ignores the much larger land used by grazing."
+quick:
+  - "It's a clever argument that philosophers have taken seriously, but it has problems."
+  - "It only counts some land. About 80% of farmland goes to meat and dairy, including pasture. Pasture beef moves the land question rather than removing it."
+  - "The death figures are soft. The crop death estimate rests on thin data, and its authors judged it clearly too high."
+  - "A death that's a side effect is different from a death that's the whole point. Killing a cow for lunch isn't the same as accepting a risk to field animals."
 tags: [least-harm, beef, land]
 sources:
   - title: "Our World in Data, Land use and diets"

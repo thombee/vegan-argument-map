@@ -4,6 +4,11 @@ title: "Disabled humans and infants still belong to a rational kind; animals don
 category: moral-status
 parent: humans-are-superior
 summary: "Kind membership is just species membership by another name; the question is why species should matter morally, which is the speciesism problem."
+quick:
+  - "It's a serious reply, but what's the 'kind' actually doing?"
+  - "If it just means species membership, then the question is why species should matter."
+  - "If it means potential, that doesn't cover someone who never had and never will have the capacity, and we don't think they matter less."
+  - "Being loved by family makes someone matter to us. The moral question is what the harm is to the one harmed."
 tags: [marginal-cases, kind, speciesism]
 sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"

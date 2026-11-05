@@ -4,6 +4,12 @@ title: "I agree with veganism in my head and heart, but I still eat meat"
 category: social-practical
 parent: null
 summary: "Knowing it's wrong and not yet acting is the old problem of weakness of will; it is common, usually practical rather than fixed, and closable one habit at a time."
+quick:
+  - "Being honest about this puts you closer than most people. Admitting the argument holds is the hardest first step, and you've done it."
+  - "Knowing it's better and doing the other thing has a name, akrasia. It's really common, and it's a gap, not a verdict on you."
+  - "The animals feel what you do, not what you believe, so the gap matters to them even if it's understandable."
+  - "Gaps get fixed with practical stuff. A slip isn't the end, and the habit research says missing a day made little difference."
+  - "Start small: one plant-based meal a day, a few go-to dinners you like, a plan for awkward situations, and a reliable B12 source."
 tags: [akrasia, weakness-of-will, habits, honesty]
 sources:
   - title: "NHS, The vegetarian diet"

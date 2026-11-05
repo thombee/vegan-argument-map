@@ -4,6 +4,10 @@ title: "Then our brains still need meat to work properly"
 category: nature
 parent: meat-made-us-smart
 summary: "Brain-relevant nutrients like choline and DHA can be planned for; the evidence on health is on the health pages."
+quick:
+  - "Some nutrients are worth planning for, and B12 has to come from fortified foods or a supplement. That's a real caveat and honest vegans say so."
+  - "The evidence is that well-planned vegan diets are nutritionally adequate, which is the Academy of Nutrition and Dietetics' position."
+  - "The planning is the point. An unplanned diet of any kind can leave gaps."
 tags: [brain, nutrients]
 sources:
   - title: "Melina, Craig & Levin (2016), Position of the Academy of Nutrition and Dietetics: Vegetarian Diets"

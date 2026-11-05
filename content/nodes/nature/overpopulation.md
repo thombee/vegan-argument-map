@@ -4,6 +4,11 @@ title: "Animals would overrun the world if we stopped eating them"
 category: nature
 parent: null
 summary: "Farm animals exist in huge numbers only because we breed them; demand falling would lower births, not release billions of animals."
+quick:
+  - "Farm animals aren't wild populations needing a cull. They exist in these numbers because people breed them on purpose to meet demand."
+  - "Those numbers fall when people stop buying, because producers breed fewer animals."
+  - "It's a transition, not a mass release. Nobody proposes opening every barn on the same day. Fewer are bred each year and those alive live out their lives."
+  - "The argument gets causation backwards. Breeding animals for food is what creates the large populations."
 tags: [population, farm-animals, breeding]
 sources:
   - title: "Our World in Data, How many animals get slaughtered every day?"

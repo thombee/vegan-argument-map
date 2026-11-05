@@ -4,6 +4,9 @@ title: "So I'll just eat less of it and buy the good stuff"
 category: welfare-products
 parent: hm-labels-push-industry
 summary: "Eating less is a step in the right direction; the full argument is at the reducing-is-enough page."
+quick:
+  - "Eating fewer animal products does spare animals, and that counts."
+  - "Whether stopping at 'less' is enough is its own page, I'm cutting down; isn't that enough?"
 tags: [bridge, reducing]
 sources: []
 reviewed: true

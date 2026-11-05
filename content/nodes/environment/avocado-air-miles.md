@@ -4,6 +4,9 @@ title: "Locally produced meat and dairy beat avocados flown across the world"
 category: environment
 parent: avocados-almonds
 summary: "Transport is a small share of food emissions, so a local animal product usually still emits far more than an imported plant food."
+quick:
+  - "Transport is only about 5% of food emissions, and air freight is just 0.16% of food miles."
+  - "Land use and farm-stage emissions are over 80% of the footprint for most foods, so a local steak still beats an imported avocado."
 tags: [avocados, food-miles, local]
 sources:
   - title: "Our World in Data, You want to reduce the carbon footprint of your food? Focus on what you eat, not whether your food is local"

@@ -4,6 +4,11 @@ title: "Then we should fix slaughter, not stop eating meat"
 category: moral-status
 parent: painless-slaughter-exists
 summary: "Better stunning is worth having, but it leaves the other objection standing: the animal still loses its life for a replaceable benefit, and reform has been slow."
+quick:
+  - "Reform is worth supporting, and a vegan can campaign for better welfare while not buying the product."
+  - "Even a clear finding is slow to turn into change. No significant changes to CO2 systems since 2003, with a transition of up to five years recommended."
+  - "A better stunning method only covers one moment. It doesn't answer whether the animal needs to die at all, or the life before."
+  - "So reform and abstention aren't alternatives. One reduces harm inside the system, the other withdraws demand from it."
 tags: [reform, welfare, slaughter]
 sources:
   - title: "UK Animal Welfare Committee (2025), Opinion on the welfare impacts on pigs of high concentration CO2 gas stunning"

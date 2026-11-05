@@ -4,6 +4,12 @@ title: "Hunting is more ethical than farming"
 category: welfare-products
 parent: null
 summary: "A wild animal that lives freely and dies from a good shot has a better life than a farmed one, but hunting still kills for pleasure or preference, and a minority of shots wound rather than kill."
+quick:
+  - "If it's farmed meat or game, the hunted animal probably had the better life. The objection's right about that."
+  - "Not every shot kills. In a UK study, 93% of deer hit were killed outright, and the rest were wounded. Even a small wounded share is a real cost."
+  - "For most hunters, hunting for food is optional. It's the same question as farming: can we end a healthy animal's life when we have other food?"
+  - "Hunting for sport or trophy is weaker still."
+  - "A clean shot and eating the animal does less harm than most meat eating. But the vegan view is that the animal's life wasn't ours to take."
 tags: [hunting, wild, wounding, deer]
 sources:
   - title: "Aebischer, Wheatley & Rose (2014), Factors associated with shooting accuracy and wounding rate of four managed wild deer species in the UK, PLOS ONE"

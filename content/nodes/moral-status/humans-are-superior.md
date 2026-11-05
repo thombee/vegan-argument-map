@@ -4,6 +4,12 @@ title: "Humans are more intelligent, so we matter more"
 category: moral-status
 parent: null
 summary: "Intelligence isn't what makes suffering matter. Infants and some adults have less than many animals, and we don't think they matter less; what counts is the capacity to suffer."
+quick:
+  - "True, humans have capacities others don't, and a human can be wronged in ways a chicken can't, like being lied to."
+  - "But 'more capable in some ways' doesn't mean 'interests can be set aside'. Bentham's point: the question isn't can they reason or talk, but can they suffer."
+  - "We don't say a baby or someone with severe cognitive disability can be used for food. So whatever grounds their claim, it isn't intelligence."
+  - "If intelligence is the measure, some humans fall below some animals."
+  - "Equal consideration isn't identical treatment. A pig's pain counts the same as a human's of the same intensity, and that rules out most of what's done to them."
 tags: [intelligence, sentience, equal-consideration]
 sources:
   - title: "Bentham (1789), An Introduction to the Principles of Morals and Legislation, ch. XVII footnote (Online Library of Liberty/Econlib text)"

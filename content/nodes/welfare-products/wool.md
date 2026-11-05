@@ -4,6 +4,12 @@ title: "Sheep need shearing"
 category: welfare-products
 parent: null
 summary: "Today's wool sheep do need shearing, but that is the result of breeding for wool; the industry also relies on painful procedures like mulesing and on slaughter."
+quick:
+  - "Fair point: for the sheep we have, shearing is a service. A full fleece into summer can make them suffer."
+  - "But the question is why they're like that. Wool flocks aren't bred to shed, because shedding sheep produced far less wool, and blowfly strike was far more common in Merinos."
+  - "Much of the need for shearing and fly protection follows from breeding for wool yield."
+  - "That has a visible cost. Mulesing is done on millions of Australian lambs a year, typically without anaesthesia."
+  - "Existing sheep should be shorn and cared for. The vegan position is to stop breeding more of them for fibre."
 tags: [wool, sheep, shearing, mulesing]
 sources:
   - title: "RSPCA Australia Knowledgebase, What is the RSPCA's view on mulesing and flystrike prevention in sheep?"

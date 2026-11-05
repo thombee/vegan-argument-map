@@ -4,6 +4,11 @@ title: "But vegans do get B12 deficiency, which proves the diet is unsuitable"
 category: health
 parent: b12-seaweed-fermented
 summary: "Deficiency shows up when people skip B12; in a German study of 36 vegans, B12 status matched omnivores when nearly all supplemented, though dietary intake is very low."
+quick:
+  - "Some vegans are deficient, mostly because they don't take B12. Food alone doesn't cover it."
+  - "In a small German study, vegans who nearly all supplemented had B12 markers similar to omnivores."
+  - "Deficiency matters, but it's largely preventable with timely diagnosis and treatment. Test if you have symptoms."
+  - "Meat-eaters get B12 deficiency too, for example from absorption problems. So it's an argument for supplementing, not against the diet."
 tags: [b12, deficiency, evidence]
 sources:
   - title: "Weikert et al. (2020), Vitamin and mineral status in a vegan diet, Dtsch Arztebl Int"

@@ -4,6 +4,11 @@ title: "But scripture explicitly permits meat, and Jesus ate fish"
 category: social-practical
 parent: religion-dominion
 summary: "Permission isn't obligation; the question for a believer is whether the permitted thing is the best expression of care for creation."
+quick:
+  - "The texts are as stated. Genesis says every moving thing shall be food, and Jesus eats fish. Claiming scripture forbids meat everywhere would be overreaching."
+  - "The argument is different: something can be permitted without being what compassion asks of you today. Believers make that distinction often."
+  - "The question is what the text implies for a modern believer who has plenty of alternatives and knows how animals are kept and killed. Believers reach different answers."
+  - "So it needn't be vegan versus the Bible. It can be an honest conversation inside a tradition about gentleness and care."
 tags: [religion, christianity]
 sources:
   - title: "Genesis 9:1-4 (NRSVUE), BibleGateway"

@@ -4,6 +4,9 @@ title: "Animals raised well have good lives and a good death"
 category: moral-status
 parent: death-without-suffering
 summary: "Bridge: this is the humane-meat objection, answered on its own page."
+quick:
+  - "This is the humane-meat objection, and it's answered on its own page."
+  - "On death itself, even a good life needs a better reason to end than a meal."
 tags: [humane-meat, bridge]
 sources: []
 reviewed: true

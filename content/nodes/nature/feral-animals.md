@@ -4,6 +4,10 @@ title: "Released animals would become feral pests"
 category: nature
 parent: overpopulation
 summary: "Nobody proposes mass release; a gradual fall in breeding avoids the problem."
+quick:
+  - "It's a fair worry about feral animals, and the answer isn't to release them. Vegans don't recommend abandoning animals."
+  - "Numbers would drop through breeding. As demand falls, fewer animals are born."
+  - "Animals already alive would stay in managed care for the rest of their lives."
 tags: [feral, transition]
 sources: []
 reviewed: true

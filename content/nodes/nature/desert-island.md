@@ -4,6 +4,11 @@ title: "What if you were stranded on a desert island?"
 category: nature
 parent: null
 summary: "Necessity changes what's permissible; but that's an argument about emergencies, not about the supermarket, and veganism asks for what is possible and practicable."
+quick:
+  - "Most vegans would eat to survive, and most people would say they were right to. That doesn't damage the case."
+  - "Veganism never claimed to be exceptionless. The Vegan Society's definition says \"as far as is possible and practicable\", and real necessity falls outside that."
+  - "Rules that bend under extreme necessity are common. A starving person taking bread doesn't make theft fine in general."
+  - "The island case separates killing out of need from killing out of preference. Almost nobody reading this faces that choice."
 tags: [hypothetical, necessity]
 sources:
   - title: "The Vegan Society, Definition of veganism"

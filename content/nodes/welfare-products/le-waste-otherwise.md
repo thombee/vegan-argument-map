@@ -4,6 +4,10 @@ title: "Better to use the whole animal than waste it"
 category: welfare-products
 parent: leather-byproduct
 summary: "Avoiding waste is a good value, but it does not justify the original killing, and the 'waste' framing only applies once the animal is already dead."
+quick:
+  - "Not wasting things is a good value. If an animal's already died, using the hide beats burying it."
+  - "But the argument only works once the killing's been taken for granted. If the killing isn't justified, thrifty use of the leftovers doesn't fix that."
+  - "Cultures that depend on hunting to live are a different case, covered on another page. That's not someone choosing a handbag in a shop."
 tags: [waste, whole-animal, philosophy]
 sources: []
 reviewed: true

@@ -4,6 +4,11 @@ title: "I tried and couldn't stick with it"
 category: social-practical
 parent: too-hard
 summary: "Many people lapse; going back to it in steps, and getting good information, helps more than willpower alone."
+quick:
+  - "You're not the only one, and a lapse doesn't make you a failure or mean the idea is wrong. Changing a deep habit is hard."
+  - "Fix the practical cause rather than blaming willpower. Was it hunger, a missing nutrient like B12, or a social setting? Each has a practical answer."
+  - "The dietetics position is that a well-planned vegan diet can meet needs at every life stage. If a diet really left you unwell, take that to a dietitian."
+  - "Going in steps is a respectable path too, and the moral case doesn't vanish because the first attempt was bumpy."
 tags: [habits, relapse]
 sources:
   - title: "Craig, Melina & Levin (2016), Position of the Academy of Nutrition and Dietetics: Vegetarian Diets, Journal of the Academy of Nutrition and Dietetics"

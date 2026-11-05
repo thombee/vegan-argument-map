@@ -4,6 +4,10 @@ title: "But vegans rely on fortified foods and supplements, not real food"
 category: health
 parent: processed-vegan-food
 summary: "Fortified foods and supplements are how dietetic bodies tell vegans to get B12; the nutrient is the same whether it comes from a fortified milk, a tablet or a bacterial culture."
+quick:
+  - "Dietetic bodies are upfront that the reliable B12 sources for vegans are fortified foods and supplements."
+  - "But \"natural\" is a poor test. B12 is made by bacteria, not animals, so what matters is that the source is reliable."
+  - "The rest of a vegan diet can be ordinary whole foods like legumes, grains, vegetables, fruit, nuts and seeds. Fortified foods and pills fill a few gaps."
 tags: [fortification, supplements, b12]
 sources:
   - title: "British Dietetic Association, Plant-based diets (vegetarian and vegan) food fact sheet"

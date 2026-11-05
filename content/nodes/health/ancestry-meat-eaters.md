@@ -4,6 +4,9 @@ title: "My ancestors ate meat, so my body is built for it"
 category: health
 parent: blood-type-genetics
 summary: "Ancestral and evolutionary arguments are covered in the nature section; they describe the past rather than what an individual needs today."
+quick:
+  - "That's covered in the nature section, on the \"it's natural\" and Indigenous peoples pages."
+  - "Ancestry is a weak guide to what you need today. A doctor or dietitian can test what you actually need."
 tags: [ancestry, genetics]
 sources: []
 reviewed: true

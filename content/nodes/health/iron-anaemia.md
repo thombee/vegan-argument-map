@@ -4,6 +4,12 @@ title: "But vegans get iron-deficiency anaemia"
 category: health
 parent: nutrient-deficiencies
 summary: "Vegetarians have lower iron stores on average, but in small studies of vegans anaemia was uncommon and no more than in omnivores; pairing iron foods with vitamin C helps."
+quick:
+  - "There's a real signal: vegetarians have lower iron stores (ferritin) on average, and plant iron is absorbed less efficiently."
+  - "Lower stores aren't the same as anaemia. A review found vegan diets weren't linked to iron deficiency, and no runners in one study had iron-deficiency anaemia."
+  - "In a small German comparison, iron deficiency showed up in four of 36 vegans and three of 36 omnivores. Samples are small and people vary."
+  - "Help yourself with legumes, tofu, nuts, seeds and fortified cereals, plus vitamin C with meals and tea and coffee kept away from them."
+  - "If you're unusually tired, ask your GP for a ferritin test rather than guessing or supplementing untested."
 tags: [iron, anaemia, ferritin]
 sources:
   - title: "Haider et al. (2018), The effect of vegetarian diets on iron status in adults: a systematic review and meta-analysis, Crit Rev Food Sci Nutr"

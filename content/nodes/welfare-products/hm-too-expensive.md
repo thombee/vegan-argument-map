@@ -4,6 +4,9 @@ title: "Higher-welfare is expensive, and I can't go vegan either"
 category: welfare-products
 parent: humane-meat
 summary: "Cost and convenience are covered on their own pages; this is a bridge."
+quick:
+  - "Cost and practicality are real constraints, and they have their own pages."
+  - "See Vegan food is too expensive, and It's too hard / inconvenient."
 tags: [bridge, cost]
 sources: []
 reviewed: true

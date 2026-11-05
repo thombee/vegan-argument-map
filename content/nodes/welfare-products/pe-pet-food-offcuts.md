@@ -4,6 +4,12 @@ title: "Pet food is made from offcuts, so a cat's diet harms no extra animals"
 category: welfare-products
 parent: pets-and-cat-food
 summary: "Some pet food uses by-products, but an analysis of US pet food found dogs and cats consume a third as much animal-derived energy as people, so the footprint is not trivial."
+quick:
+  - "Some pet food does use by-products, and that cuts waste. I can't give a precise share for Australia."
+  - "But pet food isn't small. A US study found dogs and cats eat about 33% as much animal-derived energy as humans, and cause roughly 25 to 30% of animal agriculture's impacts."
+  - "That's one US study, but it suggests pet food is a significant part of demand, not just offcuts."
+  - "Giving value to those parts supports the industries that produce them, same as with leather."
+  - "If a cat truly needs animal-derived food, that's a constraint to manage. Adopt carefully and choose well."
 tags: [pet-food, by-products, environment]
 sources:
   - title: "Okin (2017), Environmental impacts of food consumption by dogs and cats, PLOS ONE"

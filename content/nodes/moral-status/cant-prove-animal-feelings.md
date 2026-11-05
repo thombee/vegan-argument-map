@@ -4,6 +4,12 @@ title: "But you can't prove what an animal actually feels"
 category: moral-status
 parent: animals-just-instinct
 summary: "We can't prove other minds, human or animal. The question is what the best-supported explanation is, and acting on the likeliest explanation is not optional when the cost is suffering."
+quick:
+  - "True, we can't prove it. Sentience can't be observed directly, so there's real uncertainty for distant animals."
+  - "But we can't prove other people's minds either. We infer them from behaviour, similar bodies and shared origins."
+  - "All of those grounds apply to a pig or a hen, just less than to a chimp and far more than to an oyster."
+  - "Where it's uncertain, several authors say err on the side of caution. That costs us very little: a different dinner."
+  - "So it's not 'proven, so stop'. It's strong evidence, severe stakes for the animal, and a replaceable benefit for us."
 tags: [other-minds, uncertainty, precaution]
 sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"

@@ -4,6 +4,12 @@ title: "It's a personal choice; don't push your views on me"
 category: social-practical
 parent: null
 summary: "Choices that cost another being its life are not purely personal; and explaining a view is not coercion."
+quick:
+  - "Most of us agree that if a choice only affects you, it's yours. That's why this objection feels natural."
+  - "But a meal of animal products isn't self-contained. An animal was bred, kept and killed for it, and a choice with a victim isn't usually called purely personal."
+  - "So the real argument is whether farmed animals count, not whether choices are private."
+  - "Explaining a view isn't forcing it. Saying 'I think this is wrong, and here's why' is how every moral change spread, and you're free to walk away."
+  - "How a view is shared matters. Nobody has to hear it at every dinner, and good advocacy respects that."
 tags: [autonomy, ethics, advocacy]
 sources: []
 reviewed: true

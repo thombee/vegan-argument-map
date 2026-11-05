@@ -4,6 +4,10 @@ title: "So your line is arbitrary"
 category: social-practical
 parent: vegans-are-hypocrites
 summary: "Any line between avoidable and unavoidable harm is imperfect at the edges, but that doesn't make the clear cases unclear."
+quick:
+  - "A line that's blurry at the edges can still be clear in the middle. Dusk is fuzzy, but nobody mixes up noon and midnight."
+  - "The line isn't convenience. It asks whether the harm is deliberate and whether a reasonable alternative exists, and eating animals fails both for most people in wealthy places."
+  - "Hard cases are covered on their own page. Uncertainty at the margins is a reason for humility there, not for ignoring the clear cases."
 tags: [boundary, consistency]
 sources: []
 reviewed: true

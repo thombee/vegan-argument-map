@@ -4,6 +4,12 @@ title: "Dairy cows are retired when they're old, not killed young"
 category: welfare-products
 parent: dairy-doesnt-kill
 summary: "Dairy cows are culled well before old age, mostly for fertility, mastitis and low production, and the data show an average age of about 6.75 years."
+quick:
+  - "The data doesn't show retirement. Across about 2.45 million Australian culling records, the average age at culling was about 6.75 years."
+  - "Top reasons were infertility, mastitis and low production. Old age was only 6.2% of records."
+  - "A dairy cow can live about 20 years, which is very rarely seen on modern dairy farms."
+  - "She's removed when her body can't keep up with repeated calving and heavy milking, because she stopped being profitable."
+  - "Some herds are managed for longevity, but it still ends in slaughter at a fraction of her natural lifespan, and the calf problem stays."
 tags: [dairy, culling, lifespan]
 sources:
   - title: "Analysis of culling reasons and age at culling in Australian dairy cattle (2021), Animal Production Science"

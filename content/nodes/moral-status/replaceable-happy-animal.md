@@ -4,6 +4,11 @@ title: "Another happy animal takes its place, so nothing is lost"
 category: moral-status
 parent: animals-dont-know-death
 summary: "The replacement view treats individuals as containers for happiness. If it were sound it would apply to people too."
+quick:
+  - "It's a recognised position, the replaceability argument, and it deserves to be taken seriously."
+  - "It proves too much: if one death is made up by another birth, killing a happy person is fine as long as someone's born to replace them. Almost nobody accepts that."
+  - "Even its defenders set a high bar, like people who'd otherwise go hungry. Where other food exists, that isn't met."
+  - "The 'they wouldn't exist otherwise' claim has its own page."
 tags: [replaceability, population, individuals]
 sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"

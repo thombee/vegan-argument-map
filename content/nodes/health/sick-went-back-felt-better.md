@@ -4,6 +4,11 @@ title: "But I added meat back and felt better straight away"
 category: health
 parent: tried-and-got-sick
 summary: "Feeling better after eating meat is consistent with correcting a gap in B12, iron or energy, which could also be corrected with supplements or planning, but only a test can tell."
+quick:
+  - "It's a reasonable inference and one possible explanation. If you were short on B12, iron, zinc or energy, adding meat could well have helped."
+  - "But \"meat fixed it\" isn't \"I need meat\". A B12 supplement, iron-rich plants with vitamin C, more calories or fortified foods could have closed the same gap."
+  - "Other explanations are possible, and we can't know which applies to you."
+  - "A doctor can check B12, ferritin, vitamin D and thyroid. If you're back on meat and comfortable, that's your decision."
 tags: [experience, B12, iron]
 sources:
   - title: "Parakh & Dewan (2026), Revisiting the hematological manifestations of vitamin B12 deficiency, Front Nutr"

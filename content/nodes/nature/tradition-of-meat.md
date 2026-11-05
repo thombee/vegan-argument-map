@@ -4,6 +4,9 @@ title: "Meat is part of my family's meals and traditions"
 category: nature
 parent: its-natural
 summary: "Tradition has real value, but it can't decide whether killing is justified; the full discussion is on the culture and tradition page."
+quick:
+  - "Food traditions change all the time, and many can be kept with plant ingredients."
+  - "The people and memories around the table matter most. Tradition can explain why a practice exists but can't justify it by itself."
 tags: [culture]
 sources: []
 reviewed: true
