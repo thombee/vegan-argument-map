@@ -19,7 +19,7 @@ sources:
   - title: "University of Exeter via ScienceDaily (2022), on McGuire, Palmer & Faber, The development of speciesism"
     url: "https://www.sciencedaily.com/releases/2022/04/220411101246.htm"
     supports: "479 people in England aged 9-11, 18-21 and 29-59; children saw eating animals as less morally acceptable; pigs pets-or-food; shift appears between about 11 and 18"
-reviewed: false
+reviewed: true
 ---
 
 A small child does not arrive in the world knowing a pig is food. They have to be taught it, mostly without anyone meaning to teach it. That is the claim of this page, and it has some solid evidence behind it.

@@ -10,7 +10,7 @@ quick:
   - "You're actually well placed to move, because you're not defending anything. Pick one meal and begin."
 tags: [honesty, akrasia]
 sources: []
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

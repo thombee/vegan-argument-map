@@ -26,7 +26,7 @@ sources:
   - title: "University of Exeter via ScienceDaily (2022), on McGuire, Palmer & Faber, The development of speciesism, Social Psychological and Personality Science"
     url: "https://www.sciencedaily.com/releases/2022/04/220411101246.htm"
     supports: "Children equally likely to classify pigs as pets or food; older participants more likely to classify farm animals as food; McGuire: 'dogs are our friends, pigs are food'"
-reviewed: false
+reviewed: true
 ---
 
 Most people who eat meat also like animals. They would be upset to see a dog hurt, and many have a pet. Yet the same people eat pigs. Psychologists call this tension the meat paradox: [disliking harm to animals while enjoying eating them](https://sciencedaily.com/releases/2010/07/100715091654.htm).

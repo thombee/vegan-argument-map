@@ -10,7 +10,7 @@ quick:
   - "Start with meals you cook yourself, since nobody else has to agree. Say what you're doing once, calmly, then just do it."
 tags: [family, partner, practicality]
 sources: []
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

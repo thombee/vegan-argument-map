@@ -11,7 +11,7 @@ quick:
   - "The inconvenience falls on you for a while, but the cost of not changing falls on the animals for their whole lives. So go gradually, but keep going."
 tags: [habits, effort]
 sources: []
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

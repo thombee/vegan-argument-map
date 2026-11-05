@@ -21,7 +21,7 @@ sources:
   - title: "Lally et al. (2010), How are habits formed: Modelling habit formation in the real world, European Journal of Social Psychology (British Psychological Society Research Digest summary)"
     url: "https://bps.org.uk/research-digest/how-form-habit"
     supports: "In a study of 96 volunteers, time to peak automaticity averaged 66 days, ranging from 18 to a predicted 254; a single missed day had little effect on later gains, though many missed repeats reduced the automaticity reached"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

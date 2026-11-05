@@ -10,7 +10,7 @@ quick:
   - "'Hypocrisy' is harsher than it needs to be. It's a normal human thing, and the fix is to pick the easiest piece and start."
 tags: [hypocrisy, akrasia]
 sources: []
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

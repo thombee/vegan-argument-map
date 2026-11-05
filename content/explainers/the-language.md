@@ -19,7 +19,7 @@ sources:
   - title: "Bastian, Loughnan, Haslam & Radke (2012), Don't mind meat? Personality and Social Psychology Bulletin (Edinburgh research record)"
     url: "https://www.research.ed.ac.uk/en/publications/dont-mind-meat-the-denial-of-mind-to-animals-used-for-human-consu/"
     supports: "Food animals are attributed lower mental capacities; mind denial rises when meat is linked to suffering or when people expect to eat it"
-reviewed: false
+reviewed: true
 ---
 
 Say the word "pork" and you picture a plate. Say "pig" and you picture an animal. English has a whole vocabulary that points at the food and away from the creature: pork, beef, veal, mutton, poultry. Add the vocabulary of the industry itself (processing, product, throughput, harvest), and a pig can go from a being to a commodity without anyone telling a lie.

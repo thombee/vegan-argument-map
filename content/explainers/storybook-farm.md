@@ -22,7 +22,7 @@ sources:
   - title: "RSPCA Australia Knowledge Base, How are pigs farmed in Australia?"
     url: "https://kb.rspca.org.au/knowledge-base/how-are-pigs-farmed-in-australia/"
     supports: "Most pigs in Australia are housed in intensive indoor systems; pigs typically raised for five to six months before slaughter"
-reviewed: false
+reviewed: true
 ---
 
 Ask an adult to picture a farm and you will probably get the same scene: a barn, a paddock, a few animals wandering between them. Almost nobody saw this place in person. We learned it from songs, picture books, toys and cartoons, long before we could ask where our dinner came from.

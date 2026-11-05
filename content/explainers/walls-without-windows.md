@@ -28,7 +28,7 @@ sources:
   - title: "NSW Nationals, Historic legislation to protect farmers passed (14 November 2019)"
     url: "https://www.nswnationals.org.au/historic-legislation-to-protect-farmers-passed/"
     supports: "States the Right to Farm Act raises maximum penalties for aggravated farm trespass to $22,000 and three years' jail (a political party release)"
-reviewed: false
+reviewed: true
 ---
 
 Most people have never seen the inside of a piggery, a hatchery or an abattoir. That is not because they looked away. It is because nobody can wander in. A farm is private property, which is a perfectly ordinary rule, and the animals' lives are lived behind it.
