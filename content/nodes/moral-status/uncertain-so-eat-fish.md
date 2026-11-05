@@ -12,7 +12,7 @@ sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"
     url: "https://plato.stanford.edu/entries/moral-animal/"
     supports: "Says several authors recommend erring on the side of caution when dealing with beings whose sentience is uncertain (section 1.4)"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

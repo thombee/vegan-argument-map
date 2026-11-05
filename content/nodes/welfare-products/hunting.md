@@ -12,7 +12,7 @@ sources:
   - title: "Hampton, MacKenzie & Forsyth (2022), Animal welfare outcomes of professional vehicle-based shooting of peri-urban rusa deer in Australia, Wildlife Research"
     url: "https://doi.org/10.1071/WR21131"
     supports: "In 21 nights of professional shooting, 85% of deer shot at were killed; non-fatal wounding (escaping wounded) was 3.5% of those shot at and hit; median time to insensibility for multiply shot deer was 289 seconds"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

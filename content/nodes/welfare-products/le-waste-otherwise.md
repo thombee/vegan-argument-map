@@ -6,7 +6,7 @@ parent: leather-byproduct
 summary: "Avoiding waste is a good value, but it does not justify the original killing, and the 'waste' framing only applies once the animal is already dead."
 tags: [waste, whole-animal, philosophy]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

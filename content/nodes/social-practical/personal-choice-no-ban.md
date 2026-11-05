@@ -6,7 +6,7 @@ parent: personal-choice
 summary: "Most vegan advocacy asks for persuasion and personal change; whether law should ever follow is a separate question from whether the practice is right."
 tags: [law, autonomy]
 sources: []
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

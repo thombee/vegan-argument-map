@@ -9,7 +9,7 @@ sources:
   - title: "Sci.News (2019), Plants Neither Possess Nor Require Consciousness, Biologists Say (reporting Taiz et al., Trends in Plant Science)"
     url: "https://www.sci.news/biology/plant-consciousness-07359.html"
     supports: "Reports Taiz et al.'s argument that plants lack the threshold brain structures for consciousness (found only in vertebrates, arthropods and cephalopods) and that plant electrical signalling is genetically programmed and shaped by natural selection"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

@@ -9,7 +9,7 @@ sources:
   - title: "Our World in Data, Palm oil"
     url: "https://ourworldindata.org/palm-oil"
     supports: "Palm needs about 0.3 ha per tonne vs 1.4 for sunflower and rapeseed, 3.7 for coconut; replacing palm with other oils would need more land"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

@@ -12,7 +12,7 @@ sources:
   - title: "Luke 24:41-43 (NRSVUE), BibleGateway"
     url: "https://www.biblegateway.com/passage/?search=Luke+24%3A41-43&version=NRSV"
     supports: "Luke 24:42-43 records Jesus being given broiled fish and eating it"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

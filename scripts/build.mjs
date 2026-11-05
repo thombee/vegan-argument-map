@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { marked } from 'marked';
-import { loadNodes, loadAllocation, ROOT, CONTENT_DIR } from './lib.mjs';
+import { loadExplainers, loadNodes, loadAllocation, ROOT, CONTENT_DIR } from './lib.mjs';
 
 const SITE = 'Every Objection';
 let BASE = (process.env.BASE_PATH || '').trim().replace(/\/+$/, '');
@@ -41,7 +41,7 @@ function layout({ title, description, body, path: p = '/' }) {
 <header class="site-header">
   <div class="wrap">
     <a class="brand" href="${url('/')}">${SITE}</a>
-    <nav aria-label="Site"><a href="${url('/')}">Home</a> <a href="${url('/about/')}">About</a></nav>
+    <nav aria-label="Site"><a href="${url('/')}">Home</a> <a href="${url('/why/')}">Why we don't see it</a> <a href="${url('/about/')}">About</a></nav>
   </div>
 </header>
 <main id="main" class="wrap">
@@ -64,6 +64,7 @@ for (const n of nodes) {
   if (p) { if (!children.has(p)) children.set(p, []); children.get(p).push(n); }
 }
 for (const list of children.values()) list.sort((a, b) => a.data.title.localeCompare(b.data.title));
+const explainers = loadExplainers().filter((e) => e.data.id);
 const catName = new Map(categories.map((c) => [c.id, c.name]));
 
 function pathTo(n) {
@@ -104,6 +105,16 @@ const index = nodes.map((n) => ({
   root: !n.data.parent,
   url: url(`/a/${n.data.id}/`),
 }));
+for (const e of explainers) index.push({
+  id: e.data.id,
+  title: e.data.title,
+  summary: e.data.summary,
+  tags: [],
+  category: 'Explainer',
+  kind: 'explainer',
+  root: false,
+  url: url(`/why/${e.data.id}/`),
+});
 write('search.json', JSON.stringify(index));
 
 // Home
@@ -125,6 +136,11 @@ write('index.html', layout({
   <div id="results" aria-live="polite" hidden></div>
 </section>
 <div id="browse">
+<aside class="why-block" aria-labelledby="why-home">
+  <h2 id="why-home"><a href="${url('/why/')}">Why we don't see it</a></h2>
+  <p>Most of us never chose to stop seeing animals as someone. Before the objections, read how that happens: stories, concealment, language, psychology and childhood.</p>
+  <p><a class="why-link" href="${url('/why/')}">Read the explainers${explainers.length ? ` (${explainers.length})` : ''}</a></p>
+</aside>
 ${catSections || '<p class="muted">No objections published yet.</p>'}
 </div>
 <script src="${url('/search.js')}" defer></script>`,
@@ -185,6 +201,50 @@ ${kidsHtml}
   }));
 }
 
+// Explainers
+write('why/index.html', layout({
+  title: "Why we don't see it",
+  description: 'Most of us never chose to stop seeing animals as someone. How that happens: stories, concealment, language, psychology, childhood.',
+  body: `<nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="${url('/')}">Home</a></li><li aria-current="page">Why we don't see it</li></ol></nav>
+<h1>Why we don't see it</h1>
+<p class="lead">Most of us never chose to stop seeing animals as someone. It happened gradually, before we were old enough to ask. This section looks at how: the stories we grew up with, what is kept out of view, the words we use, how the mind copes, and what we learn as children.</p>
+${explainers.length ? `<ul class="cards">\n${explainers.map((e) => `  <li><a class="card" href="${url(`/why/${e.data.id}/`)}"><span class="card-title">${esc(e.data.title)}${draftBadge(e)}</span><span class="card-sum">${esc(e.data.summary)}</span></a></li>`).join('\n')}\n</ul>` : '<p class="muted">None yet.</p>'}`,
+}));
+explainers.forEach((e, i) => {
+  const d = e.data;
+  const prev = explainers[i - 1], next = explainers[i + 1];
+  const rows = d.contrasts || [];
+  const table = rows.length ? `<table class="contrast">
+<thead><tr><th scope="col">What we're shown</th><th scope="col">What the record shows</th></tr></thead>
+<tbody>
+${rows.map((r) => `<tr><td data-label="What we're shown">${esc(r.shown)}</td><td data-label="What the record shows">${esc(r.record)}</td></tr>`).join('\n')}
+</tbody>
+</table>` : '';
+  const sources = d.sources || [];
+  const srcHtml = sources.length ? `<section aria-labelledby="sources"><h2 id="sources">Sources</h2>
+<ol class="sources">
+${sources.map((s) => `  <li><a rel="noopener" href="${esc(s.url)}">${esc(s.title)}</a><span class="supports">${esc(s.supports)}</span></li>`).join('\n')}
+</ol></section>` : '';
+  const pn = (prev || next) ? `<nav class="pager" aria-label="Explainers">${prev ? `<a class="prev" rel="prev" href="${url(`/why/${prev.data.id}/`)}"><span>Previous</span>${esc(prev.data.title)}</a>` : '<span></span>'}${next ? `<a class="next" rel="next" href="${url(`/why/${next.data.id}/`)}"><span>Next</span>${esc(next.data.title)}</a>` : '<span></span>'}</nav>` : '';
+  write(`why/${d.id}/index.html`, layout({
+    title: d.title,
+    description: d.summary,
+    body: `<nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="${url('/')}">Home</a></li><li><a href="${url('/why/')}">Why we don't see it</a></li><li aria-current="page">${esc(d.title)}</li></ol></nav>
+<article>
+<header>
+  <h1>${esc(d.title)}</h1>
+  <p class="meta">${draftBadge(e)}</p>
+  <p class="lead">${esc(d.summary)}</p>
+</header>
+${table}
+<div class="essay">
+${md(e.body)}</div>
+${srcHtml}
+</article>
+${pn}`,
+  }));
+});
+
 // About
 write('about/index.html', layout({
   title: 'About',
@@ -215,4 +275,4 @@ write('404.html', layout({
 <p><a href="${url('/')}">Browse all objections</a></p>`,
 }));
 
-console.log(`Built ${nodes.length} node page(s), ${categories.length} categories from ${CONTENT_DIR} -> dist/ (base "${BASE}")`);
+console.log(`Built ${nodes.length} node page(s), ${explainers.length} explainer(s), ${categories.length} categories from ${CONTENT_DIR} -> dist/ (base "${BASE}")`);

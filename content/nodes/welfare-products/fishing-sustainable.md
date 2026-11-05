@@ -18,7 +18,7 @@ sources:
   - title: "Sneddon (2015), Pain in aquatic animals, Journal of Experimental Biology"
     url: "https://doi.org/10.1242/jeb.088823"
     supports: "Bony fish possess nociceptors similar to those in mammals and show pain-related changes in behaviour and physiology reduced by painkillers"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

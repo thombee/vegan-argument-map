@@ -15,7 +15,7 @@ sources:
   - title: "Birch et al. (2021), Review of the Evidence of Sentience in Cephalopod Molluscs and Decapod Crustaceans, LSE"
     url: "https://www.lse.ac.uk/News/News-Assets/PDFs/2021/Sentience-in-Cephalopod-Molluscs-and-Decapod-Crustaceans-Final-Report-November-2021.pdf"
     supports: "Very strong evidence of sentience in octopods, strong evidence in true crabs, and a recommendation that all cephalopod molluscs and decapod crustaceans be regarded as sentient for UK animal welfare law"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

@@ -12,7 +12,7 @@ sources:
   - title: "Hevia-Larra\u00edn et al. (2021), High-protein plant-based diet versus a protein-matched omnivorous diet to support resistance training adaptations, Sports Med"
     url: "https://doi.org/10.1007/s40279-021-01434-9"
     supports: "19 vegan and 19 omnivorous young men, 12 weeks"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

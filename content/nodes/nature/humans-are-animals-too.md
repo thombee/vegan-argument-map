@@ -6,7 +6,7 @@ parent: lions-eat-meat
 summary: "Being animals explains why we can eat meat, not why it's right; our ability to reflect is what makes our choices moral ones."
 tags: [predators, moral-agency]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

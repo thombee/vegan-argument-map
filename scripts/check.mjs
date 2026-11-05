@@ -1,4 +1,4 @@
-import { loadNodes, loadAllocation, linkedIds, isKebab, SECTIONS, CONTENT_DIR } from './lib.mjs';
+import { loadExplainers, linkedWhyIds, loadNodes, loadAllocation, linkedIds, isKebab, SECTIONS, CONTENT_DIR } from './lib.mjs';
 
 const errors = [], warnings = [];
 const err = (n, m) => errors.push(`${n.file}: ${m}`);
@@ -74,6 +74,56 @@ for (const n of nodes) {
   }
 }
 
+// Explainers
+const explainers = loadExplainers();
+const exById = new Map();
+for (const e of explainers) {
+  const d = e.data;
+  for (const f of ['id', 'title', 'order', 'summary', 'contrasts', 'sources', 'reviewed']) {
+    if (!(f in d) || d[f] === undefined) err(e, `missing frontmatter field "${f}"`);
+  }
+  if ('id' in d) {
+    if (!isKebab(d.id)) err(e, `id "${d.id}" is not kebab-case`);
+    else if (d.id !== e.filename) err(e, `id "${d.id}" does not match filename "${e.filename}"`);
+    if (exById.has(d.id)) err(e, `duplicate id "${d.id}" (also ${exById.get(d.id).file})`);
+    else exById.set(d.id, e);
+  }
+  if (typeof d.title !== 'string' || !d.title.trim()) err(e, 'title must be a non-empty string');
+  if ('order' in d && !Number.isFinite(d.order)) err(e, 'order must be a number');
+  if (typeof d.summary !== 'string' || !d.summary.trim()) err(e, 'summary must be a non-empty string');
+  else if (d.summary.length > 220) err(e, `summary is ${d.summary.length} chars (max 220)`);
+  if ('reviewed' in d && typeof d.reviewed !== 'boolean') err(e, 'reviewed must be true or false');
+  if ('contrasts' in d) {
+    if (!Array.isArray(d.contrasts) || d.contrasts.length < 2 || d.contrasts.length > 5) err(e, 'contrasts must be a list of 2 to 5 rows');
+    else d.contrasts.forEach((c, i) => {
+      for (const k of ['shown', 'record']) {
+        if (!c || typeof c[k] !== 'string' || !c[k].trim()) err(e, `contrasts[${i}].${k} must be a non-empty string`);
+      }
+    });
+  }
+  if ('sources' in d) {
+    if (!Array.isArray(d.sources)) err(e, 'sources must be a list');
+    else d.sources.forEach((s, i) => {
+      if (!s || typeof s !== 'object') return err(e, `sources[${i}] is not an object`);
+      if (typeof s.title !== 'string' || !s.title.trim()) err(e, `sources[${i}] missing title`);
+      if (typeof s.url !== 'string' || !/^https?:\/\/\S+$/.test(s.url)) err(e, `sources[${i}] url must be http(s)`);
+      if (typeof s.supports !== 'string' || !s.supports.trim()) err(e, `sources[${i}] missing supports`);
+    });
+  }
+  if (!e.sections['In short']) err(e, 'missing or empty body section "## In short"');
+  else if (!/^## In short\s*$/m.test(e.body)) err(e, 'missing "## In short" heading');
+}
+for (const e of explainers) {
+  for (const id of linkedIds(e.body)) {
+    if (byId.has(id)) continue;
+    if (allocIds.has(id)) warn(e, `link to /a/${id}/ not written yet (listed in ALLOCATION.md)`);
+    else err(e, `link to /a/${id}/ does not resolve`);
+  }
+  for (const id of linkedWhyIds(e.body)) {
+    if (!exById.has(id)) err(e, `link to /why/${id}/ does not resolve`);
+  }
+}
+
 // Totals
 const roots = nodes.filter((n) => !n.data.parent);
 const maxDepth = Math.max(0, ...[...depth.values()]);
@@ -82,6 +132,7 @@ console.log(`Content dir: ${CONTENT_DIR}`);
 for (const w of warnings) console.log(`warning: ${w}`);
 for (const e of errors) console.log(`error: ${e}`);
 console.log(`\nNodes: ${nodes.length}  Roots: ${roots.length}  Max depth: ${maxDepth}  Unreviewed: ${unreviewed}`);
+console.log(`Explainers: ${explainers.length}  Unreviewed: ${explainers.filter((e) => e.data.reviewed !== true).length}`);
 for (const c of alloc) console.log(`  ${c.id}: ${nodes.filter((n) => n.folder === c.id).length}`);
 console.log(`${warnings.length} warning(s), ${errors.length} error(s)`);
 process.exit(errors.length ? 1 : 0);

@@ -12,7 +12,7 @@ sources:
   - title: "Our World in Data, Environmental impacts of food production"
     url: "https://ourworldindata.org/environmental-impacts-of-food"
     supports: "Land use change and farm-stage processes make up over 80% of the footprint of most foods"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

@@ -6,7 +6,7 @@ parent: desert-island
 summary: "Admitting a rare exception doesn't make the rule unimportant; the exception is defined by real need, which is the thing most of us lack."
 tags: [hypothetical, necessity]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

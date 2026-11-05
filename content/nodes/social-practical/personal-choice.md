@@ -6,7 +6,7 @@ parent: null
 summary: "Choices that cost another being its life are not purely personal; and explaining a view is not coercion."
 tags: [autonomy, ethics, advocacy]
 sources: []
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

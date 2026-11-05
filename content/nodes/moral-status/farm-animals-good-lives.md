@@ -6,7 +6,7 @@ parent: death-without-suffering
 summary: "Bridge: this is the humane-meat objection, answered on its own page."
 tags: [humane-meat, bridge]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

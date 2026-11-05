@@ -6,7 +6,7 @@ parent: leather-byproduct
 summary: "Many alternatives are plastic-based and have costs of their own; the answer is to buy less and buy durable, not to default to animal skin."
 tags: [vegan-leather, plastic, durability]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

@@ -12,7 +12,7 @@ sources:
   - title: "Mariotti & Gardner (2019), Dietary protein and amino acids in vegetarian diets: a review, Nutrients"
     url: "https://doi.org/10.3390/nu11112661"
     supports: "Protein-rich plant foods are sufficient for protein adequacy in vegetarian/vegan adults"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

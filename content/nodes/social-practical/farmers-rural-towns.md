@@ -9,7 +9,7 @@ sources:
   - title: "Salliou & Béné (2023), farm transitions out of livestock farming ('transfarmation'), Frontiers in Sustainable Food Systems"
     url: "https://www.frontiersin.org/articles/10.3389/fsufs.2023.1122992/full"
     supports: "27 accounts of farms leaving livestock were collected; some moved from intensive poultry or pig farming to mushroom or market gardening for economic reasons, others for compassion, mostly to animal sanctuaries or market gardening; support organisations seemed especially helpful for the compassion-driven group"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

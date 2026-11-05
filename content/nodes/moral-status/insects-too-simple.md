@@ -9,7 +9,7 @@ sources:
   - title: "Gibbons et al. (2022), Can insects feel pain? A review of the neural and behavioural evidence, Advances in Insect Physiology"
     url: "https://researchonline.lse.ac.uk/id/eprint/117533"
     supports: "Adult flies, mosquitoes, cockroaches and termites meet six of eight sentience criteria (strong evidence for pain); adults of most other orders meet three to four (substantial evidence); no good evidence any insect failed a criterion, with large gaps for juveniles"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

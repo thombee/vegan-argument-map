@@ -48,7 +48,9 @@
     hits.forEach(function (h) {
       var li = el('li'), a = el('a', 'card');
       a.href = h.it.url;
-      a.appendChild(el('span', 'card-title', h.it.title));
+      var ttl = el('span', 'card-title', h.it.title);
+      if (h.it.kind === 'explainer') ttl.appendChild(el('span', 'badge badge-explainer', 'Explainer'));
+      a.appendChild(ttl);
       a.appendChild(el('span', 'card-sum', h.it.summary));
       a.appendChild(el('span', 'card-cat', h.it.category));
       li.appendChild(a); ul.appendChild(li);

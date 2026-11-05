@@ -9,7 +9,7 @@ sources:
   - title: "Kittelsen et al. (2021), Keel bone fractures are more prevalent in White Leghorn hens than in Red Jungle fowl hens, a pilot study, PLOS ONE"
     url: "https://doi.org/10.1371/journal.pone.0255234"
     supports: "Keel bone fractures in 69% of White Leghorn hens versus 10% of Red Jungle fowl hens in a small pilot study"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

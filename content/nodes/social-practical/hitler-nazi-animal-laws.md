@@ -9,7 +9,7 @@ sources:
   - title: "Hal Herzog (2011), Was Hitler a Vegetarian? The Nazi Animal Protection Movement, Psychology Today"
     url: "https://www.psychologytoday.com/us/blog/animals-and-us/201111/was-hitler-a-vegetarian-the-nazi-animal-protection-movement"
     supports: "Goebbels wrote that Hitler was a convinced vegetarian, but the extent is disputed and he may have been inconsistent; the Nazis enacted animal protection laws after 1933; Herzog argues Hitler's diet does not undermine the case for animal rights"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

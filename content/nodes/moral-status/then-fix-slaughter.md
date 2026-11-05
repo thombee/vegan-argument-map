@@ -9,7 +9,7 @@ sources:
   - title: "UK Animal Welfare Committee (2025), Opinion on the welfare impacts on pigs of high concentration CO2 gas stunning"
     url: "https://www.gov.uk/government/publications/opinion-on-carbon-dioxide-gas-stunning-of-pigs-and-alternative-methods/opinion-on-the-welfare-impacts-on-pigs-of-high-concentration-co2-gas-stunning-and-of-potential-alternative-stunning-methods"
     supports: "Concludes that exposure to high concentrations of CO2 in commercial systems causes pigs to suffer pain, respiratory distress and fear, and recommends prohibiting the method"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

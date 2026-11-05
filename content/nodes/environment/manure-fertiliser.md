@@ -12,7 +12,7 @@ sources:
   - title: "Toleikiene et al. (2024), Processing of legume green manures slowdowns C release, reduces N losses and increases N synchronisation index for two years, Sustainability"
     url: "https://ideas.repec.org/a/gam/jsusta/v16y2024i5p2152-d1351495.html"
     supports: "Field experiment on stockless organic systems comparing processed red clover green manures with granulated cattle manure"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

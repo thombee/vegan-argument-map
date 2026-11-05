@@ -9,7 +9,7 @@ sources:
   - title: "Down To Earth, Reduce human-caused methane emissions by 45% to avoid worst of climate change: UN (reporting the UNEP/CCAC Global Methane Assessment)"
     url: "https://www.downtoearth.org.in/agriculture/reduce-human-caused-methane-emissions-by-45-to-avoid-worst-of-climate-change-un-76837"
     supports: "Livestock emissions from manure and enteric fermentation are roughly 32% of human-caused methane, and methane is about 30% of warming since pre-industrial times"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

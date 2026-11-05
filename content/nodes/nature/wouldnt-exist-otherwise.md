@@ -12,7 +12,7 @@ sources:
   - title: "Our World in Data, How many animals get slaughtered every day?"
     url: "https://ourworldindata.org/how-many-animals-get-slaughtered-every-day"
     supports: "FAO data: about 73.8 billion chickens, 1.4 billion pigs and 332 million cattle slaughtered in 2021"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

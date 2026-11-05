@@ -6,7 +6,7 @@ parent: leather-byproduct
 summary: "Wearing out leather you already own, or taking it second-hand, creates no new demand, and most vegans accept it."
 tags: [second-hand, existing-leather, demand]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

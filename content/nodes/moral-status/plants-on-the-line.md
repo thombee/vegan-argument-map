@@ -6,7 +6,7 @@ parent: where-do-you-draw-the-line
 summary: "Bridge: this is the plant-sentience objection, answered on its own page."
 tags: [plants, bridge]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

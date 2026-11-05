@@ -6,7 +6,7 @@ parent: animals-eat-each-other
 summary: "Even if everything we do is natural, that doesn't tell us what's right; see the discussion of naturalness."
 tags: [natural]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

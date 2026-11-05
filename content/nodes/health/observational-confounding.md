@@ -15,7 +15,7 @@ sources:
   - title: "Dinu et al. (2017), Vegetarian, vegan diets and multiple health outcomes: a systematic review with meta-analysis of observational studies, Crit Rev Food Sci Nutr"
     url: "https://doi.org/10.1080/10408398.2016.1138447"
     supports: "Meta-analysis based on observational studies (cross-sectional and cohort)"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

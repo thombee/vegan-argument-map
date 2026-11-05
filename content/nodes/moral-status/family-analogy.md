@@ -9,7 +9,7 @@ sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"
     url: "https://plato.stanford.edu/entries/moral-animal/"
     supports: "Defines speciesism and gives the argument that species membership is morally irrelevant (section 1.1)"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

@@ -6,7 +6,7 @@ parent: what-if-everyone
 summary: "A gradual decline in breeding means existing animals live out their lives; nobody proposes releasing billions at once."
 tags: [transition, animals]
 sources: []
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

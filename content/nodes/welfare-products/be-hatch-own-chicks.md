@@ -9,7 +9,7 @@ sources:
   - title: "RSPCA Australia Knowledgebase, What happens with male chicks in the egg industry?"
     url: "https://kb.rspca.org.au/knowledge-base/what-happens-with-male-chicks-in-the-egg-industry/"
     supports: "Male layer chicks are killed in the industry because they cannot lay eggs and are unsuited to meat production"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

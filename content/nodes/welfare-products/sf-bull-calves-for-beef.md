@@ -12,7 +12,7 @@ sources:
   - title: "RSPCA Australia Knowledgebase, What happens to bobby calves?"
     url: "https://kb.rspca.org.au/knowledge-base/what-happens-to-bobby-calves/"
     supports: "Most dairy calves are removed from their mothers within a day of birth; all male calves and about a quarter of female calves are surplus to the dairy herd"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

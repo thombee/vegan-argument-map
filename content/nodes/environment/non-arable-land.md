@@ -15,7 +15,7 @@ sources:
   - title: "Hayek et al. (2021), The carbon opportunity cost of animal-sourced food production on land, Nature Sustainability"
     url: "https://doi.org/10.1038/s41893-020-00603-4"
     supports: "Pastures for ruminants account for 72% of carbon opportunity cost of animal agriculture"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

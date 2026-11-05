@@ -12,7 +12,7 @@ sources:
   - title: "Poore & Nemecek (2018), Reducing food's environmental impacts through producers and consumers, Science"
     url: "https://www.science.org/doi/10.1126/science.aaq0216"
     supports: "Impact can vary 50-fold among producers of the same product; the lowest-impact animal products typically exceed vegetable substitutes"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

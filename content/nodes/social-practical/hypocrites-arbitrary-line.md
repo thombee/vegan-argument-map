@@ -6,7 +6,7 @@ parent: vegans-are-hypocrites
 summary: "Any line between avoidable and unavoidable harm is imperfect at the edges, but that doesn't make the clear cases unclear."
 tags: [boundary, consistency]
 sources: []
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

@@ -5,6 +5,7 @@ import matter from 'gray-matter';
 
 export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 export const CONTENT_DIR = path.resolve(ROOT, process.env.CONTENT_DIR || 'content/nodes');
+export const EXPLAINERS_DIR = path.resolve(ROOT, process.env.EXPLAINERS_DIR || 'content/explainers');
 export const SECTIONS = ['The objection at full strength', 'Response', 'In short'];
 
 // Parse ALLOCATION.md: categories (## id: Name) and their listed root ids.
@@ -63,3 +64,29 @@ export function linkedIds(body) {
 }
 
 export const isKebab = (s) => typeof s === 'string' && /^[a-z0-9]+(-[a-z0-9]+)*$/.test(s);
+
+// Explainers: flat folder of content/explainers/<id>.md, sorted by order then id.
+export function loadExplainers(dir = EXPLAINERS_DIR) {
+  const out = [];
+  if (!fs.existsSync(dir)) return out;
+  for (const f of fs.readdirSync(dir).sort()) {
+    if (!f.endsWith('.md')) continue;
+    const file = path.join(dir, f);
+    const parsed = matter(fs.readFileSync(file, 'utf8'));
+    out.push({
+      file: path.relative(ROOT, file),
+      filename: f.replace(/\.md$/, ''),
+      data: parsed.data || {},
+      body: parsed.content,
+      sections: splitSections(parsed.content),
+    });
+  }
+  const ord = (e) => (typeof e.data.order === 'number' ? e.data.order : Infinity);
+  return out.sort((a, b) => ord(a) - ord(b) || a.filename.localeCompare(b.filename));
+}
+
+export function linkedWhyIds(body) {
+  const ids = new Set();
+  for (const m of body.matchAll(/\]\(\s*\/why\/([^/)\s#]+)\/?[^)]*\)/g)) ids.add(m[1]);
+  return [...ids];
+}

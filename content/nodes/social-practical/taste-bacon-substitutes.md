@@ -6,7 +6,7 @@ parent: taste-bacon
 summary: "Some substitutes fall short, but whether a replacement matches the original does not settle whether the original is justified."
 tags: [taste, substitutes]
 sources: []
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

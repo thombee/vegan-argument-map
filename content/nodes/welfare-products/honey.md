@@ -12,7 +12,7 @@ sources:
   - title: "Přidal, Musila & Svoboda (2023), Condition and Honey Productivity of Honeybee Colonies Depending on Type of Supplemental Feed for Overwintering, Animals"
     url: "https://doi.org/10.3390/ani13030323"
     supports: "Harvested honey is usually replaced by an alternative sugar to overwinter honeybee colonies"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

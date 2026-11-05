@@ -12,7 +12,7 @@ sources:
   - title: "Our World in Data, Environmental impacts of food production"
     url: "https://ourworldindata.org/environmental-impacts-of-food"
     supports: "78% of global ocean and freshwater eutrophication is caused by agriculture"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

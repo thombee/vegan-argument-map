@@ -1,10 +1,10 @@
 import fs from 'node:fs';
 import path from 'node:path';
-import { loadNodes, ROOT } from './lib.mjs';
+import { loadNodes, loadExplainers, ROOT } from './lib.mjs';
 
 const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36';
 const cites = new Map();
-for (const n of loadNodes()) for (const s of n.data.sources || []) {
+for (const n of [...loadNodes(), ...loadExplainers()]) for (const s of n.data.sources || []) {
   if (!s?.url) continue;
   if (!cites.has(s.url)) cites.set(s.url, []);
   cites.get(s.url).push(n.data.id || n.filename);

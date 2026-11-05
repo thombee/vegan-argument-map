@@ -15,7 +15,7 @@ sources:
   - title: "Bakaloudi et al. (2021), Intake and adequacy of the vegan diet: a systematic review of the evidence, Clin Nutr"
     url: "https://doi.org/10.1016/j.clnu.2020.11.035"
     supports: "Vegan diets not related to deficiencies in iron intake but linked to low zinc, B12, calcium, selenium"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

@@ -9,7 +9,7 @@ sources:
   - title: "Aebischer, Wheatley & Rose (2014), Factors associated with shooting accuracy and wounding rate of four managed wild deer species in the UK, PLOS ONE"
     url: "https://doi.org/10.1371/journal.pone.0109698"
     supports: "96% of deer were hit and 93% of those killed outright; recommended practice (comfortable position, gun rest, chest aim, heavier bullets, no rushed shots, regular practice) to improve outcomes"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

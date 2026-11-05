@@ -6,7 +6,7 @@ parent: carnivore-diet
 summary: "The evolution and 'natural diet' arguments belong to the nature category and do not decide what is healthy or right today."
 tags: [carnivore, natural]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

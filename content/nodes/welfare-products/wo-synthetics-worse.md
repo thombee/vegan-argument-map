@@ -9,7 +9,7 @@ sources:
   - title: "Napper & Thompson (2016), Release of synthetic microplastic plastic fibres from domestic washing machines, Marine Pollution Bulletin"
     url: "https://doi.org/10.1016/j.marpolbul.2016.09.025"
     supports: "Polyester, polyester-cotton and acrylic fabrics released fibres in washing; an average 6 kg load of acrylic could release over 700,000 fibres; polyester-cotton shed significantly fewer than polyester or acrylic"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

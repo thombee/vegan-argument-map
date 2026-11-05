@@ -6,7 +6,7 @@ parent: animals-eat-each-other
 summary: "Rights are claims against those who can respect them; we owe animals non-interference with them and, in the wild, nothing as drastic as policing."
 tags: [rights, wild-animal-suffering]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

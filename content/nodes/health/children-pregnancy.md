@@ -18,7 +18,7 @@ sources:
   - title: "Jak\u0161e, Fras & Fidler Mis (2023), Vegan diets for children: a narrative review of position papers published by relevant associations, Nutrients"
     url: "https://doi.org/10.3390/nu15224715"
     supports: "Review of position papers: some associations support well-designed vegan diets for children, others caution against them"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

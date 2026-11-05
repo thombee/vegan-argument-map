@@ -12,7 +12,7 @@ sources:
   - title: "Our World in Data, Land use of diets"
     url: "https://ourworldindata.org/land-use-diets"
     supports: "About 80% of agricultural land is used for meat and dairy production (pasture plus cropland for feed); 41% of the world's cereals go to animal feed and only 7% of soy goes to human foods; beef converts about 2% of feed energy into beef"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

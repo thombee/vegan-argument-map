@@ -15,7 +15,7 @@ sources:
   - title: "UTS Newsroom, Is it really safe to feed your cat a vegan diet?"
     url: "https://www.uts.edu.au/news/health-science/it-really-safe-feed-your-cat-vegan-diet"
     supports: "Taurine is essential for cats; deficiency can cause retinal degeneration and cardiac disease; the research cannot conclude that a solely vegan diet is safe or beneficial long term; supplementation is hard to get right without expertise"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

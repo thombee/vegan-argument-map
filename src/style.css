@@ -96,6 +96,30 @@ button.copy:hover { filter: brightness(1.08); }
 .sources { padding-left: 1.4rem; }
 .sources .supports { display: block; color: var(--muted); font-size: 0.92rem; line-height: 1.5; }
 
+.badge-explainer { background: var(--accent); color: var(--accent-ink); margin-left: 0.5em; }
+.why-block { background: var(--surface); border: 1px solid var(--border); border-left: 4px solid var(--accent); border-radius: 8px; padding: 0.1rem 1.2rem 0.3rem; margin: 1.5rem 0 0; }
+.why-block h2 { margin-top: 1rem; }
+.why-block h2 a { color: inherit; text-decoration: none; }
+.why-block h2 a:hover { text-decoration: underline; }
+.why-link { font-weight: 600; }
+
+.contrast { width: 100%; border-collapse: collapse; margin: 1.5rem 0 2rem; font-size: 0.98rem; line-height: 1.5; }
+.contrast th, .contrast td { text-align: left; vertical-align: top; padding: 0.7rem 0.9rem; border: 1px solid var(--border); }
+.contrast thead th { background: var(--surface); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); }
+.contrast td:first-child { background: var(--surface); }
+@media (max-width: 639px) {
+  .contrast, .contrast tbody, .contrast tr, .contrast td { display: block; width: 100%; }
+  .contrast thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  .contrast tr { margin-bottom: 1rem; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  .contrast td { border: 0; }
+  .contrast td + td { border-top: 1px solid var(--border); }
+  .contrast td::before { content: attr(data-label); display: block; font-size: 0.75rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); margin-bottom: 0.2rem; }
+}
+.pager { display: flex; justify-content: space-between; gap: 1rem; margin-top: 2.5rem; }
+.pager a { display: block; max-width: 48%; padding: 0.7rem 1rem; border: 1px solid var(--border); border-radius: 8px; background: var(--surface); text-decoration: none; font-weight: 600; }
+.pager a span { display: block; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); font-weight: 400; }
+.pager .next { text-align: right; margin-left: auto; }
+
 @media (min-width: 640px) {
   .wrap { padding: 0 1.5rem; }
   h1 { font-size: 2.5rem; }

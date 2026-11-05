@@ -9,7 +9,7 @@ sources:
   - title: "Our World in Data, Land use and diets"
     url: "https://ourworldindata.org/land-use-diets"
     supports: "Around 80% of agricultural land is used for meat and dairy; for every 100 kilocalories fed to a cow, about 2 kilocalories of beef come back"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

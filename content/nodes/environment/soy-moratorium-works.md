@@ -9,7 +9,7 @@ sources:
   - title: "Our World in Data, Soy"
     url: "https://ourworldindata.org/soy"
     supports: "Soy's share of expansion at the expense of forest fell from 30% in the two years before the moratorium to 1% by 2014; 48% of 2015 soy expansion came from the Cerrado"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

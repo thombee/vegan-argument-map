@@ -6,7 +6,7 @@ parent: culture-tradition
 summary: "Shared meals matter, and families regularly adapt them; the connection comes from the gathering, not the particular dish."
 tags: [family, holidays]
 sources: []
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

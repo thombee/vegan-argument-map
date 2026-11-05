@@ -6,7 +6,7 @@ parent: insects-and-bivalves
 summary: "Bridge: this is the crop-deaths objection, answered on its own page."
 tags: [crop-deaths, bridge]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

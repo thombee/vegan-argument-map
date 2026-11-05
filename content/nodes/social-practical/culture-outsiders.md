@@ -9,7 +9,7 @@ sources:
   - title: "Pew Research Center (2021), Religion in India: Tolerance and Segregation"
     url: "https://www.pewresearch.org/religion/2021/06/29/religion-in-india-tolerance-and-segregation/"
     supports: "44% of Hindus say they are vegetarians and 92% of Jains say they are vegetarians"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

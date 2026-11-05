@@ -9,7 +9,7 @@ sources:
   - title: "US Food and Drug Administration, Human food made from cultured animal cells"
     url: "https://www.fda.gov/food/food-ingredients-packaging/human-food-made-cultured-animal-cells"
     supports: "The FDA completed its first pre-market consultation for food made from cultured animal cells (chicken) in November 2022, a second in March 2023 and one for cultured pork fat cells in March 2025"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

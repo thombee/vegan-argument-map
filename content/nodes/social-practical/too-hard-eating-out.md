@@ -6,7 +6,7 @@ parent: too-hard
 summary: "Social eating is the hardest part, but a few habits (checking menus, offering to bring a dish, asking early) handle most of it."
 tags: [social, restaurants, family]
 sources: []
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

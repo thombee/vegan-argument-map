@@ -6,7 +6,7 @@ parent: preachy-vegans
 summary: "If people believe a serious wrong is being done, keeping silent is not neutral; the goal is to speak with respect, not to say nothing."
 tags: [advocacy, ethics]
 sources: []
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

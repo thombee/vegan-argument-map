@@ -12,7 +12,7 @@ sources:
   - title: "Lennerz et al. (2021), Behavioral characteristics and self-reported health status among 2029 adults consuming a 'carnivore diet', Curr Dev Nutr"
     url: "https://doi.org/10.1093/cdn/nzab133"
     supports: "Survey authors state that generalisability and long-term effects require further study"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

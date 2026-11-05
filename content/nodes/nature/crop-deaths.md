@@ -12,7 +12,7 @@ sources:
   - title: "Anthropocene Magazine (2018), How many animals are killed in agriculture?"
     url: "https://www.anthropocenemagazine.org/2018/07/how-many-animals-killed-in-agriculture/"
     supports: "Fischer and Lamey's estimate of about 7.3 billion wild animal deaths a year in crop farming rests on thin evidence and they judge it clearly too high; they see a possible future where plant agriculture kills very few animals, perhaps none"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

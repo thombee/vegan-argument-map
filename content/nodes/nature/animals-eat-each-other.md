@@ -6,7 +6,7 @@ parent: null
 summary: "Predation in the wild is not a moral model; we are the animals who can choose otherwise, and our duty not to cause harm is stronger than any duty to prevent all harm."
 tags: [wild-animal-suffering, predation, moral-agency]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

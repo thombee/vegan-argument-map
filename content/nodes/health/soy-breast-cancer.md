@@ -9,7 +9,7 @@ sources:
   - title: "Messina & Nechuta (2025), A review of the clinical and epidemiologic evidence relevant to the impact of postdiagnosis isoflavone intake on breast cancer outcomes, Curr Nutr Rep"
     url: "https://doi.org/10.1007/s13668-025-00640-5"
     supports: "Review: mouse studies show stimulated tumour growth, but clinical research shows no effect on mammographic density or proliferation, and epidemiology indicates postdiagnosis soy lowers recurrence and possibly mortality; women with breast cancer can safely eat soy foods"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

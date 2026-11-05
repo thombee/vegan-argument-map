@@ -9,7 +9,7 @@ sources:
   - title: "Cassidy et al. (2013), Redefining agricultural yields: from tonnes to people nourished per hectare, Environmental Research Letters"
     url: "https://iopscience.iop.org/article/10.1088/1748-9326/8/3/034015"
     supports: "Abstract: 36% of the calories produced by the world's crops are used for animal feed, and only 12% of those feed calories ultimately contribute to the human diet"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

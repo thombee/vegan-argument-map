@@ -9,7 +9,7 @@ sources:
   - title: "Leatherbiz (World Trades Publishing), Time to put the by-product debate to bed (2020) - leather trade publication"
     url: "https://leatherbiz.com/Features/156311"
     supports: "A trade publication citing the Leather and Hide Council of America: steer hides were worth close to 1% of the animal's total value in April 2020; hides averaged 58.3% of cattle by-product value from 1980 to 2011 and 15-20% in 2020; argues hides are a by-product, not a co-product"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

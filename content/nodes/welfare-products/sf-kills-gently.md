@@ -6,7 +6,7 @@ parent: small-farms
 summary: "A calm death is better than a frightening one, but the question of whether the animal should be killed at all is untouched."
 tags: [slaughter, on-farm, painless]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

@@ -24,7 +24,7 @@ sources:
   - title: "NHMRC (2013), Australian Dietary Guidelines"
     url: "https://www.nhmrc.gov.au/sites/default/files/documents/australian-dietary-guidelines-2013.pdf"
     supports: "Animal foods are highly bioavailable sources of iron, calcium and B12; care needed to include alternatives"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

@@ -12,7 +12,7 @@ sources:
   - title: "Mood et al. (2024), Estimating global numbers of fishes caught from the wild annually from 2000 to 2019, Animal Welfare"
     url: "https://doi.org/10.1017/awf.2024.7"
     supports: "The welfare of wild-caught fishes is generally very poor during and after capture"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

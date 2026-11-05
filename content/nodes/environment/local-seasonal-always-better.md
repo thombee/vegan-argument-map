@@ -9,7 +9,7 @@ sources:
   - title: "Our World in Data, You want to reduce the carbon footprint of your food? Focus on what you eat, not whether your food is local"
     url: "https://ourworldindata.org/food-choice-vs-eating-local"
     supports: "Spanish lettuce imported to the UK in winter had three to eight times lower emissions than locally grown; Swedish greenhouse tomatoes used about 10 times the energy of tomatoes imported from southern Europe in season"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

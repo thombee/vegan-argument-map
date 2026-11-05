@@ -6,7 +6,7 @@ parent: hunting
 summary: "Bridge: the appeal to nature is covered on its own page."
 tags: [bridge, natural]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

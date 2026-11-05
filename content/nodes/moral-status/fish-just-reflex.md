@@ -9,7 +9,7 @@ sources:
   - title: "Sneddon, Braithwaite & Gentle (2003), Do fishes have nociceptors?, Proceedings of the Royal Society B"
     url: "https://doi.org/10.1098/rspb.2003.2349"
     supports: "Rainbow trout have polymodal nociceptors responding to pressure, heat above 40C and a mild acid; noxious substances on the lips raised gill-cover beat rate, delayed resumption of feeding and produced unusual behaviours for a prolonged period, which the authors read as discomfort"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

@@ -6,7 +6,7 @@ parent: hm-labels-push-industry
 summary: "Eating less is a step in the right direction; the full argument is at the reducing-is-enough page."
 tags: [bridge, reducing]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

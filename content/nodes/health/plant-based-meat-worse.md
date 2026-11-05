@@ -15,7 +15,7 @@ sources:
   - title: "World Health Organization, Cancer: carcinogenicity of the consumption of red meat and processed meat (Q&A)"
     url: "https://www.who.int/news-room/questions-and-answers/item/cancer-carcinogenicity-of-the-consumption-of-red-meat-and-processed-meat"
     supports: "Processed meat classed Group 1 (carcinogenic), red meat Group 2A (probably carcinogenic)"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

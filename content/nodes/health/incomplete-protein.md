@@ -12,7 +12,7 @@ sources:
   - title: "Dietitians Australia (2020), A Guide to Vegan Eating (fact sheet)"
     url: "https://member.dietitiansaustralia.org.au/Common/Uploaded%20files/DAA/Resource_Library/2020/VF_A_Guide_to_Vegan_Eating.pdf"
     supports: "Lists legumes, soy foods, textured vegetable protein, nuts, seeds and wholegrains as protein sources for vegans"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

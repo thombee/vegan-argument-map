@@ -9,7 +9,7 @@ sources:
   - title: "Okin (2017), Environmental impacts of food consumption by dogs and cats, PLOS ONE"
     url: "https://doi.org/10.1371/journal.pone.0181301"
     supports: "US dogs and cats consume about 19% of the dietary energy and 33% (+/-9%) of the animal-derived energy that humans do, and account for roughly 25-30% of the environmental impacts of animal production in land, water, fossil fuel, phosphate and biocides"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

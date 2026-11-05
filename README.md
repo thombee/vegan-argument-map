@@ -19,6 +19,7 @@ Requires Node 24 (`fnm use`).
 Environment variables:
 
 - `BASE_PATH` (e.g. `/vegan-argument-map`) prefixes every internal link, including `/a/<id>/` links in Markdown. When serving a build with a base path, set the same `BASE_PATH` for `npm run serve`.
+- `EXPLAINERS_DIR` points the tools at another explainers folder (default `content/explainers`; the tests use `test/fixtures/explainers`). A missing folder is fine.
 - `CONTENT_DIR` points the tools at another content folder (the tests use `test/fixtures/nodes`).
 
 ## Adding a node
@@ -29,6 +30,10 @@ Environment variables:
 4. Run `npm run check`, then `npm run build && npm run serve`.
 
 Links to ids listed in `ALLOCATION.md` that are not written yet are warnings; any other unresolved link is an error.
+
+## Adding an explainer
+
+The "Why we don't see it" section (`/why/`) holds long-form pages in `content/explainers/<id>.md`: frontmatter `id`, `title`, `order`, `summary`, `contrasts` (2-5 `shown`/`record` rows), `sources`, `reviewed`, then an essay ending in `## In short`. Format and tone rules are in `CONTENT_GUIDE.md`. `npm run check` validates them and `npm run linkcheck` includes their sources. Markdown bodies may link to `/a/<id>/` and `/why/<id>/`.
 
 ## Review
 

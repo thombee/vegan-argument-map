@@ -12,7 +12,7 @@ sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"
     url: "https://plato.stanford.edu/entries/moral-animal/"
     supports: "Argument from marginal cases poses serious difficulties for personhood as the criterion of moral considerability (section 1.3.1); Bentham's sentience test (section 1.4)"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

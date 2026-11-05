@@ -12,7 +12,7 @@ sources:
   - title: "Assessing Wiltshire Horn-Merino crosses. 1. Wool shedding, blowfly strike and wool production traits, Australian Journal of Experimental Agriculture"
     url: "https://doi.org/10.1071/EA9940717"
     supports: "Wool-shedding Wiltshire Horn-Merino crosses were far inferior to Merinos in greasy and clean wool weight, and blowfly strike incidence was far higher in Merinos than in half-Merino crosses"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

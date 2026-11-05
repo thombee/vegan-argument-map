@@ -6,7 +6,7 @@ parent: one-person-no-difference
 summary: "Policy and personal change reinforce each other; waiting for one to go first is how neither happens."
 tags: [policy, collective-action]
 sources: []
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

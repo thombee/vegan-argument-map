@@ -9,7 +9,7 @@ sources:
   - title: "Slavery Abolition Act 1833, legislation.gov.uk"
     url: "https://www.legislation.gov.uk/ukpga/Will4/3-4/73/contents"
     supports: "The 1833 Act provided that slavery would be abolished throughout the British dominions, so slavery was lawful until then"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

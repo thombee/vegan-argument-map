@@ -18,7 +18,7 @@ sources:
   - title: "Nebl et al. (2019), Exercise capacity of vegan, lacto-ovo-vegetarian and omnivorous recreational runners, J Int Soc Sports Nutr"
     url: "https://doi.org/10.1186/s12970-019-0289-4"
     supports: "Cross-sectional study of recreational runners: no difference in maximal exercise capacity between vegan, vegetarian and omnivorous groups"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

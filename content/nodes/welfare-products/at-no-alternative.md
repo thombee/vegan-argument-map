@@ -15,7 +15,7 @@ sources:
   - title: "Sun et al. (2022), Why 90% of clinical drug development fails and how to improve it?, Acta Pharmaceutica Sinica B"
     url: "https://doi.org/10.1016/j.apsb.2022.02.002"
     supports: "States that 90% of clinical drug development fails despite many strategies"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

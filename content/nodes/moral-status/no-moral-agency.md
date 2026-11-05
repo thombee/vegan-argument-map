@@ -9,7 +9,7 @@ sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"
     url: "https://plato.stanford.edu/entries/moral-animal/"
     supports: "Presents sentience (and Regan's subject-of-a-life view) as grounds of moral standing, and infants and people in comas as morally considerable despite lacking rational capacities (sections 1.3-1.4)"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

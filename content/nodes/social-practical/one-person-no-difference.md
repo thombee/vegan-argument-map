@@ -9,7 +9,7 @@ sources:
   - title: "Our World in Data, Land animals slaughtered for meat"
     url: "https://ourworldindata.org/grapher/land-animals-slaughtered-for-meat"
     supports: "Tracks FAO data on land animals slaughtered for meat each year (related OWID analysis: more than 80 billion per year), excluding deaths during meat and dairy production and chickens slaughtered in the egg industry"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

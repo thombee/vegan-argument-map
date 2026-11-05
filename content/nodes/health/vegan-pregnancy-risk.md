@@ -15,7 +15,7 @@ sources:
   - title: "Melina, Craig & Levin (2016), Position of the Academy of Nutrition and Dietetics: Vegetarian Diets, J Acad Nutr Diet"
     url: "https://doi.org/10.1016/j.jand.2016.09.025"
     supports: "Appropriately planned vegan diets are appropriate for pregnancy and lactation; vegans need reliable B12 sources"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

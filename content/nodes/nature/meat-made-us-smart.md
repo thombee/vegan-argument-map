@@ -9,7 +9,7 @@ sources:
   - title: "Cornelio et al. (2016), Human brain expansion during evolution is independent of fire control and cooking, Frontiers in Neuroscience"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4842772"
     supports: "Argues cooking is neither sufficient nor necessary to explain hominin brain expansion, and favours dietary shifts toward seeds and meat plus tool use as drivers of higher energy intake; notes the expensive-tissue hypothesis proposes a brain/gut trade-off"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

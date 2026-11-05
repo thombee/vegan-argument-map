@@ -12,7 +12,7 @@ sources:
   - title: "Our World in Data, Environmental impacts of food production"
     url: "https://ourworldindata.org/environmental-impacts-of-food"
     supports: "Transport is just 5% of food system emissions"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

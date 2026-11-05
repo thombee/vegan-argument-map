@@ -9,7 +9,7 @@ sources:
   - title: "Craig, Melina & Levin (2016), Position of the Academy of Nutrition and Dietetics: Vegetarian Diets, Journal of the Academy of Nutrition and Dietetics"
     url: "https://digitalcommons.andrews.edu/pubs/648"
     supports: "Appropriately planned vegetarian, including vegan, diets are healthful and nutritionally adequate, and appropriate for all stages of the life cycle including pregnancy, lactation, infancy, childhood, adolescence, older adulthood and for athletes"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

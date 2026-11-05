@@ -12,7 +12,7 @@ sources:
   - title: "Gehring et al. (2021), Consumption of ultra-processed foods by pesco-vegetarians, vegetarians, and vegans, J Nutr"
     url: "https://doi.org/10.1093/jn/nxaa196"
     supports: "Not all vegetarian diets necessarily have health benefits because of potential adverse effects of UPFs"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

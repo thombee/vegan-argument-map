@@ -12,7 +12,7 @@ sources:
   - title: "NHS, The vegetarian diet"
     url: "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegetarian-diet/"
     supports: "Vitamin B12 is only found naturally in animal products, so people who avoid all animal products need a reliable source such as fortified foods"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

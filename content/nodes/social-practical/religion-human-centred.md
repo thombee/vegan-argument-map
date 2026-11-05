@@ -12,7 +12,7 @@ sources:
   - title: "Pope Francis (2015), Laudato Si', paragraphs 66-69"
     url: "https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html"
     supports: "The encyclical says dominion does not justify absolute domination over other creatures, that 'keeping' means care, and that other creatures have a value of their own in God's eyes"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

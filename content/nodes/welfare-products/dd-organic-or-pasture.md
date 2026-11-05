@@ -9,7 +9,7 @@ sources:
   - title: "RSPCA Australia Knowledgebase, What happens to bobby calves?"
     url: "https://kb.rspca.org.au/knowledge-base/what-happens-to-bobby-calves/"
     supports: "All male calves and roughly a quarter of female calves are surplus to the dairy herd"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

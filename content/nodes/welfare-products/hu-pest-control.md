@@ -9,7 +9,7 @@ sources:
   - title: "Hampton, MacKenzie & Forsyth (2022), Animal welfare outcomes of professional vehicle-based shooting of peri-urban rusa deer in Australia, Wildlife Research"
     url: "https://doi.org/10.1071/WR21131"
     supports: "In professional night shooting of rusa deer in eastern Australia, 85% of deer shot at were killed, 3.5% of those shot at and hit escaped wounded, and the authors concluded shooter training could improve outcomes"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

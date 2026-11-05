@@ -6,7 +6,7 @@ parent: wouldnt-exist-otherwise
 summary: "Breeds are human creations, and a loss of a breed isn't a harm to any animal; sanctuaries and conservation can keep heritage breeds without mass breeding for slaughter."
 tags: [breeds, extinction]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

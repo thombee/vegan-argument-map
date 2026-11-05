@@ -6,7 +6,7 @@ parent: humans-are-animals-too
 summary: "Whether to intervene in wild predation is a separate and hard question; our duty not to cause avoidable harm doesn't depend on answering it."
 tags: [wild-animal-suffering]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

@@ -6,7 +6,7 @@ parent: where-do-you-draw-the-line
 summary: "Bridge: this is the vegans-are-hypocrites objection, answered on its own page."
 tags: [hypocrisy, bridge]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

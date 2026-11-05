@@ -9,7 +9,7 @@ sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"
     url: "https://plato.stanford.edu/entries/moral-animal/"
     supports: "Describes ranking interests as crucial, important, replaceable or trivial, with higher-ranked interests overriding lower ones (section 2.2)"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

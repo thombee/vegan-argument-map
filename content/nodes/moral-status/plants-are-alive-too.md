@@ -9,7 +9,7 @@ sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"
     url: "https://plato.stanford.edu/entries/moral-animal/"
     supports: "Presents sentience as the morally relevant criterion for moral considerability, with Bentham's test 'Can they suffer?' (section 1.4)"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

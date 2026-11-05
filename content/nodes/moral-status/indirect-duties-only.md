@@ -9,7 +9,7 @@ sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"
     url: "https://plato.stanford.edu/entries/moral-animal/"
     supports: "Describes treating non-persons as indirectly considerable as one response to the marginal cases problem (section 1.3.1)"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

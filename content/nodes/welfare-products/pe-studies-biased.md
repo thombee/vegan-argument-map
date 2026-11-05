@@ -12,7 +12,7 @@ sources:
   - title: "Dodd et al. (2021), A cross-sectional study of owner-reported health in Canadian and American cats fed meat- and plant-based diets, BMC Veterinary Research"
     url: "https://doi.org/10.1186/s12917-021-02754-8"
     supports: "The study collected information from cat owners and is subject to bias and methodological limitations; further research is warranted"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

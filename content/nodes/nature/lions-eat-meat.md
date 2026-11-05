@@ -6,7 +6,7 @@ parent: null
 summary: "Lions are obligate carnivores who cannot choose otherwise and cannot reason morally; humans can do both, so the comparison fails."
 tags: [predators, nature, moral-agency]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

@@ -15,7 +15,7 @@ sources:
   - title: "Parakh & Dewan (2026), Revisiting the hematological manifestations of vitamin B12 deficiency, Front Nutr"
     url: "https://doi.org/10.3389/fnut.2026.1898533"
     supports: "B12 deficiency can present with haematological, neuropsychiatric and skin changes and is largely preventable with timely diagnosis and treatment"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

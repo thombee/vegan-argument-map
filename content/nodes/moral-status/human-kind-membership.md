@@ -9,7 +9,7 @@ sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"
     url: "https://plato.stanford.edu/entries/moral-animal/"
     supports: "Lists linking marginal humans to a 'rational nature' among responses to the argument from marginal cases (section 1.3.1)"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

@@ -18,7 +18,7 @@ sources:
   - title: "Analysis of culling reasons and age at culling in Australian dairy cattle (2021), Animal Production Science"
     url: "https://doi.org/10.1071/AN20195"
     supports: "Average age at culling of Australian dairy cows was about 6.75 years (Holstein) in 2.45 million records"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

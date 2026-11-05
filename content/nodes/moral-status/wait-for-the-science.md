@@ -12,7 +12,7 @@ sources:
   - title: "New York Declaration on Animal Consciousness (2024)"
     url: "https://sites.google.com/nyu.edu/nydeclaration/declaration"
     supports: "Strong scientific support for conscious experience in mammals and birds, and at least a realistic possibility of it in all vertebrates (including reptiles, amphibians and fishes) and many invertebrates (including cephalopod molluscs, decapod crustaceans and insects)"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

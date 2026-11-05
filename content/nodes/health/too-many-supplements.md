@@ -15,7 +15,7 @@ sources:
   - title: "Dietitians Australia (2020), A Guide to Vegan Eating (fact sheet)"
     url: "https://member.dietitiansaustralia.org.au/Common/Uploaded%20files/DAA/Resource_Library/2020/VF_A_Guide_to_Vegan_Eating.pdf"
     supports: "Vegans might need to supplement calcium, iron and omega-3; check with a dietitian or doctor first"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

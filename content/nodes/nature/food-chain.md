@@ -9,7 +9,7 @@ sources:
   - title: "Faunalytics summary of Bonhommeau et al. (2013), Eating up the world's food web and the human trophic level, PNAS"
     url: "https://faunalytics.org/eating-up-the-worlds-food-web-and-the-human-trophic-level/"
     supports: "The global human trophic level is 2.21, the same as anchoveta, and has risen with meat-heavy diets"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

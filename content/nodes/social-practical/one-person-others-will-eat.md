@@ -6,7 +6,7 @@ parent: one-person-no-difference
 summary: "Prices and stock respond to demand overall, so reducing demand does lower production at the margin; the displacement argument is weaker than it sounds."
 tags: [impact, economics]
 sources: []
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

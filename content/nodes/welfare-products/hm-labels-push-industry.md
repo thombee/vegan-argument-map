@@ -12,7 +12,7 @@ sources:
   - title: "RSPCA Australia Knowledgebase, What happens with male chicks in the egg industry?"
     url: "https://kb.rspca.org.au/knowledge-base/what-happens-with-male-chicks-in-the-egg-industry/"
     supports: "RSPCA urges the egg industry to phase out the killing of day-old male chicks without delay, and notes in-ovo sexing alternatives exist"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

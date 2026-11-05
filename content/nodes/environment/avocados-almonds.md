@@ -15,7 +15,7 @@ sources:
   - title: "Our World in Data, Greenhouse gas emissions per kilogram of food product (data from Poore & Nemecek 2018)"
     url: "https://ourworldindata.org/grapher/ghg-per-kg-poore"
     supports: "Global average GHG per kg (Poore & Nemecek): nuts 0.43, beef (beef herd) 99.48"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

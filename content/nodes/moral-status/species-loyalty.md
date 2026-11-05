@@ -12,7 +12,7 @@ sources:
   - title: "Bentham (1789), An Introduction to the Principles of Morals and Legislation, ch. XVII footnote (Online Library of Liberty/Econlib text)"
     url: "https://www.econlib.org/library/Bentham/bnthPML18.html"
     supports: "The footnote argues a full-grown horse or dog is more rational and conversable than a newborn infant, and says the question is not 'Can they reason? nor, Can they talk? but, Can they suffer?'"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

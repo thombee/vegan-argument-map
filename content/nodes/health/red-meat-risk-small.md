@@ -9,7 +9,7 @@ sources:
   - title: "World Health Organization, Cancer: carcinogenicity of the consumption of red meat and processed meat (Q&A)"
     url: "https://www.who.int/news-room/questions-and-answers/item/cancer-carcinogenicity-of-the-consumption-of-red-meat-and-processed-meat"
     supports: "WHO Q&A: classification reflects strength of evidence of hazard, not likelihood of cancer at a given exposure; processed meat Group 1, red meat Group 2A"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

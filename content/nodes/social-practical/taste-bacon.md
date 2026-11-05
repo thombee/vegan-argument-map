@@ -6,7 +6,7 @@ parent: null
 summary: "Taste is a real pleasure, but the pleasure of a meal has to be weighed against what it costs the animal, and the same reasoning is rejected elsewhere."
 tags: [taste, pleasure, ethics]
 sources: []
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

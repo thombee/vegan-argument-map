@@ -9,7 +9,7 @@ sources:
   - title: "Our World in Data, Soy"
     url: "https://ourworldindata.org/soy"
     supports: "In 2015 only 13% of soy expansion came from the Amazon while 48% came from the Cerrado; indirect effects are harder to quantify and direct-only studies may underestimate soy's role"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

@@ -12,7 +12,7 @@ sources:
   - title: "Food Climate Research Network (Garnett et al., 2017), Grazed and Confused?"
     url: "https://www.tabledebates.org/publication/grazed-and-confused"
     supports: "Report concludes sequestration does not offset the emissions of grazing animals at the scale claimed"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

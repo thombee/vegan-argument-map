@@ -9,7 +9,7 @@ sources:
   - title: "Our World in Data, You want to reduce the carbon footprint of your food? Focus on what you eat, not whether your food is local"
     url: "https://ourworldindata.org/food-choice-vs-eating-local"
     supports: "Transport is about 5% of food emissions; air freight is 0.16% of food miles; eating local beef or lamb has many times the carbon footprint of most other foods"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

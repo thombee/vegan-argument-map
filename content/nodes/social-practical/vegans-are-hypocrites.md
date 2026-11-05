@@ -9,7 +9,7 @@ sources:
   - title: "The Vegan Society, Definition of veganism"
     url: "https://www.vegansociety.com/go-vegan/definition-veganism"
     supports: "Veganism seeks to exclude, as far as is possible and practicable, all forms of exploitation of and cruelty to animals"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

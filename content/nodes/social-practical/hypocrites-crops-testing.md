@@ -6,7 +6,7 @@ parent: vegans-are-hypocrites
 summary: "Both are real, and each has its own page; neither supports continuing to buy animal products by choice."
 tags: [crop-deaths, medicine]
 sources: []
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

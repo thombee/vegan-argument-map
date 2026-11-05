@@ -9,7 +9,7 @@ sources:
   - title: "Animal Welfare (Sentience) Act 2022, legislation.gov.uk"
     url: "https://www.legislation.gov.uk/ukpga/2022/22/contents"
     supports: "The UK Act establishes an Animal Sentience Committee, and defines 'animal' to include vertebrates, cephalopod molluscs and decapod crustaceans"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

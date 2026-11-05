@@ -9,7 +9,7 @@ sources:
   - title: "Desmond, Fewtrell & Wells (2024), Plant-based diets in children: secular trends, health outcomes, and a roadmap for urgent practice recommendations and research: a systematic review, Nutrients"
     url: "https://doi.org/10.3390/nu16050723"
     supports: "Systematic review: vegan, not vegetarian, diets can restrict growth and increase risk of stunting/underweight (small percentage affected); bone mineral content reduced; B12 deficiency without supplements, rectified by supplementation; iodine risk; more favourable lipids in vegan children"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

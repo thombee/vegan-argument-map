@@ -6,7 +6,7 @@ parent: taste-bacon
 summary: "Life is short for the animal too; enjoying your own life doesn't entail needing this particular enjoyment."
 tags: [pleasure, ethics]
 sources: []
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

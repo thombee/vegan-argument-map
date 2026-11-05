@@ -12,7 +12,7 @@ sources:
   - title: "Hevia-Larra\u00edn et al. (2021), High-protein plant-based diet versus a protein-matched omnivorous diet to support resistance training adaptations, Sports Med"
     url: "https://doi.org/10.1007/s40279-021-01434-9"
     supports: "12-week RCT (19 vegans, 19 omnivores) with protein matched to 1.6 g/kg/day: similar gains in leg lean mass, muscle cross-sectional area and strength"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

@@ -9,7 +9,7 @@ sources:
   - title: "Springmann et al. (2021), The global and regional costs of healthy and sustainable dietary patterns, The Lancet Planetary Health (University of Oxford summary)"
     url: "https://www.leap.ox.ac.uk/article/sustainable-eating-is-cheaper-as-well-as-healthier-reveals-new-study"
     supports: "In high-income countries vegan diets were the cheapest option, cutting food costs by up to a third (21-34%); in lower-income countries (e.g. sub-Saharan Africa, the Indian subcontinent) healthy sustainable diets were at least a third more expensive than current diets; the study covered whole foods and excluded highly processed meat replacements, restaurant meals and takeaways"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

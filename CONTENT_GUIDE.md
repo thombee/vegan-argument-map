@@ -91,3 +91,22 @@ reviewed: false
 ```
 
 Tone for explainers: can be moving, but through specific, sourced facts rather than adjectives. No graphic description, no images, no footage links. "Propaganda" or "marketing" may be used only for deliberate, documented industry campaigns; otherwise describe it as culture or habit. Never mock the reader: the point is "this was done to all of us", not "you are stupid for not seeing it".
+
+## Quick answer (`quick:` frontmatter, every node)
+
+The page now leads with the objection at full strength, then a **quick answer**: 3–6 casual dot points under the heading "Why it doesn't hold up". The prose "Response" moves into a collapsed "Full answer and sources" section.
+
+```yaml
+quick:
+  - "Reacting isn't the same as feeling. Plants have no brain or nerves, nothing to feel pain with."
+  - "Even if plants could suffer, meat kills way more of them, because farm animals eat crops first."
+  - "About 80% of farmland goes to meat and dairy. Eating plants directly uses far less."
+  - "So whichever way the plant question goes, the answer's the same: eat the plants."
+```
+
+Rules:
+- **Only restate what the node's Response already says.** No new facts, numbers, studies or claims. The prose has been fact-checked; the bullets must not add anything that hasn't.
+- Casual, plain spoken English, like explaining it to a mate: contractions, short sentences, everyday words. Each bullet ≤ 180 characters, one idea per bullet.
+- Respectful: no sneering, no "lol", no "carnist", no insults. Firm is fine.
+- The bullets together should be the whole argument in miniature; the last one usually lands the conclusion.
+- Bridge nodes (short responses pointing to another page) get 1–2 bullets.

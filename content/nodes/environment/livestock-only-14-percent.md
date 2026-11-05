@@ -15,7 +15,7 @@ sources:
   - title: "Hayek et al. (2021), The carbon opportunity cost of animal-sourced food production on land, Nature Sustainability"
     url: "https://doi.org/10.1038/s41893-020-00603-4"
     supports: "Carbon opportunity cost of animal agriculture is 152.5 GtC in living plant biomass"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

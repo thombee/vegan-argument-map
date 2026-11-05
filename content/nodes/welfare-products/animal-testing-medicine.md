@@ -12,7 +12,7 @@ sources:
   - title: "FDA Modernization Act 2.0, S.5002 (117th Congress), engrossed text"
     url: "https://www.govinfo.gov/content/pkg/BILLS-117s5002es/html/BILLS-117s5002es.htm"
     supports: "Amends the US Federal Food, Drug, and Cosmetic Act to replace 'preclinical tests (including tests on animals)' with 'nonclinical tests', which may include animal tests or non-animal, human biology-based methods such as cell-based assays"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

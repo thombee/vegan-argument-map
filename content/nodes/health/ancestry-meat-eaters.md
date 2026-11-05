@@ -6,7 +6,7 @@ parent: blood-type-genetics
 summary: "Ancestral and evolutionary arguments are covered in the nature section; they describe the past rather than what an individual needs today."
 tags: [ancestry, genetics]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

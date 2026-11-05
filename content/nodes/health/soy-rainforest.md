@@ -6,7 +6,7 @@ parent: soy
 summary: "This is a separate objection about land use, not health; see the environment page for the answer."
 tags: [soy, deforestation]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

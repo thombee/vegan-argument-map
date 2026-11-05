@@ -6,7 +6,7 @@ parent: hm-good-life-one-bad-day
 summary: "Not knowing about death does not remove the harm; the loss is the future the animal would have had."
 tags: [death, harm, bridge]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

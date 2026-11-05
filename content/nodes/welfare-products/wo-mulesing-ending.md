@@ -9,7 +9,7 @@ sources:
   - title: "RSPCA Australia Knowledgebase, What is the RSPCA's view on mulesing and flystrike prevention in sheep?"
     url: "https://kb.rspca.org.au/knowledge-base/what-is-the-rspcas-view-on-mulesing-and-flystrike-prevention-in-sheep/"
     supports: "Millions of lambs are mulesed each year; the industry has not prioritised breeding for flystrike resistance so a large proportion of Merinos are still mulesed; transitioning a flock can take a few years to over 10; pain relief is not always used"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

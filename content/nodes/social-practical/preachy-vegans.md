@@ -9,7 +9,7 @@ sources:
   - title: "Minson & Monin (2012), Do-gooder derogation: disparaging morally motivated minorities to defuse anticipated reproach, Social Psychological and Personality Science (author manuscript)"
     url: "https://faculty.wharton.upenn.edu/wp-content/uploads/2011/12/Minson---Monin,-2011.pdf"
     supports: "In Study 1, 47% of meat-eaters freely associated negative terms with vegetarians, more so the more they expected vegetarians to see themselves as morally superior; the authors trace the backlash to resentment at anticipated moral reproach"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

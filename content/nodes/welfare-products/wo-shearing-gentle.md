@@ -9,7 +9,7 @@ sources:
   - title: "RSPCA Australia Knowledgebase, What are the animal welfare issues with shearing of sheep?"
     url: "https://kb.rspca.org.au/knowledge-base/what-are-the-animal-welfare-issues-with-shearing-of-sheep/"
     supports: "Shearing is an acute stressor and requires sheep to be handled several times (mustering, yarding, penning); nicks and cuts can happen when a sheep struggles or the shearer is rushed; pain relief should be considered for wounds needing stitching"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

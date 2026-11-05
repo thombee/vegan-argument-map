@@ -9,7 +9,7 @@ sources:
   - title: "Our World in Data, If the world adopted a plant-based diet, we would reduce global agricultural land use from 4 to 1 billion hectares"
     url: "https://ourworldindata.org/land-use-diets"
     supports: "A fully vegan diet would shrink global agricultural land from 4.1 to about 1 billion hectares; around 80% of agricultural land is used for meat and dairy production"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

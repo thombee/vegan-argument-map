@@ -9,7 +9,7 @@ sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"
     url: "https://plato.stanford.edu/entries/moral-animal/"
     supports: "Seal example: it is less clear a seal has a future-directed interest in continued existence, which persons arguably have and non-persons arguably do not (section 2.2); life on Nussbaum's list of central capabilities (section 2.1)"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

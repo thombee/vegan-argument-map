@@ -9,7 +9,7 @@ sources:
   - title: "New York Declaration on Animal Consciousness (2024)"
     url: "https://sites.google.com/nyu.edu/nydeclaration/declaration"
     supports: "The evidence indicates at least a realistic possibility of conscious experience in many invertebrates, including insects"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

@@ -6,7 +6,7 @@ parent: overpopulation
 summary: "Nobody proposes mass release; a gradual fall in breeding avoids the problem."
 tags: [feral, transition]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

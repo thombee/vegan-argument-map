@@ -18,7 +18,7 @@ sources:
   - title: "Gehring et al. (2021), Consumption of ultra-processed foods by pesco-vegetarians, vegetarians, and vegans, J Nutr"
     url: "https://doi.org/10.1093/jn/nxaa196"
     supports: "Short duration and young age at diet initiation were associated with greater ultra-processed food consumption among vegetarians and vegans"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

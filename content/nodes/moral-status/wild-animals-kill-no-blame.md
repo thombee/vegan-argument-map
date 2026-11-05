@@ -6,7 +6,7 @@ parent: no-moral-agency
 summary: "Bridge: this is the animals-eat-each-other objection, answered on its own page."
 tags: [predation, bridge]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

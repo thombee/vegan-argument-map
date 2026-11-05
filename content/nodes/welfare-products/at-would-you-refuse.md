@@ -6,7 +6,7 @@ parent: animal-testing-medicine
 summary: "No; the vegan position is about reasonable avoidance of unnecessary harm, and a life-saving medicine is not the same as a meal, a jacket or a hobby."
 tags: [necessity, thought-experiment, children]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

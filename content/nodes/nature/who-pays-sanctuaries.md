@@ -6,7 +6,7 @@ parent: overpopulation
 summary: "The animals would not all need lifelong sanctuary; breeding would taper off, and who pays is a practical transition question, not a moral reason for continuing."
 tags: [transition, practical]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

@@ -6,7 +6,7 @@ parent: honey
 summary: "Bridge: the 'vegans still harm animals' argument has its own page."
 tags: [bridge, hypocrisy, pollination]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

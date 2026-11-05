@@ -15,7 +15,7 @@ sources:
   - title: "Food Climate Research Network (Garnett et al., 2017), Grazed and Confused?"
     url: "https://www.tabledebates.org/publication/grazed-and-confused"
     supports: "Livestock contributes around 14.5% of global greenhouse gas emissions"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

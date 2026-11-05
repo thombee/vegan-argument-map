@@ -15,7 +15,7 @@ sources:
   - title: "Penn State Extension, Have your cows repaid their debts?"
     url: "https://extension.psu.edu/have-your-cows-repaid-their-debts"
     supports: "A dairy cow's normal life expectancy of about 20 years is very rarely observed on modern dairy operations"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

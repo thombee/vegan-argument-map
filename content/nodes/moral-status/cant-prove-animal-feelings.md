@@ -9,7 +9,7 @@ sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"
     url: "https://plato.stanford.edu/entries/moral-animal/"
     supports: "Notes sentience is a non-observable capacity, so there is a lot of uncertainty about distantly related animals, and that several authors recommend erring on the side of caution when sentience is uncertain (section 1.4)"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

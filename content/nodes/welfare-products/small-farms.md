@@ -12,7 +12,7 @@ sources:
   - title: "RSPCA Australia Knowledgebase, How are meat chickens farmed in Australia?"
     url: "https://kb.rspca.org.au/knowledge-base/how-are-meat-chickens-farmed-in-australia"
     supports: "Meat chickens are typically slaughtered at 4-6 weeks; natural lifespan is up to 10 years"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

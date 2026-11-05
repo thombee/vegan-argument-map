@@ -9,7 +9,7 @@ sources:
   - title: "Browning & Veit (2020), Is humane slaughter possible?, Animals"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7278393"
     supports: "Death is harmful to welfare because it deprives the animal of future good experiences; concludes no slaughter can ever be completely humane"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

@@ -12,7 +12,7 @@ sources:
   - title: "Springmann et al. (2016), Analysis and valuation of the health and climate change cobenefits of dietary change, PNAS (Oxford Martin summary)"
     url: "https://www.oxfordmartin.ox.ac.uk/news/201603-plant-based-diets"
     supports: "Modelled for 2050, vegan diets cut food-related greenhouse gas emissions by 70% and avoid 8.1 million deaths a year"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

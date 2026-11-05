@@ -6,7 +6,7 @@ parent: indigenous-peoples
 summary: "Many Indigenous traditions involve deep respect for animals; that is a reason to listen, but respect for the animal doesn't remove the harm done to it."
 tags: [indigenous, respect]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

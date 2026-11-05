@@ -9,7 +9,7 @@ sources:
   - title: "Schotanus, van de Vis & Steins (2022), Welfare of bivalves in aquaculture? A first literature scan, Wageningen Marine Research report C057/22"
     url: "https://edepot.wur.nl/577988"
     supports: "A Scopus search found no papers directly showing whether bivalves are sentient or not; a few studies on predator responses, learning and serotonin suggest they might be, but do not support a firm conclusion"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

@@ -12,7 +12,7 @@ sources:
   - title: "Flower & Weary (2001), Effects of early separation on the dairy cow and calf: 2. Separation at 1 day and 2 weeks after birth, Applied Animal Behaviour Science"
     url: "https://pubmed.ncbi.nlm.nih.gov/11179551/"
     supports: "In 24 Holstein pairs, responses to separation by both cows and calves were stronger at 2 weeks than at 1 day; late-separated calves gained weight at more than three times the rate over the first 14 days; late-separated cows yielded less milk at milking in the first 2 weeks"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

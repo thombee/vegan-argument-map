@@ -12,7 +12,7 @@ sources:
   - title: "Pharmazeutische Zeitung (2 July 2024), report on the German Nutrition Society's (DGE) revised position on vegan diets"
     url: "https://www.pharmazeutische-zeitung.de/gesund-und-gruen-148427/"
     supports: "DGE's 2024 position notes possible poorer bone health and higher fracture risk"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

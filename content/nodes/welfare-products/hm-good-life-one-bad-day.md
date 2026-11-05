@@ -6,7 +6,7 @@ parent: humane-meat
 summary: "A good life does not give us a right to end it; we do not accept this trade for humans or pets, and the animal's life is the thing taken."
 tags: [slaughter, philosophy, interests]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

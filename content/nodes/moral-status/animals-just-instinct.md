@@ -9,7 +9,7 @@ sources:
   - title: "Low et al. (2012), The Cambridge Declaration on Consciousness"
     url: "https://fcmconference.org/img/CambridgeDeclarationOnConsciousness.pdf"
     supports: "States that the neural substrates of emotion are not confined to the cortex, that young humans and non-human animals without neocortices retain these functions, and that humans are not unique in possessing the neurological substrates of consciousness (non-human animals including all mammals and birds, and octopuses, also possess them)"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

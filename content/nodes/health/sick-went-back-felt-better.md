@@ -12,7 +12,7 @@ sources:
   - title: "Haider et al. (2018), The effect of vegetarian diets on iron status in adults: a systematic review and meta-analysis, Crit Rev Food Sci Nutr"
     url: "https://doi.org/10.1080/10408398.2016.1259210"
     supports: "Vegetarians have significantly lower serum ferritin than non-vegetarians in a meta-analysis of 24 studies"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

@@ -15,7 +15,7 @@ sources:
   - title: "Poore & Nemecek (2018), Reducing food's environmental impacts through producers and consumers, Science"
     url: "https://www.science.org/doi/10.1126/science.aaq0216"
     supports: "Impacts of the lowest-impact animal products typically exceed those of vegetable substitutes"
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

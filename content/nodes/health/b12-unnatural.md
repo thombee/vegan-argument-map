@@ -21,7 +21,7 @@ sources:
   - title: "Gruner et al. (2004), A critical evaluation of serum methylmalonic acid and vitamin B12 for the assessment of cobalt deficiency of growing lambs in New Zealand, N Z Vet J"
     url: "https://doi.org/10.1080/00480169.2004.36418"
     supports: "Veterinary research assesses cobalt/B12-responsiveness (supplementation) in lambs, i.e. livestock can need cobalt or B12"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

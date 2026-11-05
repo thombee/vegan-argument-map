@@ -9,7 +9,7 @@ sources:
   - title: "Stanford Encyclopedia of Philosophy, The Moral Status of Animals"
     url: "https://plato.stanford.edu/entries/moral-animal/"
     supports: "Says a happy animal painlessly killed and eaten by people who would otherwise go hungry could be justified, while a replaceable interest in eating is outweighed by an animal's crucial interests (section 2.2)"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

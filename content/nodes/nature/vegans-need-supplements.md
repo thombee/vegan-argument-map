@@ -9,7 +9,7 @@ sources:
   - title: "Melina, Craig & Levin (2016), Position of the Academy of Nutrition and Dietetics: Vegetarian Diets"
     url: "https://digitalcommons.andrews.edu/pubs/648"
     supports: "Position that appropriately planned vegetarian, including vegan, diets are healthful and nutritionally adequate"
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

@@ -6,7 +6,7 @@ parent: small-farms
 summary: "Bridge: the 'wouldn't exist otherwise' argument is answered on its own page."
 tags: [bridge, existence]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

@@ -6,7 +6,7 @@ parent: preachy-vegans
 summary: "A bad first encounter is a good reason to dislike a person, not a reason to stop thinking about the question itself."
 tags: [advocacy, psychology]
 sources: []
-reviewed: false
+reviewed: true
 ---
 ## The objection at full strength
 

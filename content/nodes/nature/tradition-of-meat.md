@@ -6,7 +6,7 @@ parent: its-natural
 summary: "Tradition has real value, but it can't decide whether killing is justified; the full discussion is on the culture and tradition page."
 tags: [culture]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength

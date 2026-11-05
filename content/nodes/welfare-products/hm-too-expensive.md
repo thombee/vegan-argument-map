@@ -6,7 +6,7 @@ parent: humane-meat
 summary: "Cost and convenience are covered on their own pages; this is a bridge."
 tags: [bridge, cost]
 sources: []
-reviewed: false
+reviewed: true
 ---
 
 ## The objection at full strength
