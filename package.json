@@ -1,0 +1,21 @@
+{
+  "name": "vegan-argument-map",
+  "version": "0.1.0",
+  "description": "Every Objection: a debate map of arguments against veganism, each answered.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "linkcheck": "node scripts/linkcheck.mjs",
+    "serve": "node scripts/serve.mjs"
+  },
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "marked": "^18.1.3"
+  },
+  "private": true,
+  "engines": {
+    "node": ">=24"
+  }
+}
